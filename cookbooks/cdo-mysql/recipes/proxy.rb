@@ -28,11 +28,12 @@ end
 writer = URI.parse(node['cdo-secrets']['db_writer'] || 'mysql2://root@localhost/')
 writer.hostname = '127.0.0.1' if writer.hostname == 'localhost'
 reader = URI.parse((node['cdo-secrets']['db_reader'] || writer).to_s)
+reporting = URI.parse((node['cdo-secrets']['reporting_db_reader'] || reader).to_s)
 
 # If this is an Aurora cluster, resolve instance-endpoint hostnames
 # to help with instance auto-discovery.
 if (is_aurora = !!node['cdo-secrets']['db_cluster_id'])
-  [writer, reader].each {|server| server.host = get_cname(server.host)}
+  [writer, reader, reporting].each {|server| server.host = get_cname(server.host)}
 end
 
 admin = URI.parse(node['cdo-mysql']['proxy']['admin'])

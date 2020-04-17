@@ -75,7 +75,7 @@ mysql_variables=
 # https://github.com/sysown/proxysql/wiki/Main-(runtime)#mysql_servers
 mysql_servers =
 (
-<% [@writer, @reader].uniq.product([1, 2]).push([@writer, 0]).each do |server, hostgroup| -%>
+<% [@writer, @reader].uniq.product([1, 2]).push([@writer, 0], [@reporting, 3]).each do |server, hostgroup| -%>
   {
     address =        "<%= server.host %>"
     port =            <%= server.port || 3306 %>
