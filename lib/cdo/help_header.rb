@@ -70,6 +70,13 @@ class HelpHeader
     end
 
     entries << {
+      title: I18n.t("#{loc_prefix}report_abuse"),
+      url: "/report_abuse",
+      id: "report-abuse",
+      target: "_blank"
+    }
+
+    entries << {
       title: I18n.t("#{loc_prefix}help_support"),
       url: "https://support.code.org",
       id: "support",
