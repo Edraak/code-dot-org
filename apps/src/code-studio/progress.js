@@ -144,6 +144,7 @@ progress.renderStageProgress = function(
  * Render our progress on the course overview page.
  */
 progress.renderCourseProgress = function(scriptData) {
+  const startTime = Date.now();
   const store = getStore();
   initializeStoreWithProgress(store, scriptData, null, true);
 
@@ -189,6 +190,8 @@ progress.renderCourseProgress = function(scriptData) {
     </Provider>,
     mountPoint
   );
+  const endTime = Date.now();
+  console.log('renderCourseProgress', (endTime - startTime) / 1000.0);
 };
 
 /**
