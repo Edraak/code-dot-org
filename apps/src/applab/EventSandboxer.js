@@ -145,7 +145,17 @@ EventSandboxer.prototype.sandboxEvent = function(event) {
   // The element must have an element id for this to work.
   if (
     typeof mouseEvent.movementX !== 'undefined' &&
-    typeof mouseEvent.movementY !== 'undefined'
+    typeof mouseEvent.movementY !== 'undefined' &&
+    // In our headless JavaScript tests
+    // Always run the movementX/Y polyfill below
+    // Because:
+    //   1. Our tests use synthetic events that don't have realistic movementX/Y
+    //      properties filled in.
+    //   2. We still want to have test coverage of the polyfill code below since
+    //      we support browsers that do not support movementX/Y.
+    //   3. We run our unit tests on Chrome which makes it impossible to make a
+    //      malformed synthetic MouseEvent with undefined movementX/Y properties.
+    !IN_UNIT_TEST
   ) {
     // The browser supports movementX and movementY natively.
     newEvent.movementX = mouseEvent.movementX;
