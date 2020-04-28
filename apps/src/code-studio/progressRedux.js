@@ -285,7 +285,11 @@ export function processedStages(stages, isPlc) {
     }
     return {
       ..._.omit(stage, 'hidden'),
-      stageNumber
+      stageNumber,
+      levels: stage.levels.map(level => ({
+        ...level,
+        ids: level.ids || [level.activeId]
+      }))
     };
   });
 }
