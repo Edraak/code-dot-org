@@ -1,0 +1,13 @@
+---
+title: Copyright
+theme: responsive
+---
+:ruby
+  current_year = Time.now.year
+%h1=I18n.t('copyright.header')
+= I18n.t('copyright.thank_you', markdown: true).html_safe
+%p=I18n.t('copyright.help_from')
+= I18n.t('copyright.art_from', current_year: current_year, markdown: true).html_safe
+= I18n.t('copyright.code_from', markdown: true).html_safe
+%p=I18n.t('copyright.powered_by_aws')
+= I18n.t('copyright.trademark', current_year: current_year, markdown: true).html_safe

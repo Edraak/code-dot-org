@@ -4,15 +4,6 @@
   full_width = local_assigns[:full_width]
   channel = local_assigns[:channel]
 
-  menu_items = [
-    {
-      key: 'tos',
-      text: I18n.t('footer.tos'),
-      link: "https://code.org/tos",
-      newWindow: true
-    }
-  ]
-
   reactProps = {
     i18nDropdown: (view_options[:has_i18n] ? URI.encode(i18n_dropdown.to_str) : ''),
     privacyPolicyInBase: true,
@@ -20,7 +11,6 @@
     basePrivacyPolicyString: I18n.t('footer.privacy'),
     baseCopyrightString: I18n.t('footer.copyright'),
     baseMoreMenuString: I18n.t('footer.more'),
-    menuItems: menu_items,
     copyrightStrings: build_copyright_strings,
     # false because we're not rendering into a phone wireframe here
     phoneFooter: false,

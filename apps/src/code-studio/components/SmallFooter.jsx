@@ -1,17 +1,13 @@
 /* eslint-disable react/no-danger */
 import $ from 'jquery';
-import cookies from 'js-cookie';
-import _ from 'lodash';
 import PropTypes from 'prop-types';
 import React from 'react';
 import debounce from 'lodash/debounce';
-import SafeMarkdown from '@cdo/apps/templates/SafeMarkdown';
 
 const MenuState = {
   MINIMIZING: 'MINIMIZING',
   MINIMIZED: 'MINIMIZED',
-  EXPANDED: 'EXPANDED',
-  COPYRIGHT: 'COPYRIGHT'
+  EXPANDED: 'EXPANDED'
 };
 
 export default class SmallFooter extends React.Component {
@@ -19,28 +15,7 @@ export default class SmallFooter extends React.Component {
     // We let dashboard generate our i18n dropdown and pass it along as an
     // encode string of html
     i18nDropdown: PropTypes.string,
-    privacyPolicyInBase: PropTypes.bool.isRequired,
-    copyrightInBase: PropTypes.bool.isRequired,
-    copyrightStrings: PropTypes.shape({
-      thank_you: PropTypes.string.isRequired,
-      help_from_html: PropTypes.string.isRequired,
-      art_from_html: PropTypes.string.isRequired,
-      code_from_html: PropTypes.string.isRequired,
-      powered_by_aws: PropTypes.string.isRequired,
-      trademark: PropTypes.string.isRequired
-    }),
-    basePrivacyPolicyString: PropTypes.string,
-    baseCopyrightString: PropTypes.string,
-    baseMoreMenuString: PropTypes.string.isRequired,
     baseStyle: PropTypes.object,
-    menuItems: PropTypes.arrayOf(
-      PropTypes.shape({
-        text: PropTypes.string.isRequired,
-        link: PropTypes.string.isRequired,
-        copyright: PropTypes.bool,
-        newWindow: PropTypes.bool
-      })
-    ).isRequired,
     // True if we're displaying this inside a phone (real, or our wireframe)
     phoneFooter: PropTypes.bool,
     className: PropTypes.string,
@@ -100,44 +75,7 @@ export default class SmallFooter extends React.Component {
   }
 
   clickBase = () => {
-    if (this.props.copyrightInBase) {
-      // When we have multiple items in our base row, ignore clicks to the
-      // row that aren't on those particular items
-      return;
-    }
-
     this.clickBaseMenu();
-  };
-
-  clickBasePrivacyPolicy = () => {
-    if (this.props.privacyPolicyInBase) {
-      // When we have multiple items in our base row, ignore clicks to the
-      // row that aren't on those particular items
-      return;
-    }
-
-    this.clickBaseMenu();
-  };
-
-  clickBaseCopyright = e => {
-    e.preventDefault();
-
-    if (this.state.menuState === MenuState.MINIMIZING) {
-      return;
-    }
-
-    if (this.state.menuState === MenuState.COPYRIGHT) {
-      this.setState({menuState: MenuState.MINIMIZED});
-      return;
-    }
-
-    this.setState({menuState: MenuState.COPYRIGHT});
-    this.minimizeOnClickAnywhere();
-  };
-
-  clickMenuCopyright = event => {
-    this.setState({menuState: MenuState.COPYRIGHT});
-    this.minimizeOnClickAnywhere();
   };
 
   clickBaseMenu = () => {
@@ -170,31 +108,6 @@ export default class SmallFooter extends React.Component {
         width: '100%',
         boxSizing: 'border-box'
       },
-      privacy: {
-        color: '#0094ca'
-      },
-      copyright: {
-        display:
-          this.state.menuState === MenuState.COPYRIGHT ? 'block' : 'none',
-        position: 'absolute',
-        bottom: 0,
-        left: 0,
-        width: 650,
-        maxWidth: '50%',
-        minWidth: this.state.baseWidth
-      },
-      copyrightScrollArea: {
-        overflowY: 'auto',
-        maxHeight: this.props.phoneFooter ? 210 : undefined,
-        padding: '0.8em',
-        borderBottom: 'solid thin #e7e8ea',
-        marginBottom: this.state.baseHeight
-      },
-      moreMenu: {
-        display: this.state.menuState === MenuState.EXPANDED ? 'block' : 'none',
-        bottom: this.state.baseHeight,
-        width: this.state.baseWidth
-      },
       listItem: {
         height: this.props.rowHeight,
         // account for padding (3px on top and bottom) and bottom border (1px)
@@ -204,12 +117,6 @@ export default class SmallFooter extends React.Component {
           : undefined
       }
     };
-
-    const caretIcon =
-      this.state.menuState === MenuState.EXPANDED
-        ? 'fa fa-caret-down'
-        : 'fa fa-caret-up';
-
     const combinedBaseStyle = {
       ...styles.base,
       ...this.props.baseStyle,
@@ -229,121 +136,8 @@ export default class SmallFooter extends React.Component {
               __html: decodeURIComponent(this.props.i18nDropdown)
             }}
           />
-          <small>
-            {this.renderPrivacy(styles)}
-            {this.renderCopyright()}
-            <a
-              className="more-link"
-              href="javascript:void(0)"
-              onClick={this.clickBaseMenu}
-            >
-              {this.props.baseMoreMenuString + ' '}
-              <i className={caretIcon} />
-            </a>
-          </small>
         </div>
-        <div id="copyright-flyout" style={styles.copyright}>
-          <div id="copyright-scroll-area" style={styles.copyrightScrollArea}>
-            <SafeMarkdown
-              markdown={decodeURIComponent(
-                this.props.copyrightStrings.thank_you
-              )}
-            />
-            <p>{this.props.copyrightStrings.help_from_html}</p>
-            <SafeMarkdown
-              markdown={decodeURIComponent(
-                this.props.copyrightStrings.art_from_html
-              )}
-            />
-            <SafeMarkdown
-              markdown={decodeURIComponent(
-                this.props.copyrightStrings.code_from_html
-              )}
-            />
-            <p>{this.props.copyrightStrings.powered_by_aws}</p>
-            <SafeMarkdown
-              markdown={decodeURIComponent(
-                this.props.copyrightStrings.trademark
-              )}
-            />
-          </div>
-        </div>
-        {this.renderMoreMenu(styles)}
       </div>
-    );
-  }
-
-  renderPrivacy(styles) {
-    if (this.props.privacyPolicyInBase) {
-      return (
-        <span>
-          <a
-            className="privacy-link"
-            href="https://code.org/privacy"
-            target="_blank"
-            style={styles.privacy}
-            onClick={this.clickBasePrivacyPolicy}
-          >
-            {this.props.basePrivacyPolicyString}
-          </a>
-          &nbsp;&nbsp;|&nbsp;&nbsp;
-        </span>
-      );
-    }
-  }
-
-  renderCopyright() {
-    if (this.props.copyrightInBase) {
-      return (
-        <span>
-          <a
-            className="copyright-link"
-            href="#"
-            onClick={this.clickBaseCopyright}
-          >
-            {this.props.baseCopyrightString}
-          </a>
-          &nbsp;&nbsp;|&nbsp;&nbsp;
-        </span>
-      );
-    }
-  }
-
-  renderMoreMenu(styles) {
-    const userAlreadyReportedAbuse =
-      cookies.get('reported_abuse') &&
-      _.includes(JSON.parse(cookies.get('reported_abuse')), this.props.channel);
-
-    if (userAlreadyReportedAbuse) {
-      _.remove(this.props.menuItems, function(menuItem) {
-        return menuItem.key === 'report-abuse';
-      });
-    }
-
-    const menuItemElements = this.props.menuItems.map(
-      function(item, index) {
-        return (
-          <li
-            key={index}
-            style={styles.listItem}
-            className={`ui-test-${item.key}`}
-          >
-            <a
-              href={item.link}
-              ref={item.copyright ? 'menuCopyright' : undefined}
-              target={item.newWindow ? '_blank' : '_parent'}
-              onClick={item.copyright ? this.clickMenuCopyright : undefined}
-            >
-              {item.text}
-            </a>
-          </li>
-        );
-      }.bind(this)
-    );
-    return (
-      <ul id="more-menu" style={styles.moreMenu}>
-        {menuItemElements}
-      </ul>
     );
   }
 }

@@ -357,6 +357,10 @@ en:
       help_us: "Help Us"
       teach: "Teach"
       about: "About"
+      legal: "Legal"
+      legal_privacy: "Privacy Policy"
+      legal_tos: "Terms of Service"
+      legal_copyright: "Copyright"
 
     user:
       classroom: 'Teacher Home Page'
@@ -549,6 +553,43 @@ en:
   user_type:
     student: 'Student'
     teacher: 'Teacher'
+  copyright:
+    header: 'Copyright'
+    thank_you: 'We thank our [donors](https://code.org/about/donors),
+    [partners](https://code.org/about/partners), our [extended team](https://code
+    .org/about/team), our video cast, and our [education advisors](https://code
+    .org/about/advisors) for their support in creating
+     Code Studio.'
+    help_from: 'We especially want to recognize the engineers from Amazon,
+    Google, and Microsoft who helped create these materials.'
+    art_from: 'Minecraft&#8482; &copy; %{current_year} Microsoft. All Rights
+      Reserved.
+
+
+      Star Wars&#8482; &copy; %{current_year} Disney and Lucasfilm. All Rights
+      Reserved.
+
+
+      Frozen&#8482; &copy; %{current_year} Disney. All Rights Reserved.
+
+
+      Ice Age&#8482; &copy; %{current_year} 20th Century Fox. All Rights
+      Reserved.
+
+
+      Angry Birds&#8482; &copy; 2009-%{current_year} Rovio Entertainment Ltd.
+      All Rights Reserved.
+
+
+      Plants vs. Zombies&#8482; &copy; %{current_year} Electronic Arts Inc. All
+      Rights Reserved.
+
+
+      The Amazing World of Gumball is trademark and &copy; %{current_year}
+      Cartoon Network.'
+    code_from: 'Code.org uses p5.play, which is licensed under [the GNU LGPL 2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html)'
+    powered_by_aws: 'Powered by Amazon Web Services'
+    trademark: '&copy; Code.org, %{current_year}. Code.org&reg;, the CODE logo and Hour of Code&reg; are trademarks of Code.org.'
   footer:
     thank_you: 'We thank our <a href="https://code.org/about/donors">donors</a>, <a href="https://code.org/about/partners">partners</a>, our <a href="https://code.org/about/team">extended team</a>, our video cast, and our <a href="https://code.org/about/advisors">education advisors</a> for their support in creating Code Studio.'
     help_from_html: 'We especially want to recognize the engineers from Amazon, Google, and Microsoft who helped create these materials.'
