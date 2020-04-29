@@ -486,9 +486,40 @@ $codeApp-left-margin: 25px;
 $small-footer-horizontal-margin: 15px;
 
 /* Shared styles so flyout looks like footer */
-.small-footer-base {
-  color: $light_gray;
+.small-footer-base, #copyright-flyout {
+  background-color: $background_gray;
+  color: $dimgray;
   font-size: 14px;
+  a {
+    font-family: $gotham-bold;
+    font-weight: normal;
+    &:link {
+      color: $charcoal;
+      text-decoration: none;
+    }
+    &:visited {
+      color: $charcoal;
+      text-decoration: none;
+    }
+    &:hover {
+      color: $charcoal;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    &:active {
+      color: $charcoal;
+      background-color: transparent;
+      text-decoration: none;
+    }
+  }
+
+  select {
+    color: $charcoal;
+  }
+
+  h4 {
+    color: $dimgray;
+  }
 
   @media screen and (max-width: 1150px) {
     small {
@@ -521,12 +552,8 @@ $small-footer-horizontal-margin: 15px;
     margin-bottom: 0;
   }
 
-  small {
-    display: block;
-    float: right;
-    margin-right: $small-footer-horizontal-margin;
-    padding-top: 3px;
-    white-space: nowrap;
+  .copyright-icon, .i18n-dropdown-container {
+    align-self: center;
   }
 }
 
@@ -548,46 +575,10 @@ $small-footer-horizontal-margin: 15px;
   }
 }
 
-
-#more-menu {
-  display: none;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  /* Prevent default unordered-list style */
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-
-  & > li > a {
-    display: block;
-    padding: 3px $small-footer-horizontal-margin 3px $codeApp-left-margin;
-    border-bottom: solid thin $lightest_gray;
-
-    &:hover {
-      background-color: $dark_charcoal;
-      color: $lightest_gray;
-      text-decoration: none;
-    }
-  }
-
-  .dark & {
-    & > li > a {
-      &:hover {
-        background-color: $lightest_gray;
-        color: $dark_charcoal;
-      }
-    }
-  }
-}
-
 /* All three major components of .small-footer are stacked:
    Need to have this reasonably, high since some of our elements (such as
    applab editor) have higher values
 */
-#more-menu {
-  z-index: 998;
-}
 #copyright-flyout {
   z-index: 999;
 }

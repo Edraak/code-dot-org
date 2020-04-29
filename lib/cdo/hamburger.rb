@@ -172,7 +172,6 @@ class Hamburger
     legal_entries = [
       {title: "legal_privacy", url: CDO.code_org_url("/privacy")},
       {title: "legal_tos", url: CDO.code_org_url("/tos")},
-      {title: "legal_copyright", url: CDO.code_org_url("/copyright")},
     ].each do |entry|
       entry[:title] = I18n.t("#{loc_prefix}#{entry[:title]}")
     end.freeze

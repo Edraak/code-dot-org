@@ -352,14 +352,6 @@ When /^I (?:open|close) the small footer menu$/ do
   }
 end
 
-When /^I press menu item "([^"]*)"$/ do |menu_item_text|
-  menu_item_selector = "ul#more-menu a:contains(#{menu_item_text})"
-  steps %{
-    Then I wait until element "#{menu_item_selector}" is visible
-    And I click selector "#{menu_item_selector}"
-  }
-end
-
 When /^I press the settings cog$/ do
   cog_selector = '.settings-cog:visible'
   steps %{

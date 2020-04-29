@@ -220,6 +220,14 @@ body {
   background-color: transparent !important;
 }
 
+.small-footer-base, #copyright-flyout {
+  background-color: $footer-background;
+  color: $footer-text–and-arrow;
+  & a:hover {
+    color: white;
+  }
+}
+
 //.minecraft .modal a:hover {
 //  background: transparent;
 //}
