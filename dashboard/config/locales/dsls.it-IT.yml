@@ -1848,12 +1848,22 @@ it-IT:
           <br/><br/>
           Nella prossima lezione verranno presentate alcune linee guida per l'insegnamento dell'informatica nella tua classe.
       OPD-K5 Connect:
-        markdown: "> **Continue participating in the code.org teacher Professional
-          Learning Community:** The forum that you've been using throughout this course
-          will be a great resource for you moving forward. You can use it not only
-          to refer back to your learning from this course, but to find support as
-          you continue your journey, or even to offer support to others who need your
-          expertise. Be sure to bookmark it now and visit often: [http://forum.code.org/c/csf](http://forum.code.org/c/csf)
+        markdown: "# I prossimi passi > Rimaniamo in contatto\n\nOltre all'opportunità
+          di seguire ulteriori corsi di informatica, potresti considerare la possibilità
+          di unirti alle comunità di Code.org e Programma il Futuro per continuare
+          ad imparare in maniera informale dalle esperienze altrui o semplicemente
+          per trovare supporto ed un gruppo di colleghi ai quali riferirti.<br/><br/>\n\n-
+          **Continua a partecipare alla comunità degli insegnanti di Programma il
+          Futuro** -  Potrai usare il [forum italiano di Programma il Futuro](https://programmailfuturo.it/aiuto/forum-di-aiuto)
+          per condividere le tue strategie, porre quesiti, commentare le idee degli
+          altri insegnanti e mettere la tua esperienza al servizio di chi ha bisogno
+          di aiuto.<br/><br/>\n\nInoltre, se parli inglese...<br/><br/>\n\n> **Continue
+          participating in the code.org teacher Professional Learning Community:**
+          The forum that you've been using throughout this course will be a great
+          resource for you moving forward. You can use it not only to refer back to
+          your learning from this course, but to find support as you continue your
+          journey, or even to offer support to others who need your expertise. Be
+          sure to bookmark it now and visit often: [http://forum.code.org/c/csf](http://forum.code.org/c/csf)
           \ \n\n<br/>\n\n> **Connect with [@teachcode](http://twitter.com/teachcode)
           on Twitter.**  \n\n<br/>\n\n> **Join the computer science Teachers Association
           (CSTA):** [The CSTA](http://csta.acm.org/index.html) is an engaged community
@@ -2109,6 +2119,8 @@ it-IT:
           di [Fondamenti di informatica](http://studio.code.org/). Il vantaggio di
           questo corso è di darti in un breve lasso di tempo un primo assaggio di
           cosa ti aspetta, estraendo alcuni esercizi particolarmente rappresentativi."
+      OPD-K5 Reviewing Reflections:
+        content1: Descrizione qui
       OPD-K5 Stage10Start:
         markdown: |-
           # I prossimi passi > Riepiloghiamo
@@ -2257,6 +2269,8 @@ it-IT:
           che hai commentato nel forum, torna qui e clicca sul pulsante sottostante
           per proseguire.\nNella prossima lezione aggiungeremo complessità al nostro
           programma con l'introduzione dei cicli."
+      OPD-K5 Stage3aGo_copy:
+        content1: Descrizione qui
       OPD-K5 Stage4Go:
         markdown: |-
           # Cicli > Lezioni tradizionali
@@ -2342,12 +2356,12 @@ it-IT:
           Guarda il video per gli alunni - Istruzioni condizionali con le carte da
           gioco**\n<br/>\nPotresti far vedere ai tuoi alunni questo video che ti aiuta
           ad introdurre il concetto di istruzione condizionale ed iniziare la relativa
-          attività tradizionale. \n[![](https://images.code.org/3e6b0d2fc5a0beb4e6211d0571d190d3-image-1571253527382.18.41
+          attività tradizionale. \n[![](https://images.code.org/3899707f84b1f69360c98f73c5a9c640-image-1571253595879.19.37
           PM.png)](https://www.youtube.com/watch?v=UymN4lTL50s)\n<br/>\n[Non riesci
           a vedere il video? Clicca qui](http://videos.code.org/2014/C2-conditionals-with-cards.mp4)\n\n<br/><br/>\n**3.
           Guarda il video per l'insegnante su come proporre la lezione tradizionale
           \"Istruzioni condizionali con le carte da gioco\"**\n<br/>\nQuesto video
-          è fatto per fornire spunti agli insegnanti su come impostare la lezione.\n\n[![](https://images.code.org/3899707f84b1f69360c98f73c5a9c640-image-1571253595879.19.37
+          è fatto per fornire spunti agli insegnanti su come impostare la lezione.\n\n[![](https://images.code.org/3e6b0d2fc5a0beb4e6211d0571d190d3-image-1571253527382.18.41
           PM.png)](https://www.youtube.com/watch?v=2m2Rn9VxHfU)\n\n[Non riesci a vedere
           il video? Clicca qui](https://videos.code.org/levelbuilder/unplugged-lessoninaction-conditionalswithcards-mp4.mp4)\n\n<br/><br/>\n\n---\n\n>
           ## Riflessioni\n> Come spiegheresti il concetto di istruzione condizionale
@@ -2745,6 +2759,60 @@ it-IT:
           posting your initial plan, feel free to revisit [this thread](http://forum.code.org/t/teaching-computer-science-your-plans/412)
           in the future to update us on how things are going!\n\n<a href=\"http://forum.code.org/t/teaching-computer-science-your-plans/412\"
           target=\"blank\"><button class=\"plc\">Post your plan >></button></a>"
+      OPD-K5 conditionals introduced:
+        content1: Descrizione qui
+      OPD-K5 debugging:
+        content1: Descrizione qui
+      OPD-K5 diving deeper intro:
+        content1: Descrizione qui
+      OPD-K5 events introduced:
+        content1: Descrizione qui
+      OPD-K5 for loops:
+        content1: Descrizione qui
+      OPD-K5 for loops intro:
+        content1: Descrizione qui
+      OPD-K5 for loops introduction:
+        content1: Descrizione qui
+      OPD-K5 functions introduced:
+        content1: Descrizione qui
+      OPD-K5 journaling:
+        content1: Descrizione qui
+      OPD-K5 lesson implementation planning:
+        content1: Descrizione qui
+      OPD-K5 lesson plans:
+        content1: Descrizione qui
+      OPD-K5 loops introduced:
+        content1: Descrizione qui
+      OPD-K5 project:
+        content1: Descrizione qui
+      OPD-K5 projects introduction:
+        content1: Descrizione qui
+      OPD-K5 role_of_teacher:
+        content1: Descrizione qui
+      OPD-K5 sequencing introduced:
+        content1: Descrizione qui
+      OPD-K5 sprite lab:
+        content1: Descrizione qui
+      OPD-K5 sprite lab introduction:
+        content1: Descrizione qui
+      OPD-K5 sprite lab unplugged:
+        content1: Descrizione qui
+      OPD-K5 sprite lab video:
+        content1: Descrizione qui
+      OPD-K5 types of lessons:
+        content1: Descrizione qui
+      OPD-K5 using lesson plans:
+        content1: Descrizione qui
+      OPD-K5 variables:
+        content1: Descrizione qui
+      OPD-K5 variables introduction:
+        content1: Descrizione qui
+      OPD-K5 variables unplugged:
+        content1: Descrizione qui
+      OPD-K5 where to next:
+        content1: Descrizione qui
+      OPD-K5-projects-1:
+        content1: Descrizione qui
       OPD-Stage3Start:
         markdown: |-
           # Uno sguardo avanti > Sommario della lezione
@@ -3426,6 +3494,28 @@ it-IT:
             una volta. Se non c'è alcun fiore, l'ape non dovrebbe fare nulla. Dai
             un'occhiata al codice presente nell'area di lavoro. Cosa pensi che succederà
             quando cliccherai su "Esegui"?
+      courseD_multi_bee_conditionals1_predict1_copy:
+        answers:
+        - text: 'L''ape andrà fin sotto la nuvola e cercherà in ogni caso di prendere
+            una dose di nettare. '
+          feedback: Sbagliato. Grazie al blocco `se c'è un fiore`, l'ape prende il
+            nettare solo se c'è un fiore sotto alla nuvola.
+        - text: L'ape andrà fin sotto la nuvola e prenderà una dose di nettare solo
+            se lì sotto troverà un fiore.
+          correct: true
+          feedback: Corretto!
+        - text: 'L''ape andrà fin sotto la nuvola e non farà nulla in ogni caso. '
+          feedback: Sbagliato. Grazie al blocco `se c'è un fiore`, l'ape prende il
+            nettare se c'è un fiore sotto alla nuvola.
+        - text: Non lo so.
+          feedback: Grazie al blocco `se c'è un fiore`, l'ape prende il nettare solo
+            se c'è un fiore sotto alla nuvola.
+        questions:
+        - text: La nuvola sta bloccando la visuale. Potrebbe esserci un fiore sotto
+            questa nuvola. Se c'è un fiore, l'ape dovrebbe raccogliere il nettare
+            una volta. Se non c'è alcun fiore, l'ape non dovrebbe fare nulla. Dai
+            un'occhiata al codice presente nell'area di lavoro. Cosa pensi che succederà
+            quando cliccherai su "Esegui"?
       courseD_multi_bee_conditionals7_predict2:
         answers:
         - text: L'ape prenderà il nettare da ogni fiore e farà il miele in ogni favo.
@@ -4052,6 +4142,22 @@ it-IT:
         questions:
         - text: Cosa succederà quando cliccherai su "Esegui"?
       courseE_prediction_artistFunction1_2018_2019:
+        answers:
+        - text: Nulla. La funzione non viene richiamata nel programma.
+          feedback: Sbagliato. La funzione è richiamata due volte nel programma.
+        - text: L'artista disegnerà un solo quadrato.
+          feedback: Sbagliato. La funzione è richiamata due volte nel programma.
+        - text: L'artista disegnerà due quadrati sovrapposti.
+          feedback: Sbagliato. La lunghezza di ogni lato del quadrato è di soli 100
+            pixel, ma l'artista salta di 175 pixel tra una esecuzione di funzione
+            e la successiva.
+        - text: L'artista disegnerà due quadrati a poca distanza uno dall'altro.
+          correct: true
+          feedback: Corretto! La funzione è richiamata due volte nel programma, con
+            un salto in mezzo.
+        questions:
+        - text: Cosa succederà quando cliccherai su "Esegui"?
+      courseE_prediction_artistFunction1_copy:
         answers:
         - text: Nulla. La funzione non viene richiamata nel programma.
           feedback: Sbagliato. La funzione è richiamata due volte nel programma.
