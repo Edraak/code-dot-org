@@ -3517,3 +3517,93 @@ html[dir=rtl] {
     }
   }
 }
+
+// Edraak header look & feel
+$edraak-background-color: #157873;
+$edraak-box-shadow-color: rgba(0, 0, 0, 0.32);
+html {
+  .header-wrapper {
+    .header {
+      background-color: $edraak-background-color;
+      box-shadow: 0 5px 30px $edraak-box-shadow-color;
+      padding-top: 3px;
+      padding-bottom: 14px;
+    }
+  }
+
+  .header_level_container {
+    padding-top: 7px;
+  }
+
+  .header_logo {
+    width: 121px;
+  }
+
+  #codeApp.pin_bottom {
+    top: 88px;
+  }
+
+  #logo_home_link img {
+    min-width: 121px;
+  }
+}
+html[dir=rtl] {
+  .header-wrapper {
+    .header {
+      .header_left {
+        left: auto;
+        right: 10px;
+      }
+
+      .header_right {
+        right: auto;
+        left: 16px;
+        padding-top: 6px;
+
+        .help_button {
+          float: right;
+          padding-left: 0;
+          padding-right: 16px;
+
+          .help_contents {
+            right: unset;
+            left: 0;
+            text-align: right;
+          }
+        }
+      }
+    }
+
+    .header_button {
+      float: right;
+    }
+
+    .headerlinks.hide_on_tablet {
+      padding-top: 10px;
+    }
+  }
+
+  .user_menu.user_options,
+  .user_menu.create_options,
+  .user_menu.help_contents,
+  .create_menu.user_options,
+  .create_menu.create_options,
+  .create_menu.help_contents,
+  .help_button.user_options,
+  .help_button.create_options,
+  .help_button.help_contents {
+    left: 55px;
+    right: auto;
+  }
+
+  #hamburger {
+    float: left;
+    padding-left: 0;
+    padding-right: 16px;
+
+    #hamburger-contents {
+      right: auto;
+      left: 0;
+    }
+  }
+}

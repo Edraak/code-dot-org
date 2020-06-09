@@ -74,9 +74,9 @@
           .header_left
             .header_logo
               - if current_user
-                = link_to(image_tag('logo.png'), '/home', {id: "logo_home_link"})
+                = link_to(image_tag('https://www.edraak.org/static/images/logo-light-ar.png'), '/home', {id: "logo_home_link"})
               - else
-                = link_to(image_tag('logo.png'), CDO.code_org_url, {id: "logo_home_link"})
+                = link_to(image_tag('https://www.edraak.org/static/images/logo-light-ar.png'), CDO.code_org_url, {id: "logo_home_link"})
             .project_info
           .header_middle
             - if should_show_progress
@@ -137,3 +137,71 @@
 
 - content_for(:body_scripts) do
   %script{type: "text/javascript", src: webpack_asset_path('js/layouts/_header.js')}
+
+:javascript
+  // Set of hacks to implement lightweight login based on the edx-user-info cookie.
+  var EdraakCodeDotOrgHacks = function() {
+    var getCookieValue = function(name) {
+            // Get a cookie.
+            // Source: https://stackoverflow.com/a/25490531
+      var value = document.cookie.match('(^|;)\\s*' + name + '\\s*=\\s*([^;]+)');
+      return value ? value.pop() : '';
+    }
+
+    var getUserInfo = function () {
+      var edXUserInfoCookie = getCookieValue('edx-user-info');
+      if (edXUserInfoCookie) {
+        try {
+          return JSON.parse(JSON.parse(edXUserInfoCookie.replace(/\\054/g, ',')));
+        } catch (e) {
+          console.log(e);
+        }
+      }
+
+      return null;
+    }
+
+    var shouldAuthenticate = function() {
+      // Require authentication only on production and staging servers.
+      if (getUserInfo()) {
+        // Usable cookie was found no need for authentication.
+        return false;
+      } else {
+        if (location.origin.startsWith('https://code.') || location.origin.startsWith('http://code.')) {
+          return true;
+        } else {
+          alert(
+            'Edraak: edX User Cookie was not found. But skipping authentication anyway during development.'
+          );
+          return false;
+        }
+      }
+    }
+
+    var main = function() {
+      if (shouldAuthenticate()) {
+        var programsBase = location.origin.replace('://code.', '://programs.');
+        var loginUrl = programsBase + '/login/?next=' + encodeURIComponent(location.href);
+        location.href = loginUrl;
+        return  // Don't do anything else.
+      }
+
+      var userInfo = getUserInfo();
+      var headerButton = document.querySelector('#sign_in_or_user .header_button');
+      headerButton.innerHTML = (
+        "<span class='display_name' data-id='65145912' " +
+        "      data-shortname='" + userInfo.username + "'>" + userInfo.username + "</span> " +
+        "&nbsp; " +
+        "<i class='fa fa-caret-down user_menu_arrow_down'></i> " +
+        "<i class='fa fa-caret-up user_menu_arrow_up' style='display: none'></i> " +
+        "<div class='user_options' style='display: none'> " +
+        "    <a class='linktag' href='" + userInfo.header_urls.account_settings + "' id='user-edit'>حسابي</a> " +
+        "    <a class='linktag' href='" + userInfo.header_urls.logout + "' id='user-signout'>تسجيل الخروج</a> " +
+        "</div> "
+      );
+    };
+
+    main();
+  };
+
+  EdraakCodeDotOrgHacks();
