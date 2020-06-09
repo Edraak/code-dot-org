@@ -1213,8 +1213,7 @@ describe('entry tests', () => {
 
   grunt.registerTask('postbuild', [
     'newer:copy:static',
-    'newer:sass',
-    'compile-firebase-rules'
+    'newer:sass'
   ]);
 
   grunt.registerTask('build', [
