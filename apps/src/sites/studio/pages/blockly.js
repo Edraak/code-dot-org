@@ -22,8 +22,16 @@ Blockly.BlockSvg.prototype.renderDraw_ = function(iconWidth, inputRows) {
       'rect'
     );
     for (const rect_block of rect_blocks) {
+      var check_excluded = rect_block.getAttribute('fill');
       var current_transform = rect_block.getAttribute('transform');
-      if (!current_transform.includes(' scale(-1 1)')) {
+      if (
+        current_transform &&
+        !current_transform.includes(' scale(-1 1)') &&
+        !(
+          check_excluded &&
+          ['url(#pat_11A)', 'url(#pat_12A)'].indexOf(check_excluded) >= 0
+        )
+      ) {
         rect_block.setAttribute(
           'transform',
           current_transform + ' scale(-1 1)'
