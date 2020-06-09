@@ -209,6 +209,15 @@ class ScriptsControllerTest < ActionController::TestCase
     assert_response :ok
   end
 
+  test "should not be able to edit on levelbuilder in locale besides en-US" do
+    Rails.application.config.stubs(:levelbuilder_mode).returns true
+    sign_in @levelbuilder
+    with_default_locale(:de) do
+      get :edit, params: {id: 'course1'}
+    end
+    assert_redirected_to "/"
+  end
+
   test "should get edit on test" do
     CDO.stubs(:rack_env).returns(:test)
     Rails.application.config.stubs(:levelbuilder_mode).returns false
@@ -502,6 +511,44 @@ class ScriptsControllerTest < ActionController::TestCase
     assert_equal '2017', script.version_year
   end
 
+  test 'set_and_unset_teacher_resources' do
+    sign_in @levelbuilder
+    Rails.application.config.stubs(:levelbuilder_mode).returns true
+
+    script = create :script
+    File.stubs(:write).with {|filename, _| filename == "config/scripts/#{script.name}.script" || filename.end_with?('scripts.en.yml')}
+
+    # Test doing this twice because teacher_resources in particular is set via its own code path in update_teacher_resources,
+    # which can cause incorrect behavior if it is removed during the Script.add_script while being added via the
+    # update_teacher_resources during the same call to Script.update_text
+    2.times do
+      post :update, params: {
+        id: script.id,
+        script: {name: script.name},
+        script_text: '',
+        resourceTypes: ['curriculum', 'something_else'],
+        resourceLinks: ['/link/to/curriculum', 'link/to/something_else']
+      }
+      assert_response :redirect
+      script.reload
+
+      assert_equal [['curriculum', '/link/to/curriculum'], ['something_else', 'link/to/something_else']], script.teacher_resources
+    end
+
+    # Unset the properties.
+    post :update, params: {
+      id: script.id,
+      script: {name: script.name},
+      script_text: '',
+      resourceTypes: [''],
+      resourceLinks: ['']
+    }
+    assert_response :redirect
+    script.reload
+
+    assert_nil script.teacher_resources
+  end
+
   test 'set and unset all general_params' do
     sign_in @levelbuilder
     Rails.application.config.stubs(:levelbuilder_mode).returns true
@@ -510,13 +557,13 @@ class ScriptsControllerTest < ActionController::TestCase
     File.stubs(:write).with {|filename, _| filename == "config/scripts/#{script.name}.script" || filename.end_with?('scripts.en.yml')}
 
     # Set most of the properties.
-    # omitted: professional_learning_course, script_announcements, resourceTypes, resourceLinks because
+    # omitted: professional_learning_course, script_announcements because
     # using fake values doesn't seem to work for them.
     general_params = {
-      hideable_stages: 'on',
+      hideable_lessons: 'on',
       project_widget_visible: 'on',
       student_detail_progress_view: 'on',
-      stage_extras_available: 'on',
+      lesson_extras_available: 'on',
       has_verified_resources: 'on',
       has_lesson_plan: 'on',
       is_stable: 'on',
@@ -580,7 +627,7 @@ class ScriptsControllerTest < ActionController::TestCase
     assert_empty script.lessons
 
     script_text = <<~SCRIPT_TEXT
-      stage 'stage 1'
+      lesson 'stage 1'
       level '#{level.name}'
     SCRIPT_TEXT
 
@@ -729,7 +776,7 @@ class ScriptsControllerTest < ActionController::TestCase
 
     get :show, params: {id: 'course1'}
     assert_response :success
-    refute response.body.include? 'The lesson Stage 1 will be visible after'
+    refute response.body.include? 'visible after'
   end
 
   test "levelbuilder does not see visible after warning if stage has visible_after property that is in the past" do
@@ -742,7 +789,7 @@ class ScriptsControllerTest < ActionController::TestCase
 
     get :show, params: {id: 'test-fixture-visible-after'}
     assert_response :success
-    refute response.body.include? 'The lesson Stage 1 will be visible after'
+    refute response.body.include? 'visible after'
     Timecop.return
   end
 
@@ -756,7 +803,7 @@ class ScriptsControllerTest < ActionController::TestCase
 
     get :show, params: {id: 'test-fixture-visible-after'}
     assert_response :success
-    assert response.body.include? 'The lesson stage 1 will be visible after'
+    assert response.body.include? 'The lesson lesson 1 will be visible after'
     Timecop.return
   end
 
@@ -770,7 +817,7 @@ class ScriptsControllerTest < ActionController::TestCase
 
     get :show, params: {id: 'test-fixture-visible-after'}
     assert_response :success
-    refute response.body.include? 'The lesson Stage 1 will be visible after'
+    refute response.body.include? 'visible after'
     Timecop.return
   end
 
@@ -784,7 +831,7 @@ class ScriptsControllerTest < ActionController::TestCase
 
     get :show, params: {id: 'test-fixture-visible-after'}
     assert_response :success
-    refute response.body.include? 'The lesson Stage 1 will be visible after'
+    refute response.body.include? 'visible after'
     Timecop.return
   end
 end

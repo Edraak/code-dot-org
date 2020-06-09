@@ -374,7 +374,9 @@ P5Lab.prototype.init = function(config) {
 
   var showDebugButtons =
     config.level.editCode &&
-    (!config.hideSource && !config.level.debuggerDisabled);
+    (!config.hideSource &&
+      !config.level.debuggerDisabled &&
+      !config.level.iframeEmbedAppAndCode);
   var showDebugConsole = config.level.editCode && !config.hideSource;
   this.debuggerEnabled = showDebugButtons || showDebugConsole;
 
@@ -879,11 +881,6 @@ P5Lab.prototype.onPuzzleComplete = function(submit, testResult, message) {
         onComplete
       });
     }
-
-    if (this.studioApp_.isUsingBlockly()) {
-      // reenable toolbox
-      Blockly.mainBlockSpaceEditor.setEnableToolbox(true);
-    }
   };
 
   sendReport();
@@ -958,11 +955,6 @@ P5Lab.prototype.execute = function() {
     this.executionError
   ) {
     return;
-  }
-
-  if (this.studioApp_.isUsingBlockly()) {
-    // Disable toolbox while running
-    Blockly.mainBlockSpaceEditor.setEnableToolbox(false);
   }
 
   this.startTickTimer();
