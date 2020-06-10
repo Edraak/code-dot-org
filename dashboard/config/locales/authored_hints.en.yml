@@ -6446,7 +6446,7 @@ en:
         courseA_harvester_seq9_c: You should take this path to pick all the corn.
       courseA_maze_ramp2_2018_authored_hint:
         '1': |-
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -6462,7 +6462,7 @@ en:
           </xml>
       courseA_maze_ramp2_2019_authored_hint:
         '1': |-
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -6482,7 +6482,7 @@ en:
         courseC_maze_programming3_a: "![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)\n\nTo delete a block from the middle of your code, drag all of the blocks underneath it away to the right and let them sit in the workspace for a while.  \n\nClick on the block you want to delete, and drag it back to the toolbox.\n\nFinally, put your other blocks back in place where they belong.\n"
       courseA_maze_ramp3a_2018_authored_hint:
         '1': |
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -6501,7 +6501,7 @@ en:
           </xml>
       courseA_maze_ramp3a_2019_authored_hint:
         '1': |
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -6520,7 +6520,7 @@ en:
           </xml>
       courseA_maze_ramp3b_2018_authored_hint:
         '1': |
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -6539,7 +6539,7 @@ en:
           </xml>
       courseA_maze_ramp3b_2019_authored_hint:
         '1': |
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -6561,7 +6561,7 @@ en:
         courseC_maze_programming4_b: To follow the path, move forward and turn one way, then move again and turn the opposite way. Move forward one more time to reach the pig.
       courseA_maze_ramp4a_2018_authored_hint:
         '1': |-
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -6580,7 +6580,7 @@ en:
           </xml>
       courseA_maze_ramp4a_2019_authored_hint:
         '1': |-
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -6603,7 +6603,7 @@ en:
         courseC_maze_programming5_c: Don't be afraid to make a mistake! Try adding blocks and running the code to see what will happen, even if you don't think you've solved the puzzle yet.
       courseA_maze_ramp5a_2018_authored_hint:
         '1': |-
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -6619,7 +6619,7 @@ en:
           </xml>
       courseA_maze_ramp5a_2019_authored_hint:
         '1': |-
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7141,7 +7141,7 @@ en:
         '2': Don't be afraid to make a mistake! Try something, and if it doesn't work, try something else!
       courseB_Scrat_ramp2_2018_authored_hint:
         '1': |-
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7157,7 +7157,7 @@ en:
           </xml>
       courseB_Scrat_ramp2_2019_authored_hint:
         '1': |-
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7173,7 +7173,7 @@ en:
           </xml>
       courseB_Scrat_ramp3a_2018_authored_hint:
         '1': |
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7192,7 +7192,7 @@ en:
           </xml>
       courseB_Scrat_ramp3a_2019_authored_hint:
         '1': |
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7211,7 +7211,7 @@ en:
           </xml>
       courseB_Scrat_ramp3b_2018_authored_hint:
         '1': |
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7230,7 +7230,7 @@ en:
           </xml>
       courseB_Scrat_ramp3b_2019_authored_hint:
         '1': |
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7249,7 +7249,7 @@ en:
           </xml>
       courseB_Scrat_ramp4a_2018_authored_hint:
         '1': |-
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7268,7 +7268,7 @@ en:
           </xml>
       courseB_Scrat_ramp4a_2019_authored_hint:
         '1': |-
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7287,7 +7287,7 @@ en:
           </xml>
       courseB_Scrat_ramp5a_2018_authored_hint:
         '1': |-
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
@@ -7303,7 +7303,7 @@ en:
           </xml>
       courseB_Scrat_ramp5a_2019_authored_hint:
         '1': |-
-          Your code should look like this:
+          يجب أن يبدو الكود هكذا:
 
           <xml>
             <block type="when_run" deletable="false" movable="false">
