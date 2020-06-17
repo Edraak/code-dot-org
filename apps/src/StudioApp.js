@@ -431,14 +431,16 @@ StudioApp.prototype.init = function(config) {
 
   this.alertIfCompletedWhilePairing(config);
 
-  // If we are in a non-english locale using our english-specific app
-  // (the Spelling Bee), display a warning.
-  if (config.locale !== 'en_us' && config.skinId === 'letters') {
-    this.displayWorkspaceAlert(
-      'error',
-      <div>{msg.englishOnlyWarning({nextStage: config.stagePosition + 1})}</div>
-    );
-  }
+  // Edraak Specific: Do not display the (english-only warning message)
+  // // If we are in a non-english locale using our english-specific app
+  // // (the Spelling Bee), display a warning.
+  // if (config.locale !== 'en_us' && config.skinId === 'letters') {
+  //   this.displayWorkspaceAlert(
+  //     'error',
+  //     <div>{msg.englishOnlyWarning({nextStage: config.stagePosition + 1})}</div>
+  //   );
+  // }
+  // End of Edraak Specific
 
   window.addEventListener('resize', this.onResize.bind(this));
   window.addEventListener(RESIZE_VISUALIZATION_EVENT, e => {
