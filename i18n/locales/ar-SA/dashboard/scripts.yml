@@ -666,13 +666,13 @@ ar:
             Jigsaw:
               name: بانوراما
         step:
-          title: الخطوة
+          title: جرب خطوة
           stages:
             Step:
-              name: الخطوة
+              name: جرب خطوة
           lessons:
             Step:
-              name: الخطوة
+              name: جرب خطوة
         Hour of Code:
           title: ساعة من البرمجة 2013
           description_short: جرب تعلم مبادئ الحاسب الآلي من خلال الغديد من الشخصيات الممتعة!
