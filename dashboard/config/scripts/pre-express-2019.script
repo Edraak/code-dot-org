@@ -8,7 +8,7 @@ project_widget_types ["playlab_k1", "artist_k1"]
 family_name 'pre-express'
 version_year '2019'
 is_stable true
-supported_locales ["cs-CZ", "es-MX", "fr-FR", "sk-SK", "zh-CN"]
+supported_locales ["ar-SA"]
 curriculum_umbrella 'CSF'
 tts true
 
@@ -73,20 +73,6 @@ level 'courseA_maze_seq12_2019'
 level 'courseA_maze_seq13_2019'
 bonus 'courseA_maze_seq_challenge1_2019'
 bonus 'courseA_maze_seq_challenge2_2019'
-
-lesson 'Programming with Rey and BB-8'
-level 'bb8_skinOverview_K-1_video_2019'
-level 'courseB_starWars_prog1_2019'
-level 'courseB_starWars_prog2_2019'
-level 'courseB_starWars_prog3_2019'
-level 'courseB_starWars_prog4_2019'
-level 'courseB_starWars_prog5_2019'
-level 'courseB_starWars_prog6_2019'
-level 'courseB_starWars_prog7_2019'
-level 'courseB_starWars_prog8_2019', challenge: true
-level 'courseB_starWars_prog9_2019'
-level 'courseB_starWars_prog10_2019'
-level 'courseB_starWars_prog11_2019'
 
 lesson 'Programming in Harvester'
 level 'courseA_harvester_intro_2019'
