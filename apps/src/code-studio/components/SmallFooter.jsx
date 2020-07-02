@@ -202,7 +202,7 @@ export default class SmallFooter extends React.Component {
               style={combinedBaseStyle}
               onClick={this.clickBase}
           >
-            {this.renderI18nDropdown()}
+            {/*{this.renderI18nDropdown()}*/}
             {this.renderCopyright()}
             {this.renderMoreMenuButton()}
           </div>
