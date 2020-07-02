@@ -34,10 +34,10 @@ const styles = {
     // pill has height of 18, border of 2, padding of 6, margin of 3
     top: (18 + 4 + 12 + 6 - 10) / 2
   },
-  backgroundFirst: {
+  backgroundLast: {
     left: 15
   },
-  backgroundLast: {
+  backgroundFirst: {
     right: 15
   },
   container: {
