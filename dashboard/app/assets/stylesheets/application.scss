@@ -3612,3 +3612,174 @@ html[dir=rtl] {
 .svgDragCanvas {
   direction: ltr;
 };
+
+// Edraak's site footer
+@import "edraak_fonts/edraak_fonts";
+$lightBg: #fafbfc;
+$break-tablet: 992px;
+$break-tablet-min: 991px;
+$break-mobile: 767px;
+$font-color: #5d5e70;
+.wrapper {
+  margin-bottom: 0;
+  >.push {
+    display: none;
+  }
+}
+.edraak-site-footer {
+  padding-top: 36px;
+  padding-bottom: 26px;
+  background: $lightBg;
+  display: block;
+  overflow: hidden;
+  min-width: 760px;
+  width: 100%;
+  outline: 0;
+  box-shadow: none;
+  text-shadow: none;
+  box-sizing: border-box;
+
+  [class^="icomoon-"] {
+    color: #a5a7aa;
+  }
+
+  .edraak-container {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: auto;
+    margin-left: auto;
+
+    @media(max-width: $break-tablet) {
+      width: 750px;
+    }
+    @media(max-width: $break-mobile) {
+      width: 100%;
+      padding-right: 0; // Supports RTL only
+    }
+    @media (min-width: 1200px) {
+      width: 1024px;
+    }
+
+    .edraak-row {
+      margin-left: -15px;
+      margin-right: -15px;
+
+      .edraak-section-social {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-pack: center;
+        justify-content: center;
+        align-content: center;
+        -ms-flex-direction: column;
+        flex-direction: column;
+      }
+
+      .ul.social {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-align: center;
+        align-items: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        margin-bottom: 10px;
+      }
+
+      .edraak-col-sm-3 {
+        width: 25%;
+        float: right;
+        position: relative;
+        min-height: 1px;
+
+        ul {
+          list-style: none;
+          margin: 0;
+
+          li {
+            margin-bottom: 0;
+            padding-right: 45px; // Supports RTL only
+            @media (max-width: $break-tablet) {
+              padding-right: 23px; // Supports RTL only
+            }
+            @media (max-width: $break-mobile) {
+              display: block;
+              padding: 0;
+              text-align: center;
+              width: 100%;
+            }
+
+            a {
+              font-size: 12px;
+              color: $font-color;
+              font-weight: bold;
+            }
+          }
+
+          &.edraak-social {
+            li {
+              display: inline-block !important;
+              width: auto;
+              padding-left: 18px; // Supports RTL only
+              padding-right: 0; // Supports RTL only
+              margin-bottom: 10px;
+              @media (max-width: $break-tablet) {
+                padding-right: 10px; // Supports RTL only
+              }
+              @media (max-width: $break-mobile) {
+                padding: 0 5px;
+              }
+
+              a {
+                font-size: 20px;
+                @media (max-width: $break-tablet) {
+                  font-size: 15px;
+                }
+                @media (max-width: $break-mobile) {
+                  font-size: 18px;
+                }
+                &:hover {
+                  text-decoration-line: none;
+                }
+                i:hover {
+                  color: #4C6373;
+                }
+              }
+            }
+
+            @media (max-width: $break-mobile) {
+              text-align: center;
+            }
+          }
+        }
+
+        @media (max-width: $break-mobile) {
+          span {
+            display: none;
+            margin-top: 10px;
+          }
+        }
+
+        .edraak-copy {
+          text-align: right; // Supports RTL only
+          padding-right: 10px; // Supports RTL only
+          padding-left: 0; // Supports RTL only
+          font-size: 12px;
+          @media(max-width: $break-tablet-min) {
+            padding-right: 10px; // Supports RTL only
+          }
+          @media(max-width: $break-mobile) {
+            text-align: center;
+            padding-right: 0; // Supports RTL only
+
+            img {
+              margin-bottom: 0;
+            }
+          }
+
+          div {
+            padding: inherit;
+          }
+        }
+      }
+    }
+  }
+}
