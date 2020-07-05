@@ -3519,8 +3519,12 @@ html[dir=rtl] {
 }
 
 // Edraak header look & feel
-$edraak-background-color: #157873;
+$edraak-background-color: #FFF;
 $edraak-box-shadow-color: rgba(0, 0, 0, 0.32);
+$edraak-header_text: #0f0f0f;
+$edraak-button-color: #0ca7aa;
+$edraak-user-menu-color: #ececec;
+$edraak-user-menu-color-highlighted: #f5f5f5;
 html {
   .header-wrapper {
     .header {
@@ -3528,11 +3532,55 @@ html {
       box-shadow: 0 5px 30px $edraak-box-shadow-color;
       padding-top: 3px;
       padding-bottom: 14px;
+
+      a, a:link, a:visited{
+        color: $edraak-header_text;
+      }
+    }
+  }
+
+  #sign_in_or_user {
+    >.header_button.header_user.user_menu {
+      border-radius: 25px;
+      border-color: $edraak-button-color;
+      background-color: $edraak-button-color;
+
+      .user_options {
+        font-size: 12px;
+        background-color: $edraak-user-menu-color;
+        border-color: $edraak-user-menu-color;
+        border-radius: 10px;
+        border-width: 5px;
+        min-width: 150px;
+        padding: 10px;
+
+        >a {
+          border: none;
+          background-color: transparent;
+          padding: 3px 20px;
+          &:hover {
+            background-color: $edraak-user-menu-color-highlighted;
+          }
+        }
+      }
     }
   }
 
   .header_level_container {
     padding-top: 7px;
+
+    .header_popup_link_text {
+      color: $edraak-header_text;
+    }
+
+    .header_popup_link_glyph {
+      color: $edraak-button-color
+    }
+
+    .uitest-bubble:hover {
+      background-color: $edraak-button-color !important;
+      border-color: $edraak-button-color !important;;
+    }
   }
 
   .header_logo {
@@ -3583,17 +3631,18 @@ html[dir=rtl] {
     }
   }
 
-  .user_menu.user_options,
-  .user_menu.create_options,
-  .user_menu.help_contents,
-  .create_menu.user_options,
-  .create_menu.create_options,
-  .create_menu.help_contents,
-  .help_button.user_options,
-  .help_button.create_options,
-  .help_button.help_contents {
-    left: 55px;
+  .user_menu .user_options,
+  .user_menu .create_options,
+  .user_menu .help_contents,
+  .create_menu .user_options,
+  .create_menu .create_options,
+  .create_menu .help_contents,
+  .help_button .user_options,
+  .help_button .create_options,
+  .help_button .help_contents {
+    left: 10px;
     right: auto;
+    text-align: right;
   }
 
   #hamburger {
