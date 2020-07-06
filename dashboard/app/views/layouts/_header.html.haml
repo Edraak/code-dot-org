@@ -73,32 +73,37 @@
         .row.header_row
           .header_left
             .header_logo
-              - if current_user
-                = link_to(image_tag('https://www.edraak.org/static/images/logo-light-ar.png'), '/home', {id: "logo_home_link"})
-              - else
-                = link_to(image_tag('https://www.edraak.org/static/images/logo-light-ar.png'), CDO.code_org_url, {id: "logo_home_link"})
+              // Edraak Logo
+              //- if current_user
+              //  = link_to(image_tag('https://www.edraak.org/static/images/logo-light-ar.png'), '/home', {id: "logo_home_link"})
+              //- else
+              //  = link_to(image_tag('https://www.edraak.org/static/images/logo-light-ar.png'), CDO.code_org_url, {id: "logo_home_link"})
+              = link_to(image_tag('https://www.edraak.org/static/images/logo-dark-ar.png'), '/', {id: "logo_home_link"})
             .project_info
           .header_middle
             - if should_show_progress
               = render partial: 'shared/header_progress'
-            - elsif level
-            - else
-              .headerlinks.hide_on_tablet
-                - Hamburger.get_header_contents(header_contents_options).each do |entry|
-                  %a.headerlink{id: entry[:id], href: entry[:url]}= entry[:title]
+            // Removed in Edraak header
+            //- elsif level
+            //- else
+            //  .headerlinks.hide_on_tablet
+            //    - Hamburger.get_header_contents(header_contents_options).each do |entry|
+            //     %a.headerlink{id: entry[:id], href: entry[:url]}= entry[:title]
 
           .header_right
-            - if !@hide_sign_in_option && signin_button_enabled
-              %span#sign_in_or_user
-                = render file: Rails.root.join('..', 'shared', 'haml', 'user_header.haml'), locals: user_header_options
-            = render file: Rails.root.join('..', 'shared', 'haml', 'help_button.haml'), locals: hamburger_options
-            = render file: Rails.root.join('..', 'shared', 'haml', 'hamburger.haml'), locals: hamburger_options
+            // Edited to match Edraak header
+            //- if !@hide_sign_in_option && signin_button_enabled
+            //  %span#sign_in_or_user
+            //    = render file: Rails.root.join('..', 'shared', 'haml', 'user_header.haml'), locals: user_header_options
+            //= render file: Rails.root.join('..', 'shared', 'haml', 'help_button.haml'), locals: hamburger_options
+            //= render file: Rails.root.join('..', 'shared', 'haml', 'hamburger.haml'), locals: hamburger_options
+            %span#sign_in_or_user
+              = render file: Rails.root.join('..', 'shared', 'haml', 'user_header.haml'), locals: user_header_options
 
 - if request.path == "/home"
   #header-banner{class: "header-banner-short", style: 'background-image: url("/shared/images/banners/teacher-homepage-hero.jpg")'}
 - elsif request.path == "/courses"
   #header-banner.header-banner-courses{class: user_type ? "header-banner-short" : "", style: "background-image: url(\"/shared/images/banners/#{@header_banner_image_filename}.jpg\")"}
-
 - if ["/projects", "/projects/public", "/projects/libraries"].include? request.path
   #header-banner.header-banner-short{style: 'background-image: url("/shared/images/banners/project-banner.jpg")'}
 
@@ -156,9 +161,18 @@
         } catch (e) {
           console.log(e);
         }
+      } else if (location.origin.startsWith('https://code.') || location.origin.startsWith('http://code.')) {
+        return null;
+      } else {
+        return {
+          "username": "dev_user",
+          "version": 1,
+          "enrollmentStatusHash": "95eb2335a1f96bdd456ce1306c1aa57b",
+          "header_urls": {
+            "logout": "https://courses.edraak.org/logout",
+            "account_settings": "https://courses.edraak.org/account/settings"}
+        };
       }
-
-      return null;
     }
 
     var shouldAuthenticate = function() {
@@ -166,37 +180,30 @@
       if (getUserInfo()) {
         // Usable cookie was found no need for authentication.
         return false;
-      } else {
-        if (location.origin.startsWith('https://code.') || location.origin.startsWith('http://code.')) {
-          return true;
-        } else {
-          alert(
-            'Edraak: edX User Cookie was not found. But skipping authentication anyway during development.'
-          );
-          return false;
-        }
       }
+      return true;
     }
 
     var main = function() {
       if (shouldAuthenticate()) {
         var programsBase = location.origin.replace('://code.', '://programs.');
-        var loginUrl = programsBase + '/login/?next=' + encodeURIComponent(location.href);
-        location.href = loginUrl;
+        location.href = programsBase + '/login/?next=' + encodeURIComponent(location.href);
         return  // Don't do anything else.
       }
 
       var userInfo = getUserInfo();
-      var headerButton = document.querySelector('#sign_in_or_user .header_button');
+      var headerButton = document.querySelector('.header_right>#sign_in_or_user');
       headerButton.innerHTML = (
+        "<div class='header_button header_user user_menu'> " +
         "<span class='display_name' data-id='65145912' " +
         "      data-shortname='" + userInfo.username + "'>" + userInfo.username + "</span> " +
         "&nbsp; " +
         "<i class='fa fa-caret-down user_menu_arrow_down'></i> " +
         "<i class='fa fa-caret-up user_menu_arrow_up' style='display: none'></i> " +
         "<div class='user_options' style='display: none'> " +
-        "    <a class='linktag' href='" + userInfo.header_urls.account_settings + "' id='user-edit'>حسابي</a> " +
+        "    <a class='linktag' href='" + userInfo.header_urls.account_settings + "' id='user-edit'>إعدادات الحساب</a> " +
         "    <a class='linktag' href='" + userInfo.header_urls.logout + "' id='user-signout'>تسجيل الخروج</a> " +
+        "</div> " +
         "</div> "
       );
     };

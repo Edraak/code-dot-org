@@ -1,0 +1,14 @@
+$static-prefix: '';
+$edraak-icons-prefix: '/fonts/edraak-icons';
+@import 'icomoon-icons';
+
+.svg-icon-arageek {
+  background-image: url("#{$static-prefix}/fonts/icons/arageek.svg");
+  background-size: cover;
+  height: 18px;
+  width: 18px;
+  display: inline-block;
+  opacity: .7;
+  vertical-align: middle;
+  margin-bottom: 6px;
+}
