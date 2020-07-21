@@ -79,7 +79,7 @@
               //- else
               //  = link_to(image_tag('https://www.edraak.org/static/images/logo-light-ar.png'), CDO.code_org_url, {id: "logo_home_link"})
               = link_to(image_tag('https://www.edraak.org/static/images/logo-dark-ar.png'), '/', {id: "logo_home_link"})
-            .project_info
+              // .project_info
           .header_middle
             - if should_show_progress
               = render partial: 'shared/header_progress'
@@ -201,7 +201,7 @@
         "<i class='fa fa-caret-down user_menu_arrow_down'></i> " +
         "<i class='fa fa-caret-up user_menu_arrow_up' style='display: none'></i> " +
         "<div class='user_options' style='display: none'> " +
-        "    <a class='linktag' href='" + userInfo.header_urls.account_settings + "' id='user-edit'>إعدادات الحساب</a> " +
+        // "    <a class='linktag' href='" + userInfo.header_urls.account_settings + "' id='user-edit'>إعدادات الحساب</a> " +
         "    <a class='linktag' href='" + userInfo.header_urls.logout + "' id='user-signout'>تسجيل الخروج</a> " +
         "</div> " +
         "</div> "
