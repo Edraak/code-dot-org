@@ -98,7 +98,7 @@ Promote your Hour of Code [with these tools]({{ urls/promote_resources }}) and e
 ## 給教師的其他一小時玩程式活動資源：
 
 - 造訪[一小時玩程式的教師論壇](http://forum.code.org/c/plc/hour-of-code)，從其他教師身上獲得建議與支援。
-- 觀看[一小時玩程式的常見問答](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code)。
+- 觀看[一小時玩程式的常見問答](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code)。
 
 ## Hour of Code之後有什麼？
 

@@ -175,7 +175,7 @@ export default class DonorTeacherBanner extends Component {
     };
 
     const schoolLink =
-      'https://support.code.org/hc/en-us/articles/360031291431-What-does-school-information-refer-to-';
+      'https://help.edraak.org/hc/en-us/articles/360031291431-What-does-school-information-refer-to-';
     const amazonLink =
       'https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496';
 

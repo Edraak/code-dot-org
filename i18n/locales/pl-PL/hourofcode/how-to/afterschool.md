@@ -75,7 +75,7 @@ Rozpocznij Godzinę Kodowania inspirując uczestników i dyskutując, jaki jest 
 - Sprawdź [najlepsze praktyki](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) organizatorów poprzednich Godzin Kodowania.
 - Obejrzyj nagranie z naszego szkolenia online [Wprowadzenie dla nauczycieli prowadzących Godzinę Kodowania](https://youtu.be/EJeMeSW2-Mw).
 - Odwiedź [Forum Godziny Kodowania](http://forum.code.org/c/plc/hour-of-code), aby znaleźć porady, wyjaśnienia i wsparcie od innych organizatorów.
-- Przejrzyj [FAQ Godziny Kodowania](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Przejrzyj [FAQ Godziny Kodowania](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## Co będzie się działo po Godzinie Kodowania?
 

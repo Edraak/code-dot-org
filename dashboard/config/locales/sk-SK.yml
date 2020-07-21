@@ -660,7 +660,7 @@ sk:
     feedback: Poskytnúť spätnú väzbu
     translate: Pomôžte nám s prekladom do vášho jazyka
     support: Podpora
-    support_url: http://support.code.org/
+    support_url: http://help.edraak.org/
     tos_short: Podmienky
     tos: Podmienky používania služby
     privacy: Zásady ochrany súkromia
@@ -839,7 +839,7 @@ sk:
       a vylepšení, ktoré sú vykonané na základe pripomienok.
     report_bug: Nahlásiť chybu
     support: Získať pomoc
-    support_url: support.code.org
+    support_url: help.edraak.org
     help_resources: Pomoc a Zdroje
     help_support: Pomoc a podpora
     documentation: Dokumentácia
@@ -984,11 +984,11 @@ sk:
     submit: Odoslať
     decline: Zatvoriť
   zendesk_too_young_message: Prepáč, mladší užívatelia sa nemôžu prihlásiť na našu
-    stránku podpory. Môžeš si prezerať <a href="http://support.code.org">support.code.org</a>
+    stránku podpory. Môžeš si prezerať <a href="http://help.edraak.org">help.edraak.org</a>
     bez prihlásenia, alebo požiadaj svojich rodičov alebo učiteľa, aby nás za teba
     kontaktovali.
   zendesk_too_young_message_markdown: Prepáč, mladší užívatelia sa nemôžu prihlásiť
-    na našu stránku podpory. Môžeš si prezerať [support.code.org](http://support.code.org)
+    na našu stránku podpory. Môžeš si prezerať [help.edraak.org](http://help.edraak.org)
     bez prihlásenia, alebo požiadaj svojich rodičov alebo učiteľa, aby nás za teba
     kontaktovali.
   progress:

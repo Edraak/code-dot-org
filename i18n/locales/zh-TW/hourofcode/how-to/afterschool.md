@@ -75,7 +75,7 @@ Promote your Hour of Code [with these tools]({{ urls/promote }}) and encourage o
 - 看看過去一小時玩程式的活動主辦者建議的[最佳做法](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466)。
 - 觀看我們錄製的[教師一小時玩程式指引網路研討會](https://youtu.be/EJeMeSW2-Mw)
 - 造訪[一小時玩程式的論壇](http://forum.code.org/c/plc/hour-of-code)，從其他團體獲得建議與支援。
-- 觀看[一小時玩程式的常見問答](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code)。
+- 觀看[一小時玩程式的常見問答](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code)。
 
 ## 一小時玩程式之後呢，有什麼？
 

@@ -967,11 +967,11 @@ hi:
     submit: सबमिट करें
     decline: बंद करें
   zendesk_too_young_message: हमें खेद है कि कम आयु के उपयोगकर्ता हमारी सहयोग साइट
-    पर साइन इन नहीं कर सकते। आप बिना साइन के <a href="http://support.code.org">support.code.org</a>
+    पर साइन इन नहीं कर सकते। आप बिना साइन के <a href="http://help.edraak.org">help.edraak.org</a>
     को ब्राउज कर सकते हैं या अपने माता-पिता या अध्यापक से आपके लिए हमें संपर्क करने
     के लिए कह सकते हैं।
   zendesk_too_young_message_markdown: हमें खेद है कि कम आयु के उपयोगकर्ता हमारी सहयोग
-    साइट पर साइन इन नहीं कर सकते। आप बिना साइन के [support.code.org](http://support.code.org)
+    साइट पर साइन इन नहीं कर सकते। आप बिना साइन के [help.edraak.org](http://help.edraak.org)
     को ब्राउज कर सकते हैं या अपने माता-पिता या अध्यापक से आपके लिए हमें संपर्क करने
     के लिए कह सकते हैं।
   progress:

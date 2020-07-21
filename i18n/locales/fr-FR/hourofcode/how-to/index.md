@@ -98,7 +98,7 @@ Distribuez des écouteurs dans votre classe, ou demandez aux élèves d'apporter
 ## Autres ressources de l'Heure de Code pour les éducateurs :
 
 - Visitez le [forum des enseignants de l'Heure de Code](http://forum.code.org/c/plc/hour-of-code) pour obtenir des conseils, des approfondissements et du soutien de la part des autres éducateurs.
-- Revoir [la Foire aux Question Une Heure du Code](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Revoir [la Foire aux Question Une Heure du Code](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## Et après l'Heure de Code ?
 

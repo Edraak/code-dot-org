@@ -734,9 +734,9 @@ kk:
 
     Above all, what all participants can learn in an hour is that we can do this.
   hoc_faq_more_questions_q: әлі де сұрағыңыз бар ма?
-  hoc_faq_more_questions_a: Жауапты біздің <a href='http://support.code.org'>қолдау
+  hoc_faq_more_questions_a: Жауапты біздің <a href='http://help.edraak.org'>қолдау
     форумында</a> тауып көріңіз.
-  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://support.code.org).
+  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://help.edraak.org).
   hoc_faq_keep_learning_q: Кодтау Сағатынан кейін қалай үйрену жалғастыра аламын?
   hoc_faq_keep_learning_a: Кодтау сағатын әркім қалаған уақытынды ұйымдастыра алады.
     Үйрену материалдары жылдап сақталып тұрады. Материалдар мен сабақ жоспарларын
@@ -761,7 +761,7 @@ kk:
   hoc_faq_logo_q: Кодтау сағатының логотипін пайдалансам бола ма?
   hoc_faq_logo_a: Кодтау сағаты тіркелген тауар белгісі болып табылады. Оны дұрыс
     пайдаланатындарға еш қарсылығымыз жоқ, алайда белгіні пайдалануда кейбір шектеулер
-    бар. Логотипті дұрыс пайдалануға қатысты <a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>нұсқаулықпен</a>
+    бар. Логотипті дұрыс пайдалануға қатысты <a href='https://help.edraak.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>нұсқаулықпен</a>
     танысып шығыңыз.
   hoc_faq_logo_a_markdown: Hour of Code is trademarked. We don't want to prevent its
     usage, but we want to make sure its usage fits within a few limits. Please see

@@ -75,7 +75,7 @@ Empiece su Hora del Código inspirando a los participantes y comentando cómo la
 - Revisa [las mejores prácticas](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) de otros organizadores de la Hora del Código.
 - Mira la grabación de nuestro [seminario web Guía del educador para la Hora del Código](https://youtu.be/EJeMeSW2-Mw).
 - Visita el [Foro de la Hora del Código](http://forum.code.org/c/plc/hour-of-code) para obtener consejos, perspectivas y apoyo de otros organizadores.
-- Consulta las [preguntas frecuentes sobre la Hora del Código](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Consulta las [preguntas frecuentes sobre la Hora del Código](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## ¿Qué viene después de la Hora de Código?
 

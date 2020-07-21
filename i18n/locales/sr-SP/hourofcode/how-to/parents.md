@@ -65,7 +65,7 @@ It’s okay to respond:
 
 Share photos and videos of your Hour of Code event on social media. Use #HourOfCode and @codeorg so we can highlight your success, too!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## What comes after the Hour of Code?
 

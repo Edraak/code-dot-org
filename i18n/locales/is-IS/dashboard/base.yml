@@ -547,7 +547,7 @@ is:
     feedback: 'Gefðu endurgjöf'
     translate: 'Hjálpaðu okkur að þýða yfir á þitt tungumál'
     support: 'Stuðningur'
-    support_url: 'http://support.code.org'
+    support_url: 'http://help.edraak.org'
     tos_short: 'Skilmálar'
     tos: 'Skilmálar'
     privacy: 'Persónuverndarstefna'
@@ -695,7 +695,7 @@ is:
     prerelease_tutorial: "Þetta kennsluefni er **beta** útgáfa. Það gæti breyst eftir því sem endurgjöf berst og endurbætur eru gerðar."
     report_bug: "Tilkynna galla"
     support: "Fá hjálp"
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: "Hjálp og tilföng"
     help_support: "Hjálp og stuðningur"
     documentation: "Skjölun"
@@ -800,8 +800,8 @@ is:
       opt_out: "Vil ekki gefa upp"
     submit: "Staðfesta"
     decline: "Loka"
-  zendesk_too_young_message: 'Því miður mega yngri notendur ekki skrá sig á hjálparvefinn. Þú getur skoðað <a href="http://support.code.org">support.code.org</a> án þess að skrá þig inn eða beðið foreldri eða kennara að hafa samband við okkur fyrir þig.'
-  zendesk_too_young_message_markdown: 'Því miður mega yngri notendur ekki skrá sig á hjálparvefinn. Þú getur skoðað [support.code.org](http://support.code.org) án þess að skrá þig inn eða beðið foreldri eða kennara að hafa samband við okkur fyrir þig.'
+  zendesk_too_young_message: 'Því miður mega yngri notendur ekki skrá sig á hjálparvefinn. Þú getur skoðað <a href="http://help.edraak.org">help.edraak.org</a> án þess að skrá þig inn eða beðið foreldri eða kennara að hafa samband við okkur fyrir þig.'
+  zendesk_too_young_message_markdown: 'Því miður mega yngri notendur ekki skrá sig á hjálparvefinn. Þú getur skoðað [help.edraak.org](http://help.edraak.org) án þess að skrá þig inn eða beðið foreldri eða kennara að hafa samband við okkur fyrir þig.'
   progress:
     not_started: ekki byrjað
     in_progress: í vinnslu

@@ -647,8 +647,8 @@ zh:
 
     Above all, what all participants can learn in an hour is that we can do this.
   hoc_faq_more_questions_q: 還有疑問？
-  hoc_faq_more_questions_a: 請嘗試在 <a href='HTTP://support.code.org'> 支援論壇 </a> 中找到答案。
-  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://support.code.org).
+  hoc_faq_more_questions_a: 請嘗試在 <a href='HTTP://help.edraak.org'> 支援論壇 </a> 中找到答案。
+  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://help.edraak.org).
   hoc_faq_keep_learning_q: 在一小時玩程式活動之後，我可以繼續學習什麼？
   hoc_faq_keep_learning_a: 任何人、任何時間都可以舉辦一小時玩程式活動。所有的教程都會永久保留在網站上。請到<a href='/promote'>我們的資源</a>看看如何辦理活動的活動指引，還有相關的資源，幫助你辦理一場成功的活動。
   hoc_faq_keep_learning_a_markdown: Anyone can host an Hour of Code at any time. The
@@ -663,7 +663,7 @@ zh:
     also print out [special certificates](%{codeorg_url}/certificates?course=mc) for
     students doing the Minecraft tutorial.
   hoc_faq_logo_q: 當我使用一小時玩程式的標誌或名稱時，有什麼限制嗎？
-  hoc_faq_logo_a: Hour of Code 是個商標，我們不想限制使用，但我們必須確保它被使用時符合一些條件，請參考<a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>這些使用指南</a>。
+  hoc_faq_logo_a: Hour of Code 是個商標，我們不想限制使用，但我們必須確保它被使用時符合一些條件，請參考<a href='https://help.edraak.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>這些使用指南</a>。
   hoc_faq_logo_a_markdown: Hour of Code is trademarked. We don't want to prevent its
     usage, but we want to make sure its usage fits within a few limits. Please see
     [these guidelines for usage](%{logo_url}).

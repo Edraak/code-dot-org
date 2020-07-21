@@ -75,7 +75,7 @@ Biz hemen hemen bütün videolarımızı indirilebilecek şekilde yaptık. Eğit
 
 ## Yardım Alma
 
-Müfredat , herkes ve öğretilen her yer için tamamen ücretsizdir. [Support.code.org](http://support.code.org)'ı ziyaret ederek destek alabilirsiniz. Bir öğretmen iseniz ve bizim K-5 Bilgisayar Bilimi Müfredatı üzerine ücretsiz eğitimine katılmak istiyorsanız, size en yakın olan [işte](http://code.org/k5)eğitim yerine bakın.
+Müfredat , herkes ve öğretilen her yer için tamamen ücretsizdir. [help.edraak.org](http://help.edraak.org)'ı ziyaret ederek destek alabilirsiniz. Bir öğretmen iseniz ve bizim K-5 Bilgisayar Bilimi Müfredatı üzerine ücretsiz eğitimine katılmak istiyorsanız, size en yakın olan [işte](http://code.org/k5)eğitim yerine bakın.
 
 [/content]
 

@@ -723,5 +723,5 @@ Dashboard::Application.routes.draw do
 
   post '/profanity/find', to: 'profanity#find'
 
-  get '/help', to: redirect("https://support.code.org")
+  get '/help', to: redirect("https://help.edraak.org")
 end

@@ -12,7 +12,7 @@ const PRIVACY_PLEDGE_URL = 'https://studentprivacypledge.org/signatories/';
 const COMMON_SENSE_ARTICLE_URL =
   'https://medium.com/@codeorg/code-orgs-commitment-to-student-privacy-earns-accolades-cae1cca35632';
 const ENGAGEMENT_URL =
-  'https://support.code.org/hc/en-us/articles/360041539831-How-can-I-keep-track-of-what-my-child-is-working-on-on-Code-org-';
+  'https://help.edraak.org/hc/en-us/articles/360041539831-How-can-I-keep-track-of-what-my-child-is-working-on-on-Code-org-';
 
 const LOGIN_TYPE_NAMES = {
   [SectionLoginType.clever]: 'Clever accounts',

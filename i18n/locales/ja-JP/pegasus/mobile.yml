@@ -152,7 +152,7 @@
   share_achievement: "あなたの成果を共有する"
   beyond_hour_message: "<a href='http://studio.code.org'>他のコース</a>を継続するか、<a href='/learn/beyond'>１時間を超えてさらに学ぶ</a>をご覧ください。"
   leaderboards_for_hoc: "Hour of Codeが行われている場所"
-  support_url: "http://support.code.org/"
+  support_url: "http://help.edraak.org/"
   country: "国"
   city: "都市"
   gender: "性別"

@@ -5,7 +5,7 @@ class Pd::WorkshopMailer < ActionMailer::Base
 
   default bcc: MailerConstants::PLC_EMAIL_LOG
 
-  SUPPORTED_TECH_URL = 'https://support.code.org/hc/en-us/articles/202591743-What-kind-of-operating-system-and-browser-do-I-need-to-use-Code-org-s-online-learning-system-'.freeze
+  SUPPORTED_TECH_URL = 'https://help.edraak.org/hc/en-us/articles/202591743-What-kind-of-operating-system-and-browser-do-I-need-to-use-Code-org-s-online-learning-system-'.freeze
 
   # Name of partial view for workshop details organized by course, then subject.
   # (views/pd/workshop_mailer/workshop_details/_<name>.html.haml)

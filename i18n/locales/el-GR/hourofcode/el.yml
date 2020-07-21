@@ -789,9 +789,9 @@ el:
 
     Above all, what all participants can learn in an hour is that we can do this.
   hoc_faq_more_questions_q: Έχετε ακόμα ερωτήσεις;
-  hoc_faq_more_questions_a: Προσπαθείστε να βρείτε μια απάντηση στο <a href='http://support.code.org'>φόρουμ
+  hoc_faq_more_questions_a: Προσπαθείστε να βρείτε μια απάντηση στο <a href='http://help.edraak.org'>φόρουμ
     υποστήριξης</a>.
-  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://support.code.org).
+  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://help.edraak.org).
   hoc_faq_keep_learning_q: Πώς θα συνεχίσω να μαθαίνω μετά την Ώρα του Κώδικα;
   hoc_faq_keep_learning_a: Οποιοσδήποτε μπορεί να φιλοξενήσει μία ώρα κώδικα ανά πάσα
     στιγμή. Τα σεμινάρια παραμένουν διαθέσιμα όλο το χρόνο. Θεωρείται δεδομένο ότι
@@ -816,7 +816,7 @@ el:
     της Ώρας του Κώδικα;
   hoc_faq_logo_a: Η Ώρα του Κώδικα είναι εμπορικό σήμα. Δεν θέλουμε να αποτρέψουμε
     τη χρήση του, αλλά θέλουμε να βεβαιωθείτε ότι ταιριάζει με τη χρήση του εντός
-    των ελαχίστων ορίων. Παρακαλούμε δείτε <a href='https://support.code.org/hc/en-us/articles/215831637-Υπάρχουν-περιορισμοί-του-πως
+    των ελαχίστων ορίων. Παρακαλούμε δείτε <a href='https://help.edraak.org/hc/en-us/articles/215831637-Υπάρχουν-περιορισμοί-του-πως
     -μπορώ -να-χρησιμοποιήσω-το Λογότυπο-της-Ώρα-του-Κώδικα-'> αυτές τις οδηγίες χρήσης</a>.
   hoc_faq_logo_a_markdown: Hour of Code is trademarked. We don't want to prevent its
     usage, but we want to make sure its usage fits within a few limits. Please see

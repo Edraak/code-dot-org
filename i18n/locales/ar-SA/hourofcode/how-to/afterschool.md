@@ -75,7 +75,7 @@ title: دليل الاستخدام
 - يرجى مطالعة[أفضل الممارسات](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) من منظمين سابقين لأنشطة "ساعة البرمجة".
 - شاهد تسجيلنا لمحاضرة [ دليل المعلم لأنشطة "ساعة من البرمجة"](https://youtu.be/EJeMeSW2-Mw).
 - تفضَّل بزيارة [منتدى "ساعة البرمجة"](http://forum.code.org/c/plc/hour-of-code) للحصول على نصيحة، أو فكرة أو دعم من منظمين آخرين.
-- يرجى الاطلاع على [ الأسئلة الشائعة عن "ساعة البرمجة"](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- يرجى الاطلاع على [ الأسئلة الشائعة عن "ساعة البرمجة"](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## ماذا بعد "ساعة البرمجة"؟
 

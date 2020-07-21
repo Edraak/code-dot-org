@@ -75,7 +75,7 @@ Khởi động Giờ Lập Trình của bạn bằng cách truyền cảm hứng
 - Check out [best practices](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) from past Hour of Code organizers.
 - Watch the recording of our [Educator's Guide to the Hour of Code webinar](https://youtu.be/EJeMeSW2-Mw).
 - Visit the [Hour of Code Forum](http://forum.code.org/c/plc/hour-of-code) to get advice, insight and support from other organizers.
-- Xem lại [ câu hỏi thường gặp (FAQ) của một Giờ Lập Trình](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Xem lại [ câu hỏi thường gặp (FAQ) của một Giờ Lập Trình](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## Tiếp theo Hour of Code sẽ là gì?
 

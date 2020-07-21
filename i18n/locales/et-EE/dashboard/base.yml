@@ -613,8 +613,8 @@ et:
       opt_out: "Ei soovi vastata"
     submit: "Esita"
     decline: "Sulge"
-  zendesk_too_young_message: 'Vabandame, nooremad kasutajad ei saa meie kasutajatoe lehele sisse logida. Võid sirvida <a href="http://support.code.org"> support.code.org</a> ilma sisse logimata või paluda oma emal ja isal või õpetajal meiega ühendust võtta.'
-  zendesk_too_young_message_markdown: 'Vabandame, nooremad kasutajad ei saa meie kasutajatoe lehele sisse logida. Võid sirvida [support.code.org](http://support.code.org) ilma sisse logimata või paluda oma emal ja isal või õpetajal meiega ühendust võtta.'
+  zendesk_too_young_message: 'Vabandame, nooremad kasutajad ei saa meie kasutajatoe lehele sisse logida. Võid sirvida <a href="http://help.edraak.org"> help.edraak.org</a> ilma sisse logimata või paluda oma emal ja isal või õpetajal meiega ühendust võtta.'
+  zendesk_too_young_message_markdown: 'Vabandame, nooremad kasutajad ei saa meie kasutajatoe lehele sisse logida. Võid sirvida [help.edraak.org](http://help.edraak.org) ilma sisse logimata või paluda oma emal ja isal või õpetajal meiega ühendust võtta.'
   progress:
     not_started: pole alustatud
     in_progress: pooleli

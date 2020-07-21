@@ -550,7 +550,7 @@ pt-BR:
     feedback: 'Fornecer feedback'
     translate: 'Ajude-nos a traduzir para o seu idioma'
     support: 'Suporte'
-    support_url: 'http://support.code.org'
+    support_url: 'http://help.edraak.org'
     tos_short: 'Termos'
     tos: 'Termos de Serviço'
     privacy: 'Política de Privacidade'
@@ -698,7 +698,7 @@ pt-BR:
     prerelease_tutorial: "Esse tutorial está em **beta**. Ele ainda está sujeito a revisões, conforme são recebidos feedbacks e são feitas melhorias."
     report_bug: "Reportar erro"
     support: "Obter ajuda"
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: "Ajuda e recursos"
     help_support: "Ajuda e suporte"
     documentation: "Documentação"
@@ -805,8 +805,8 @@ pt-BR:
       opt_out: "Prefiro não responder"
     submit: "Enviar"
     decline: "Fechar"
-  zendesk_too_young_message: 'Desculpe, usuários mais jovens não podem se inscrever em nosso site. Você pode acessar <a href="http://support.code.org">support.code.org</a> sem se inscrever, ou pedir aos seus pais ou a um professor para que entrem em contato conosco.'
-  zendesk_too_young_message_markdown: 'Desculpe, usuários mais jovens não podem se inscrever em nosso site. Você pode acessar [support.code.org](http://support.code.org) sem se inscrever, ou pedir aos seus pais ou a um professor para que entrem em contato conosco.'
+  zendesk_too_young_message: 'Desculpe, usuários mais jovens não podem se inscrever em nosso site. Você pode acessar <a href="http://help.edraak.org">help.edraak.org</a> sem se inscrever, ou pedir aos seus pais ou a um professor para que entrem em contato conosco.'
+  zendesk_too_young_message_markdown: 'Desculpe, usuários mais jovens não podem se inscrever em nosso site. Você pode acessar [help.edraak.org](http://help.edraak.org) sem se inscrever, ou pedir aos seus pais ou a um professor para que entrem em contato conosco.'
   progress:
     not_started: não iniciado
     in_progress: em progresso

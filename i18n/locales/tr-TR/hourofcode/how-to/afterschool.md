@@ -75,7 +75,7 @@ Kod-Saati etkinliğinize katılımcılara ilham vererek ve bilgisayarın hayatı
 - Check out [best practices](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) from past Hour of Code organizers.
 - Watch the recording of our [Educator's Guide to the Hour of Code webinar](https://youtu.be/EJeMeSW2-Mw).
 - Visit the [Hour of Code Forum](http://forum.code.org/c/plc/hour-of-code) to get advice, insight and support from other organizers.
-- [ Kodlama Saati SSS](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). gözden geçirin.
+- [ Kodlama Saati SSS](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code). gözden geçirin.
 
 ## Kod Saati etkinliğinden sonra ne yapmalı?
 

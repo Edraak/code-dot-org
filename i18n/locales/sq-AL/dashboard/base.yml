@@ -407,7 +407,7 @@ sq:
     feedback: 'Jepni feedback-un tuaj'
     translate: 'Na ndihmoni të përkthejmë në gjuhën tuaj'
     support: 'Ndihma dhe Komuniteti'
-    support_url: 'http://support.code.org'
+    support_url: 'http://help.edraak.org'
     tos_short: 'Termat'
     tos: 'Kushtet e shërbimit'
     privacy: 'Rregullat e Privatësisë'
@@ -523,7 +523,7 @@ sq:
   landing:
     report_bug: "Raportoni një problem"
     support: "Merr Ndihmë"
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: "Ndihmë dhe Burime"
   free_response:
     placeholder: "Shkruani përgjigjen tuaj këtu"
@@ -617,8 +617,8 @@ sq:
       opt_out: "Preferoj të mos përgjigjem"
     submit: "Dorëzo"
     decline: "Mbyll"
-  zendesk_too_young_message: 'Na vjen keq, përdoruesit e vegjël nuk mund të futen tek faqja jonë e suportit. Ju mund të shfletosh në <a href="http://support.code.org">support.code.org</a> pa u loguar ose pyet prindërit ose mësuesit e tu që të na kontaktojnë.'
-  zendesk_too_young_message_markdown: 'Na vjen keq, përdoruesit e vegjël nuk mund të futen tek faqja jonë e suportit. Ju mund të shfletosh në [support.code.org](http://support.code.org) pa u loguar ose pyet prindërit ose mësuesit e tu që të na kontaktojnë.'
+  zendesk_too_young_message: 'Na vjen keq, përdoruesit e vegjël nuk mund të futen tek faqja jonë e suportit. Ju mund të shfletosh në <a href="http://help.edraak.org">help.edraak.org</a> pa u loguar ose pyet prindërit ose mësuesit e tu që të na kontaktojnë.'
+  zendesk_too_young_message_markdown: 'Na vjen keq, përdoruesit e vegjël nuk mund të futen tek faqja jonë e suportit. Ju mund të shfletosh në [help.edraak.org](http://help.edraak.org) pa u loguar ose pyet prindërit ose mësuesit e tu që të na kontaktojnë.'
   progress:
     not_started: nuk është nisur
     in_progress: Në punë e sipër

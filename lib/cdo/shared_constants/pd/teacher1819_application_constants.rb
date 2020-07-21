@@ -98,9 +98,9 @@ module Pd
            is not available for grades K-5. (select all that apply)'
         ),
         csd_course_hours_per_week:
-          'How many course hours per week will your school offer CS Discoveries for each class? [(Click here for guidance on required number of hours.)](https://support.code.org/hc/en-us/articles/360002245611)',
+          'How many course hours per week will your school offer CS Discoveries for each class? [(Click here for guidance on required number of hours.)](https://help.edraak.org/hc/en-us/articles/360002245611)',
         csd_course_hours_per_year:
-          'Approximately how many course hours per school year will your school offer CS Discoveries? [(Click here for guidance on required number of hours.)](https://support.code.org/hc/en-us/articles/360002245611)',
+          'Approximately how many course hours per school year will your school offer CS Discoveries? [(Click here for guidance on required number of hours.)](https://help.edraak.org/hc/en-us/articles/360002245611)',
         csd_terms_per_year: 'How many terms will this course span in one school year?',
 
         csp_which_grades: clean_multiline(
@@ -109,9 +109,9 @@ module Pd
            is not available for grades K-8. (select all that apply)'
         ),
         csp_course_hours_per_week:
-          'How many course hours per week will your school offer CS Principles? [(Click here for guidance on required number of hours.)](https://support.code.org/hc/en-us/articles/360002245611)',
+          'How many course hours per week will your school offer CS Principles? [(Click here for guidance on required number of hours.)](https://help.edraak.org/hc/en-us/articles/360002245611)',
         csp_course_hours_per_year:
-          'Approximately how many course hours per school year will your school offer CS Principles? [(Click here for guidance on required number of hours.)](https://support.code.org/hc/en-us/articles/360002245611)',
+          'Approximately how many course hours per school year will your school offer CS Principles? [(Click here for guidance on required number of hours.)](https://help.edraak.org/hc/en-us/articles/360002245611)',
         csp_terms_per_year: 'How many terms will this course span in one school year?',
         csp_how_offer: 'How will you offer CS Principles?',
         csp_ap_exam: clean_multiline(

@@ -623,7 +623,7 @@ cs:
     feedback: Poskytnout zpětnou vazbu
     translate: Pomozte nám v překladu do vašeho jazyka
     support: Nápověda a Komunita
-    support_url: http://support.code.org
+    support_url: http://help.edraak.org
     tos_short: Podmínky
     tos: Podmínky
     privacy: Zásady ochrany osobních údajů
@@ -780,7 +780,7 @@ cs:
   landing:
     report_bug: Nahlásit chybu
     support: Získat pomoc
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: Nápověda a zdroje informací
     help_support: Pomoc a podpora
     documentation: Dokumentace
@@ -910,10 +910,10 @@ cs:
     submit: Odeslat
     decline: Zavřít
   zendesk_too_young_message: Promiň, mladší uživatelé se nemohou přihlásit do našeho
-    webového serveru podpory. Můžeš procházet <a href="http://support.code.org"> support.code.org</a>
+    webového serveru podpory. Můžeš procházet <a href="http://help.edraak.org"> help.edraak.org</a>
     bez přihlášení nebo požádat rodiče nebo učitele, aby nás kontaktovali.
   zendesk_too_young_message_markdown: Promiň, mladší uživatelé se nemohou přihlásit
-    do našeho webového serveru podpory. Můžeš procházet [support.code.org](http://support.code.org)
+    do našeho webového serveru podpory. Můžeš procházet [help.edraak.org](http://help.edraak.org)
     bez přihlášení nebo požádat rodiče nebo učitele, aby nás kontaktovali.
   progress:
     not_started: není zahájeno

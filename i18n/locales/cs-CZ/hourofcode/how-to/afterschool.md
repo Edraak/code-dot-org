@@ -75,7 +75,7 @@ Začněte s Hodinou kódu tím, že budete inspirovat účastníky a diskutovat 
 - Check out [best practices](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) from past Hour of Code organizers.
 - Watch the recording of our [Educator's Guide to the Hour of Code webinar](https://youtu.be/EJeMeSW2-Mw).
 - Visit the [Hour of Code Forum](http://forum.code.org/c/plc/hour-of-code) to get advice, insight and support from other organizers.
-- Projděte si [Nejčastěji kladené otázky (FAQ) o Hodině kódu](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Projděte si [Nejčastěji kladené otázky (FAQ) o Hodině kódu](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## Co následuje po Hodině kódu?
 

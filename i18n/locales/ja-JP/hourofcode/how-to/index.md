@@ -98,7 +98,7 @@ title: イベント開催ガイド
 ## Hour of Codeの教育者向けその他資料
 
 - [Hour of Code教育者フォーラム](http://forum.code.org/c/plc/hour-of-code)でアドバイスをもらったり、他の教育者からのサポートを得ることができます。
-- Hour of Codeの[よくある質問](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code)を読みましょう。
+- Hour of Codeの[よくある質問](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code)を読みましょう。
 
 ## Hour of Codeを終えたら？
 

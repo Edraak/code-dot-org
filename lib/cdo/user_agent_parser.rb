@@ -25,7 +25,7 @@ class UserAgentParser::UserAgent
     name == 'Opera'
   end
 
-  # https://support.code.org/hc/en-us/articles/202591743
+  # https://help.edraak.org/hc/en-us/articles/202591743
   # has the list of browsers we support
   def cdo_unsupported?
     return false if version.nil?

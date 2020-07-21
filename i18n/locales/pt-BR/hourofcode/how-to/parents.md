@@ -65,7 +65,7 @@ Tudo bem responder:
 
 Compartilhe fotos e vídeos do seu evento da Hora do Código nas mídias sociais. Use #HoraDoCodigo e @codeorg, assim podemos divulgar sua experiência de sucesso também!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## O que vem depois da Hora do Código?
 

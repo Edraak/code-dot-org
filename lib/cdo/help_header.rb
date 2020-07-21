@@ -52,7 +52,7 @@ class HelpHeader
 
     entries << {
       title: I18n.t("#{loc_prefix}help_support"),
-      url: "https://support.code.org",
+      url: "https://help.edraak.org",
       id: "support",
       target: "_blank"
     }
@@ -69,7 +69,7 @@ class HelpHeader
     else
       entries << {
         title: I18n.t("#{loc_prefix}report_bug"),
-        url: "https://support.code.org/hc/en-us/requests/new",
+        url: "https://help.edraak.org/hc/en-us/requests/new",
         id: "report-bug"
       }
     end

@@ -65,7 +65,7 @@ It’s okay to respond:
 
 Dalies ar sava Programmēšanas stundas pasākuma fotogrāfijām un video sociālajos medijos. Izmanto #HourOfCode un @codeorg, lai mēs arī varētu izcelt tavus panākumus!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## Kas nāk pēc "Programmēšanas stundas"?
 

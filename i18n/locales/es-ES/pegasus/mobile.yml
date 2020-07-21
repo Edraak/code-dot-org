@@ -175,7 +175,7 @@
   beyond_hour_message: "Continúa con nuestros <a href='http://studio.code.org'>otros cursos</a>, o explora otras opciones en <a href='/learn/beyond'>Aprender más allá de una hora</a>."
   beyond_hour_message_markdown: "Continúa con nuestros [otros cursos](http://studio.code.org) o explora más opciones en [Aprender más allá de una hora] (/learn/beyond)."
   leaderboards_for_hoc: "Líderes de Hora de Code."
-  support_url: "http://support.code.org/"
+  support_url: "http://help.edraak.org/"
   country: "País"
   city: "Ciudad"
   gender: "Sexo"

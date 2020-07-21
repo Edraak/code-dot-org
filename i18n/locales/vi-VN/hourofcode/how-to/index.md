@@ -98,7 +98,7 @@ Trang bị tai nghe cho các học sinh hoặc yêu cầu các em mang tới l�
 ## Những tài liệu khác về Giờ Lập Trình cho giáo viên/hướng dẫn viên:
 
 - Truy cập [ diễn đàn cho các giáo viên Giờ Lập Trình ](http://forum.code.org/c/plc/hour-of-code) để được tư vấn, tham gia sâu và nhận được sự hỗ trợ từ những giáo viên khác.
-- Xem lại [ câu hỏi thường gặp (FAQ) của một Giờ Lập Trình](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Xem lại [ câu hỏi thường gặp (FAQ) của một Giờ Lập Trình](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## Tiếp theo Hour of Code sẽ là gì?
 

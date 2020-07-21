@@ -315,7 +315,7 @@ az:
     feedback: Rəy verin
     translate: Sizin dilinizə tərcümə etməkdə bizə kömək edin
     support: Dəstək
-    support_url: http://support.code.org
+    support_url: http://help.edraak.org
     tos_short: Şərtlər
     tos: Xidmət şərtləri
     privacy: Məxfilik siyasəti
@@ -393,7 +393,7 @@ az:
       title: Şərti ifadələr
   landing:
     support: Kömək istə
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     documentation: Təlimat və sənədlər
     tutorials: Dərsliklər
   free_response:

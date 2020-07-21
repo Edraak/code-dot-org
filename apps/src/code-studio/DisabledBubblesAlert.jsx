@@ -42,7 +42,7 @@ export default class DisabledBubblesAlert extends React.Component {
           <span>{i18n.disabledButtonsInfo() + ' '}</span>
           <a
             target="_blank"
-            href="https://support.code.org/hc/en-us/articles/115002660852"
+            href="https://help.edraak.org/hc/en-us/articles/115002660852"
           >
             {i18n.learnMore()}
           </a>

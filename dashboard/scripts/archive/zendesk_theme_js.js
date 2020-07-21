@@ -5,10 +5,10 @@
  */
 
  /**
- * Backup of theme javascript included in the support.code.org ZenDesk template
+ * Backup of theme javascript included in the help.edraak.org ZenDesk template
  * customizations.
  *
- * Modify template at: https://support.code.org/hc/admin/appearance
+ * Modify template at: https://help.edraak.org/hc/admin/appearance
  *
  * Please keep this backup up-to-date.
  */

@@ -65,7 +65,7 @@ It’s okay to respond:
 
 सोशल मीडिया पर अवर ओफ कोड कार्यक्रम के फ़ोटो और वीडियो साझा करें । #HourOfCode और @codeorg का उपयोग करें तो अपनी सफलता को उजागर कर सकते हैं!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## अवर ओफ कोड के बाद क्या?
 

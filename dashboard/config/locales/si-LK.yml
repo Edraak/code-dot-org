@@ -415,7 +415,7 @@ si:
     feedback: ප්‍රතිපෝෂණය සපයන්න
     translate: ඔබේ භාෂාව පරිවර්තනයෙන් අපට සහාය වන්න
     support: සහාය
-    support_url: http://support.code.org
+    support_url: http://help.edraak.org
     tos_short: නියම
     tos: සේවා නියම
     privacy: රහස්‍යතා ප්‍රතිපත්තිය
@@ -549,7 +549,7 @@ si:
   landing:
     report_bug: දෝෂය වාර්තා කරන්න
     support: උපකාර ලබාගන්න
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: උදවු සහ සම්පත්
   free_response:
     placeholder: ඔබගේ පිළිතුර මෙතනට ඇතුල් කරන්න
@@ -674,10 +674,10 @@ si:
     submit: යොමුකරන්න
     decline: වසන්න
   zendesk_too_young_message: සමාවෙන්න,උපකාරක වෙබ් අඩවියට වයසින් බාල සිසුන් සඳහා sign
-    in වියනොහක.සොයන්න <a href="http://support.code.org">support.code.org</a> signing
+    in වියනොහක.සොයන්න <a href="http://help.edraak.org">help.edraak.org</a> signing
     in නොවී හෝ ඔබ වෙනුවෙන් දෙමාපියන් හෝ ගුරුවන් සම්බන්ද කරන්න.
   zendesk_too_young_message_markdown: සමාවෙන්න,උපකාරක වෙබ් අඩවියට වයසින් බාල සිසුන්
-    සඳහා sign in වියනොහක.සොයන්න [support.code.org](http://support.code.org) signing
+    සඳහා sign in වියනොහක.සොයන්න [help.edraak.org](http://help.edraak.org) signing
     in නොවී හෝ ඔබ වෙනුවෙන් දෙමාපියන් හෝ ගුරුවන් සම්බන්ද කරන්න.
   progress:
     not_started: ආරම්භ වී නැත

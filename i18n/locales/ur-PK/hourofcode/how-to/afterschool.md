@@ -75,7 +75,7 @@ Promote your Hour of Code [with these tools]({{ urls/promote }}) and encourage o
 - گزشتہ آور-آف-کوڈ کے آرگنائزرز کے [بہترین طریقوں](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) کو دیکھیں۔
 - ہمارے [ قیامت کے کوڈ کے لئے رہنما کے رہنمائی ](https://youtu.be/EJeMeSW2-Mw) کی ریکارڈنگ دیکھیں.
 - دیگر منتظمین سے مشاورت، بصیرت اور معاونت حاصل کرنے کے لیے [آور-آف-کوڈ فورم](http://forum.code.org/c/plc/hour-of-code) پر وزٹ کریں.
-- [آور-آف-کوڈ FAQ ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code)کا جائزہ لیں۔.
+- [آور-آف-کوڈ FAQ ](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code)کا جائزہ لیں۔.
 
 ## آور-آف-کوڈ کے بعد کیا ہو گا?
 

@@ -747,8 +747,8 @@ nl:
 
     Above all, what all participants can learn in an hour is that we can do this.
   hoc_faq_more_questions_q: Heb je meer vragen?
-  hoc_faq_more_questions_a: Probeer het antwoord te vinden in ons  <a href='http://support.code.org'>forum</a>.
-  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://support.code.org).
+  hoc_faq_more_questions_a: Probeer het antwoord te vinden in ons  <a href='http://help.edraak.org'>forum</a>.
+  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://help.edraak.org).
   hoc_faq_keep_learning_q: Hoe kan ik blijven leren na 'Hour of Code'?
   hoc_faq_keep_learning_a: Iedereen kan, op elk gewenst moment, een 'Hour of Code'
     hosten. De tutorials blijven gedurende het hele jaar op de site staan. U kunt
@@ -772,7 +772,7 @@ nl:
     kan gebruiken?
   hoc_faq_logo_a: Uur van Code is een handelsmerk. We willen het gebruik ervan niet
     voorkomen, maar we willen ervoor zorgen dat het gebruik ervan past binnen een
-    paar grenzen. Raadpleeg <a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>
+    paar grenzen. Raadpleeg <a href='https://help.edraak.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>
     deze richtlijnen voor gebruik</a>.
   hoc_faq_logo_a_markdown: Hour of Code is trademarked. We don't want to prevent its
     usage, but we want to make sure its usage fits within a few limits. Please see

@@ -65,7 +65,7 @@ Det er greit å svare:
 
 Del bilete og videoar frå Kodetimen på sosiale medier. Bruk #HourOfCode, #Kodetimen og @codeorg så vi og kan vise fram suksessen din!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## Kva kjem etter Kodetimen?
 

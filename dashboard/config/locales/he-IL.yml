@@ -831,10 +831,10 @@ he:
     submit: שלח
     decline: סגור
   zendesk_too_young_message: מצטערים, משתמשים צעירים אינם יכולים להתחבר לאתר התמיכה
-    שלנו. תוכל לגלוש ל- <a href="http://support.code.org">support.code.org</a> ללא
+    שלנו. תוכל לגלוש ל- <a href="http://help.edraak.org">help.edraak.org</a> ללא
     הזדהות או בקש מהוריך או המורה שלך ליצור איתנו קשר בשימך.
   zendesk_too_young_message_markdown: מצטערים, משתמשים צעירים אינם יכולים להתחבר לאתר
-    התמיכה שלנו. תוכל לגלוש ל- [support.code.org](http://support.code.org) ללא הזדהות
+    התמיכה שלנו. תוכל לגלוש ל- [help.edraak.org](http://help.edraak.org) ללא הזדהות
     או בקש מהוריך או המורה שלך ליצור איתנו קשר בשימך.
   progress:
     not_started: לא החל

@@ -110,7 +110,7 @@ function getTeacherAnnouncement(override) {
     buttonText: i18n.announcementButtonBackToSchool(),
     description: i18n.announcementDescriptionBackToSchool(),
     link:
-      'https://support.code.org/hc/en-us/articles/360013399932-Back-to-School-FAQ',
+      'https://help.edraak.org/hc/en-us/articles/360013399932-Back-to-School-FAQ',
     image: '',
     type: 'bullhorn',
     id: 'back_to_school_2018'

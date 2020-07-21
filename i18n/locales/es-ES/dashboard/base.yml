@@ -543,7 +543,7 @@ es:
     feedback: 'Enviar comentarios'
     translate: 'Ayúdanos a traducir a tu idioma'
     support: 'Soporte'
-    support_url: 'http://support.code.org'
+    support_url: 'http://help.edraak.org'
     tos_short: 'Términos'
     tos: 'Términos de uso'
     privacy: 'Política de Privacidad'
@@ -691,7 +691,7 @@ es:
     prerelease_tutorial: "Este tutorial es una versión **beta**. Es objeto de revisión a medida que se reciben comentarios y se hacen mejoras."
     report_bug: "Informar sobre un error"
     support: "Obtener ayuda"
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: "Ayuda y recursos"
     help_support: "Ayuda y soporte"
     documentation: "Documentacion"
@@ -798,8 +798,8 @@ es:
       opt_out: "Prefiero no contestar"
     submit: "Enviar"
     decline: "Cerrar"
-  zendesk_too_young_message: 'Lo sentimos, los usuarios más jóvenes no pueden registrarse en nuestro sitio de soporte. Puedes navegar por <a href="http://support.code.org">support.code.org</a> sin registrarte o pedir a tus padres o profesores que nos contacten en tu nombre.'
-  zendesk_too_young_message_markdown: 'Lo sentimos, los usuarios más jóvenes no pueden registrarse en nuestro sitio de soporte. Puedes navegar [support.code.org](http://support.code.org) sin registrarte o pedir a tus padres o docentes que nos contacten en tu nombre.'
+  zendesk_too_young_message: 'Lo sentimos, los usuarios más jóvenes no pueden registrarse en nuestro sitio de soporte. Puedes navegar por <a href="http://help.edraak.org">help.edraak.org</a> sin registrarte o pedir a tus padres o profesores que nos contacten en tu nombre.'
+  zendesk_too_young_message_markdown: 'Lo sentimos, los usuarios más jóvenes no pueden registrarse en nuestro sitio de soporte. Puedes navegar [help.edraak.org](http://help.edraak.org) sin registrarte o pedir a tus padres o docentes que nos contacten en tu nombre.'
   progress:
     not_started: No iniciado
     in_progress: En progreso

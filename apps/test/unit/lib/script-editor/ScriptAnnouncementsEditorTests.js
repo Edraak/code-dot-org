@@ -6,7 +6,7 @@ import ScriptAnnouncementsEditor from '@cdo/apps/lib/script-editor/ScriptAnnounc
 const sampleAnnouncement = {
   notice: 'This course has recently been updated!',
   details: 'See what changed and how it may affect your classroom.',
-  link: 'https://support.code.org/hc/en-us/articles/115001931251',
+  link: 'https://help.edraak.org/hc/en-us/articles/115001931251',
   type: 'information',
   visibility: 'Teacher-only'
 };
@@ -159,7 +159,7 @@ describe('ScriptAnnouncementsEditor', () => {
       notice:
         'This announcement was made before students could see announcements',
       details: "So I don't have a visibility",
-      link: 'https://support.code.org/hc/en-us/articles/115001931251',
+      link: 'https://help.edraak.org/hc/en-us/articles/115001931251',
       type: 'information'
     };
     const wrapper = shallow(

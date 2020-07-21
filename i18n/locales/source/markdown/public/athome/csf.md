@@ -20,7 +20,7 @@ If your school is asking you to continue to teach virtually and you’re part wa
 
 We designed the lessons in CS Fundamentals for use in a classroom with an actively engaged teacher, but many lessons can adapt well to at-home learning. Learning with CS Fundamentals does require an internet-connected device with a modern browser, something we realize not all students can access right now. 
 
-You can track your [students’ progress](https://support.code.org/hc/en-us/articles/115000693231-Viewing-student-progress) to see where they are. You may be able to use resources like video conferencing or email to assist students and provide feedback.
+You can track your [students’ progress](https://help.edraak.org/hc/en-us/articles/115000693231-Viewing-student-progress) to see where they are. You may be able to use resources like video conferencing or email to assist students and provide feedback.
 
 ## Where can I get help?
 

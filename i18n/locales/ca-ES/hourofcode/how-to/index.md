@@ -98,7 +98,7 @@ Proporciona auriculars a la teva classe, o demana als estudiants que se'n portin
 ## Altres recursos d'hores de codi per a educadors:
 
 - Visit the [Hour of Code Teacher Forum](http://forum.code.org/c/plc/hour-of-code) to get advice, insight and support from other educators.
-- Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Review the [Hour of Code FAQ](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## Què ve després de l'Hora del Codi?
 

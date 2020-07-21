@@ -98,7 +98,7 @@ Tilby hovudtelefonar, eller spør deltakarane om å ta med sine eigne, om oppgå
 ## Andre ressursar til Kodetimen for lærarar:
 
 - Besøk [Kodetimen sitt lærarforum](http://forum.code.org/c/plc/hour-of-code) for å få råd, innsikt og støtte frå andre lærarar.
-- Sjå på [ofte stilte spørsmål om Kodetimen](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Sjå på [ofte stilte spørsmål om Kodetimen](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## Kva kjem etter Kodetimen?
 

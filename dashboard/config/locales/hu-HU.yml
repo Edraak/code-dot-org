@@ -556,7 +556,7 @@ hu:
     feedback: Visszajelzés küldése
     translate: Segítsen lefordítani az oldalt az anyanyelvére
     support: Segítség
-    support_url: http://support.code.org
+    support_url: http://help.edraak.org
     tos_short: Felhasználási feltételek
     tos: Feltételek
     privacy: Adatvédelmi Elvek
@@ -689,7 +689,7 @@ hu:
   landing:
     report_bug: Hiba bejelentése
     support: Segítség kérés
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: Súgó és erőforrások
     help_support: Súgó és támogatás
     documentation: Dokumentáció
@@ -770,11 +770,11 @@ hu:
     submit: Elküldés
     decline: Bezár
   zendesk_too_young_message: Elnézést, de kiskorú felhasználók nem iratkozhatnak fel
-    a támogatói oldalunkra. Megnézheted a <a href="http://support.code.org"> support.code.org</a>oldalakat
+    a támogatói oldalunkra. Megnézheted a <a href="http://help.edraak.org"> help.edraak.org</a>oldalakat
     feliratkozás nélkül, illetve kérd meg a szüleidet vagy tanáraidat, hogy lépjenek
     kapcsolatba velünk a nevedben.
   zendesk_too_young_message_markdown: Elnézést, de kiskorú felhasználók nem iratkozhatnak
-    fel a támogatói oldalunkra. Megnézheted a [support.code.org](http://support.code.org)oldalakat
+    fel a támogatói oldalunkra. Megnézheted a [help.edraak.org](http://help.edraak.org)oldalakat
     feliratkozás nélkül, illetve kérd meg a szüleidet vagy tanáraidat, hogy lépjenek
     kapcsolatba velünk a nevedben.
   progress:

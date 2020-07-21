@@ -562,7 +562,7 @@ zh-CN:
     feedback: 提供反馈
     translate: 愿意参与内容翻译
     support: 支持
-    support_url: http://support.code.org/
+    support_url: http://help.edraak.org/
     tos_short: 条款
     tos: 使用条款
     privacy: 隐私政策
@@ -711,7 +711,7 @@ zh-CN:
     prerelease_tutorial: 本教程为 **beta** 版，将根据反馈信息对其进行改进和修订。
     report_bug: 报告错误
     support: 获取帮助
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: 帮助和资源
     help_support: 帮助与支持
     documentation: 使用文档
@@ -822,9 +822,9 @@ zh-CN:
       opt_out: 不愿回答
     submit: 提交
     decline: 关闭
-  zendesk_too_young_message: 对不起，年轻的用户不能登录到支持站点。你可以不登录来浏览 <a href="http://support.code.org">
-    support.code.org</a> 或让你的父母或老师来联系我们。
-  zendesk_too_young_message_markdown: 对不起，年轻用户不能登录到支持站点。可以不登录来浏览 [support.code.org](http://support.code.org)
+  zendesk_too_young_message: 对不起，年轻的用户不能登录到支持站点。你可以不登录来浏览 <a href="http://help.edraak.org">
+    help.edraak.org</a> 或让你的父母或老师来联系我们。
+  zendesk_too_young_message_markdown: 对不起，年轻用户不能登录到支持站点。可以不登录来浏览 [help.edraak.org](http://help.edraak.org)
     或让你的父母或老师联系我们。
   progress:
     not_started: 未开始

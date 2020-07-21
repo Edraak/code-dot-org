@@ -506,7 +506,7 @@ uk:
     feedback: 'Надати відгук'
     translate: 'Допоможіть нам перекласти вашою мовою'
     support: 'Довідка та спільнота'
-    support_url: 'http://support.code.org'
+    support_url: 'http://help.edraak.org'
     tos_short: 'Умови'
     tos: 'Умови надання послуг'
     privacy: 'Політика конфіденційності'
@@ -649,7 +649,7 @@ uk:
   landing:
     report_bug: "Повідомити про помилку"
     support: "Отримати допомогу"
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: "Довідки та ресурси"
     help_support: "Допомога та підтримка"
     documentation: "Документація"
@@ -751,8 +751,8 @@ uk:
       opt_out: "Не волію відповідати"
     submit: "Надіслати"
     decline: "Закрити"
-  zendesk_too_young_message: 'На жаль, молодші користувачі не можуть входити на цей сайт підтримки. Ви можете користуватись <a href="http://support.code.org">support.code.org</a> не входячи в обліковий запис, або попросіть своїх батьків чи вчителя зв''язатися з нами.'
-  zendesk_too_young_message_markdown: 'На жаль, молодші користувачі не можуть входити на цей сайт підтримки. Ви можете користуватись [support.code.org](http://support.code.org) не входячи в обліковий запис, або попросіть своїх батьків чи вчителя зв''язатися з нами.'
+  zendesk_too_young_message: 'На жаль, молодші користувачі не можуть входити на цей сайт підтримки. Ви можете користуватись <a href="http://help.edraak.org">help.edraak.org</a> не входячи в обліковий запис, або попросіть своїх батьків чи вчителя зв''язатися з нами.'
+  zendesk_too_young_message_markdown: 'На жаль, молодші користувачі не можуть входити на цей сайт підтримки. Ви можете користуватись [help.edraak.org](http://help.edraak.org) не входячи в обліковий запис, або попросіть своїх батьків чи вчителя зв''язатися з нами.'
   progress:
     not_started: не розпочато
     in_progress: в процесі

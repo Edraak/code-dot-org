@@ -49,7 +49,7 @@ describe('ScriptOverviewTopRow', () => {
             />
             <Button
               __useDeprecatedTag
-              href="//support.code.org"
+              href="//help.edraak.org"
               text={i18n.getHelp()}
               color={Button.ButtonColor.white}
               size={Button.ButtonSize.large}

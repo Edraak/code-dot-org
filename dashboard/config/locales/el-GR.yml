@@ -530,7 +530,7 @@ el:
     feedback: Πες τη γνώμη σου
     translate: Βοηθήστε μας να μεταφράσουμε στη γλώσσα σας
     support: Βοήθεια και Κοινότητα
-    support_url: http://support.code.org/
+    support_url: http://help.edraak.org/
     tos_short: Όροι
     tos: Όροι
     privacy: Πολιτική Απορρήτου
@@ -695,7 +695,7 @@ el:
   landing:
     report_bug: Αναφορά σφάλματος
     support: Λάβετε βοήθεια
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: Βοήθεια και πόροι
     help_support: Βοήθεια και υποστήριξη
     documentation: Τεκμηρίωση
@@ -781,11 +781,11 @@ el:
     submit: Υποβολή
     decline: Κλείσιμο
   zendesk_too_young_message: Συγγνώμη, νεαρότεροι χρήστες δεν μπορείτε να συνδεθείτε
-    στον ιστότοπο υποστήριξης. Μπορείτε να περιηγηθείτε στο <a href="http://support.code.org">support.code.org</a>
+    στον ιστότοπο υποστήριξης. Μπορείτε να περιηγηθείτε στο <a href="http://help.edraak.org">help.edraak.org</a>
     χωρίς σύνδεση ή να ζητήσετε από τους γονείς σας ή το δάσκαλό σας να επικοινωνήσει
     μαζί μας.
   zendesk_too_young_message_markdown: Συγγνώμη, νεαρότεροι χρήστες δεν μπορείτε να
-    συνδεθείτε στον ιστότοπο υποστήριξης. Μπορείτε να περιηγηθείτε στο [support.code.org](http://support.code.org)
+    συνδεθείτε στον ιστότοπο υποστήριξης. Μπορείτε να περιηγηθείτε στο [help.edraak.org](http://help.edraak.org)
     χωρίς σύνδεση ή να ζητήσετε από τους γονείς σας ή το δάσκαλό σας να επικοινωνήσει
     μαζί μας.
   progress:

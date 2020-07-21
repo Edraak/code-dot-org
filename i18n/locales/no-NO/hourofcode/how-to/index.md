@@ -98,7 +98,7 @@ Ta med hodetelefoner til elevene dine, eller be de ta med sine egne, dersom oppl
 ## Andre Kodetimen-ressurser for lærere:
 
 - Besøk [Kodetimens lærerforum](http://forum.code.org/c/plc/hour-of-code) for å få råd, innsikt og støtte fra andre lærere.
-- Se på [Kodetimens ofte stilte spørsmål](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Se på [Kodetimens ofte stilte spørsmål](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## Hva kommer etter Kodetimen?
 

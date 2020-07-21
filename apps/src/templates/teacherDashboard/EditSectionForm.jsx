@@ -385,7 +385,7 @@ const LessonExtrasField = ({value, onChange, disabled}) => (
     <FieldDescription>
       {i18n.explainLessonExtras()}{' '}
       <a
-        href="https://support.code.org/hc/en-us/articles/228116568-In-the-teacher-dashboard-what-are-stage-extras-"
+        href="https://help.edraak.org/hc/en-us/articles/228116568-In-the-teacher-dashboard-what-are-stage-extras-"
         target="_blank"
       >
         {i18n.explainLessonExtrasLearnMore()}
@@ -406,7 +406,7 @@ const PairProgrammingField = ({value, onChange, disabled}) => (
     <FieldDescription>
       {i18n.explainPairProgramming()}{' '}
       <a
-        href="https://support.code.org/hc/en-us/articles/115002122788-How-does-pair-programming-within-Code-Studio-work-"
+        href="https://help.edraak.org/hc/en-us/articles/115002122788-How-does-pair-programming-within-Code-Studio-work-"
         target="_blank"
       >
         {i18n.explainPairProgrammingLearnMore()}

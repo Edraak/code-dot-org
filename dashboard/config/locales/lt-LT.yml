@@ -409,7 +409,7 @@ lt:
     feedback: Pateikti atsiliepimus
     translate: Padėkite mums išversti į savo kalbą
     support: Pagalba
-    support_url: http://support.code.org
+    support_url: http://help.edraak.org
     tos_short: Sąlygos
     tos: Naudojimo taisyklės
     privacy: Privatumo politika
@@ -536,7 +536,7 @@ lt:
   landing:
     report_bug: Pranešti apie problemą
     support: Pagalba
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: Pagalba ir ištekliai
   free_response:
     placeholder: Įveskite savo atsakymą čia
@@ -615,11 +615,11 @@ lt:
     submit: Pateikti
     decline: Užverti
   zendesk_too_young_message: Atsiprašome, jaunesnio amžiaus naudotojai negali prisijungti
-    prie mūsų palaikymo svetainės. Galite peržiūrėti <a href="http://support.code.org">
-    support.code.org</a> nesiregistruojant arba paklausti savo tėvų ar mokytojų, kad
+    prie mūsų palaikymo svetainės. Galite peržiūrėti <a href="http://help.edraak.org">
+    help.edraak.org</a> nesiregistruojant arba paklausti savo tėvų ar mokytojų, kad
     susisiektų su mumis už jus.
   zendesk_too_young_message_markdown: Atsiprašome, jaunesnio amžiaus naudotojai negali
-    prisijungti prie mūsų palaikymo svetainės. Galite peržiūrėti [support.code.org](http://support.code.org)
+    prisijungti prie mūsų palaikymo svetainės. Galite peržiūrėti [help.edraak.org](http://help.edraak.org)
     nesiregistruojant arba paklausti savo tėvų ar mokytojų, kad susisiektų su mumis
     už jus.
   progress:

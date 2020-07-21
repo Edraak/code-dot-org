@@ -459,7 +459,7 @@ bg:
     feedback: 'Обратна връзка'
     translate: 'Помогнете ни да преведем на вашия език'
     support: 'Помощ'
-    support_url: 'http://support.code.org'
+    support_url: 'http://help.edraak.org'
     tos_short: 'Условия'
     tos: 'Термини'
     privacy: 'Защита на личните данни'
@@ -586,7 +586,7 @@ bg:
   landing:
     report_bug: "Доклад за бъгове"
     support: "Получаване на помощ"
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: "Помощ и ресурси"
   free_response:
     placeholder: "Въведете отговора си тук"
@@ -684,8 +684,8 @@ bg:
       opt_out: "Предпочитам да не отговоря"
     submit: "Подаване"
     decline: "Затваряне"
-  zendesk_too_young_message: 'Съжаляваме, но малки потребители не може да влизат в нашия сайт за поддръжка. Може да разглеждате <a href="http://support.code.org"> support.code.org</a> без регистрация или попитайте вашия родител или учител да се свърже с нас за вас.'
-  zendesk_too_young_message_markdown: 'Съжаляваме, но малки потребители не може да влизат в нашия сайт за поддръжка. Може да разглеждате [support.code.org](http://support.code.org) без регистрация или попитайте вашия родител или учител да се свърже с нас за вас.'
+  zendesk_too_young_message: 'Съжаляваме, но малки потребители не може да влизат в нашия сайт за поддръжка. Може да разглеждате <a href="http://help.edraak.org"> help.edraak.org</a> без регистрация или попитайте вашия родител или учител да се свърже с нас за вас.'
+  zendesk_too_young_message_markdown: 'Съжаляваме, но малки потребители не може да влизат в нашия сайт за поддръжка. Може да разглеждате [help.edraak.org](http://help.edraak.org) без регистрация или попитайте вашия родител или учител да се свърже с нас за вас.'
   progress:
     not_started: не е стартиран
     in_progress: в ход

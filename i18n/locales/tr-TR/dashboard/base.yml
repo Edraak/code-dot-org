@@ -529,7 +529,7 @@ tr:
     feedback: 'Geri besleme sağla'
     translate: 'Kendi dilinize çevirmemiz için bize yardım edin'
     support: 'Yardım ve Topluluk'
-    support_url: 'http://support.code.org'
+    support_url: 'http://help.edraak.org'
     tos_short: 'Koşullar'
     tos: 'Şartlar'
     privacy: 'Gizlilik Politikası'
@@ -674,7 +674,7 @@ tr:
   landing:
     report_bug: "Hata bildir"
     support: "Yardım Al"
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: "Yardım ve kaynaklar"
     help_support: "Yardım ve Destek"
     documentation: "Belgeler"
@@ -780,8 +780,8 @@ tr:
       opt_out: "Söylememek istemiyorum"
     submit: "Gönder"
     decline: "Kapat"
-  zendesk_too_young_message: 'Üzgünüz, genç kullanıcılarımız destek sitemize üye olamazlar. <a href="http://support.code.org">support.code.org</a> adresini giriş yapmadan kullanın ya da ebeveynlerinize veya öğretmeninize bizimle temasa geçmelerini söyleyin.'
-  zendesk_too_young_message_markdown: 'Üzgünüz, genç kullanıcılarımız destek sitemize üye olamazlar. [support.code.org](http://support.code.org) adresini giriş yapmadan kullanın ya da ebeveynlerinize veya öğretmeninize bizimle temasa geçmelerini söyleyin.'
+  zendesk_too_young_message: 'Üzgünüz, genç kullanıcılarımız destek sitemize üye olamazlar. <a href="http://help.edraak.org">help.edraak.org</a> adresini giriş yapmadan kullanın ya da ebeveynlerinize veya öğretmeninize bizimle temasa geçmelerini söyleyin.'
+  zendesk_too_young_message_markdown: 'Üzgünüz, genç kullanıcılarımız destek sitemize üye olamazlar. [help.edraak.org](http://help.edraak.org) adresini giriş yapmadan kullanın ya da ebeveynlerinize veya öğretmeninize bizimle temasa geçmelerini söyleyin.'
   progress:
     not_started: Başlatılmadı
     in_progress: İşlem devam ediyor

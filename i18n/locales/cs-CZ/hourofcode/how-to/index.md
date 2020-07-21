@@ -98,7 +98,7 @@ Rozdejte sluchátka studentům, nebo požádejte studenty, aby si přinesli své
 ## Jiné zdroje Hodiny kódu pro pedagogy:
 
 - Navštivte [fórum učitelů Hodiny kódu ](http://forum.code.org/c/plc/hour-of-code) a získejte radu, vhled a podporu od ostatních pedagogů.
-- Projděte si [Nejčastěji kladené otázky (FAQ) o Hodině kódu](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Projděte si [Nejčastěji kladené otázky (FAQ) o Hodině kódu](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## Co následuje po Hodině kódu?
 

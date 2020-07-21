@@ -639,7 +639,7 @@ nn:
     feedback: Gi tilbakemelding
     translate: Meld deg som frivillig til å omsette innhaldet vårt
     support: Brukarstøtte
-    support_url: http://support.code.org/
+    support_url: http://help.edraak.org/
     tos_short: Vilkår for bruk
     tos: Vilkår
     privacy: Personvern
@@ -818,7 +818,7 @@ nn:
       som vi mottek tilbakemeldingar og gjer forbetringar.
     report_bug: Rapporter feil
     support: Få hjelp
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: Hjelp og oppslagsverk
     help_support: Hjelp og støtte
     documentation: Dokumentasjon
@@ -962,10 +962,10 @@ nn:
     submit: Send inn
     decline: Lukk
   zendesk_too_young_message: Beklager, yngre brukarar kan ikkje logge inn på nettstaden
-    for kundestøtte. Du kan bla gjennom <a href="http://support.code.org"> support.code.org</a>
+    for kundestøtte. Du kan bla gjennom <a href="http://help.edraak.org"> help.edraak.org</a>
     uten å logge på eller be ein forelder eller lærer om å kontakte oss for deg.
   zendesk_too_young_message_markdown: Beklager, yngre brukarar kan ikkje logge på
-    sida for kundestøtte. Du kan bla gjennom [support.code.org](http://support.code.org)
+    sida for kundestøtte. Du kan bla gjennom [help.edraak.org](http://help.edraak.org)
     utan å logge på eller be ein av foreldra dine eller læraren om å kontakte oss
     for deg.
   progress:

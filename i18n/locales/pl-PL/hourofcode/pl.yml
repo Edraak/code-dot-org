@@ -762,9 +762,9 @@ pl:
 
     Above all, what all participants can learn in an hour is that we can do this.
   hoc_faq_more_questions_q: Masz więcej pytań?
-  hoc_faq_more_questions_a: Spróbuj znaleźć odpowiedź na naszym <a href='http://support.code.org'>forum
+  hoc_faq_more_questions_a: Spróbuj znaleźć odpowiedź na naszym <a href='http://help.edraak.org'>forum
     wsparcia</a>.
-  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://support.code.org).
+  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://help.edraak.org).
   hoc_faq_keep_learning_q: Jak kontynuować naukę po Godzinie Kodowania?
   hoc_faq_keep_learning_a: Każdy może organizować Godzinę Kodowania w dowolnym czasie.
     Samouczki działają przez cały rok. Możesz oczekiwać, że nasze samouczki i program
@@ -788,7 +788,7 @@ pl:
   hoc_faq_logo_q: Czy są ograniczenia związane z używaniem logo i nazwy Godziny Kodowania?
   hoc_faq_logo_a: Godzina Kodowania jest znakiem towarowym. Nie chcemy uniemożliwiać
     jego używania, ale chcemy być pewni, że jego użycie spełnia pewne warunki. Zobacz
-    <a href='https://support.code.org/hc/en-us/articles/215831637-Czy-są-jakieś- ograniczenia,
+    <a href='https://help.edraak.org/hc/en-us/articles/215831637-Czy-są-jakieś- ograniczenia,
     -jak-mógłbym-używać-logo-Godziny-Kodowania-'> wskazówki, jak go używać</a>.
   hoc_faq_logo_a_markdown: Hour of Code is trademarked. We don't want to prevent its
     usage, but we want to make sure its usage fits within a few limits. Please see

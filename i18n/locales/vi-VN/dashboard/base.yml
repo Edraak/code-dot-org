@@ -736,8 +736,8 @@ vi:
       opt_out: "Không thích nói"
     submit: "Gửi"
     decline: "Đóng"
-  zendesk_too_young_message: 'Rất tiếc, người dùng trẻ em không thể đăng nhập vào trang web hỗ trợ của chúng tôi, ban có thể duyệt<a href="http://support.code.org">support.code.org</a> mà không cần đăng nhập cùng hay yêu cầu phụ huynh hoặc giáo viên của ban liên hệ với chúng tôi .'
-  zendesk_too_young_message_markdown: 'Rất tiếc, người dùng trẻ em không thể đăng nhập vào trang web hỗ trợ của chúng tôi, ban có thể duyệt[support.code.org](http://support.code.org) mà không cần đăng nhập cùng hay yêu cầu phụ huynh hoặc giáo viên của ban liên hệ với chúng tôi .'
+  zendesk_too_young_message: 'Rất tiếc, người dùng trẻ em không thể đăng nhập vào trang web hỗ trợ của chúng tôi, ban có thể duyệt<a href="http://help.edraak.org">help.edraak.org</a> mà không cần đăng nhập cùng hay yêu cầu phụ huynh hoặc giáo viên của ban liên hệ với chúng tôi .'
+  zendesk_too_young_message_markdown: 'Rất tiếc, người dùng trẻ em không thể đăng nhập vào trang web hỗ trợ của chúng tôi, ban có thể duyệt[help.edraak.org](http://help.edraak.org) mà không cần đăng nhập cùng hay yêu cầu phụ huynh hoặc giáo viên của ban liên hệ với chúng tôi .'
   progress:
     not_started: chưa bắt đầu
     in_progress: đang thực hiện

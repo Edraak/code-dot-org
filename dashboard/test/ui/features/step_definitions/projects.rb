@@ -67,7 +67,7 @@ Then(/^I report abuse on the project$/) do
     And I select the "Other" option in dropdown "uitest-abuse-type"
     And I type "I just don't like it." into "#uitest-abuse-detail"
     Then I click selector "#uitest-submit-report-abuse" once I see it
-    Then I wait until current URL contains "support.code.org"
+    Then I wait until current URL contains "help.edraak.org"
     Then I switch tabs
   }
 end

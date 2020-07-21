@@ -722,8 +722,8 @@ uk:
 
     Above all, what all participants can learn in an hour is that we can do this.
   hoc_faq_more_questions_q: Все ще маєте питання?
-  hoc_faq_more_questions_a: Спробуйте знайти відповідь на <a href='http://support.code.org'>форумі</a>.
-  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://support.code.org).
+  hoc_faq_more_questions_a: Спробуйте знайти відповідь на <a href='http://help.edraak.org'>форумі</a>.
+  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://help.edraak.org).
   hoc_faq_keep_learning_q: Як продовжити навчання після Години коду?
   hoc_faq_keep_learning_a: Кожен може провести Годину коду в будь-який час. Підручники
     доступні протягом усього року. Ви можете розраховувати на доступність підручників
@@ -747,7 +747,7 @@ uk:
   hoc_faq_logo_q: Чи існують обмеження з використання логотипу чи назви Години коду?
   hoc_faq_logo_a: Hour of Code (Година коду) є торговою маркою. Ми не хочемо забороняти
     її використання, але хочемо бути певні, що вона використовується в рамках певних
-    обмежень. Перегляньте <a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>ці
+    обмежень. Перегляньте <a href='https://help.edraak.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>ці
     рекомендації з використання</a>.
   hoc_faq_logo_a_markdown: Hour of Code is trademarked. We don't want to prevent its
     usage, but we want to make sure its usage fits within a few limits. Please see

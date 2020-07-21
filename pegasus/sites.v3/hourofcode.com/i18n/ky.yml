@@ -733,9 +733,9 @@ ky:
 
     Above all, what all participants can learn in an hour is that we can do this.
   hoc_faq_more_questions_q: Дагы суроолоруңуз барбы?
-  hoc_faq_more_questions_a: "<a href='http://support.code.org'>Колдоо форумубуздан</a>
+  hoc_faq_more_questions_a: "<a href='http://help.edraak.org'>Колдоо форумубуздан</a>
     жооп издеп көрүңүз."
-  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://support.code.org).
+  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://help.edraak.org).
   hoc_faq_keep_learning_q: Код саатынан кийин окуумду кантип улантсам болот?
   hoc_faq_keep_learning_a: Код саатын каалаган киши каалаган учурда уюштура алат.
     Жетектемелер жана окутуу пландары жыл бою сайтта жеткиликтүү. <a href='/promote'>Биздин
@@ -757,7 +757,7 @@ ky:
     students doing the Minecraft tutorial.
   hoc_faq_logo_q: Код сааты энбелгисин же атын колдонууда кандай чектөөлөр бар?
   hoc_faq_logo_a: '"Код сааты" - соода маркасы. Биз анын колдонулушун тыйгыбыз келбейт,
-    бирок бир катар чектөөлөрдүн сакталышы зарыл. Бул жердеги <a href=''https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-''>жетектемени
+    бирок бир катар чектөөлөрдүн сакталышы зарыл. Бул жердеги <a href=''https://help.edraak.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-''>жетектемени
     карагыла</a>.'
   hoc_faq_logo_a_markdown: Hour of Code is trademarked. We don't want to prevent its
     usage, but we want to make sure its usage fits within a few limits. Please see

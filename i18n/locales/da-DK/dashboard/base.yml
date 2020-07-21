@@ -481,7 +481,7 @@ da:
     feedback: 'Giv feedback'
     translate: 'Hjælp os med at oversætte til dit sprog'
     support: 'Support'
-    support_url: 'http://support.Code.org'
+    support_url: 'http://help.edraak.org'
     tos_short: 'Vilkår'
     tos: 'Termer'
     privacy: 'Privatlivspolitik'
@@ -593,7 +593,7 @@ da:
   landing:
     report_bug: "Rapporter fejl"
     support: "Få hjælp"
-    support_url: "Support.Code.org"
+    support_url: "help.edraak.org"
   free_response:
     placeholder: "Skriv dit svar her"
   multi:
@@ -658,8 +658,8 @@ da:
       other: "Andre"
     submit: "Indsend"
     decline: "Luk"
-  zendesk_too_young_message: 'Beklager, yngre brugere kan ikke logge på vores websted. Du kan gennemse <a href="http://support.code.org"> support.code.org</a> uden at logge på eller spørg dine forældre eller lærer om at kontakte os for dig.'
-  zendesk_too_young_message_markdown: 'Beklager, yngre brukarar kan ikkje logge inn på nettstaden for kundestøtte. Du kan bla gjennom [support.code.org](http://support.code.org) uten å logge på eller be ein forelder eller lærer om å kontakte oss for deg.'
+  zendesk_too_young_message: 'Beklager, yngre brugere kan ikke logge på vores websted. Du kan gennemse <a href="http://help.edraak.org"> help.edraak.org</a> uden at logge på eller spørg dine forældre eller lærer om at kontakte os for dig.'
+  zendesk_too_young_message_markdown: 'Beklager, yngre brukarar kan ikkje logge inn på nettstaden for kundestøtte. Du kan bla gjennom [help.edraak.org](http://help.edraak.org) uten å logge på eller be ein forelder eller lærer om å kontakte oss for deg.'
   progress:
     not_started: ikke startet
     in_progress: i gang

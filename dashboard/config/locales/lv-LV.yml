@@ -336,7 +336,7 @@ lv:
     feedback: nodrošināt atsauksmes
     translate: Palīdzi mums tulkot savā valodā
     support: Atbalsts
-    support_url: http://support.Code.org/
+    support_url: http://help.edraak.org/
     tos_short: Nosacījumi
     tos: Nosacījumi
     privacy: Privātuma politika
@@ -428,7 +428,7 @@ lv:
   landing:
     report_bug: Kļūdas ziņojums
     support: Saņemt palīdzību
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_support: Palīdzība un atbalsts
     documentation: Dokumentācija
   free_response:
@@ -484,11 +484,11 @@ lv:
     submit: Iesniegt
     decline: Aizvērt
   zendesk_too_young_message: Atvainojiet, jaunākiem lietotājiem nav iespējas pierakstīties
-    mūsu atbalsta lapā. Tu vari pārlūkot <a href="http://support.code.org">support.code.org</a>
+    mūsu atbalsta lapā. Tu vari pārlūkot <a href="http://help.edraak.org">help.edraak.org</a>
     bez pierakstīšanās vai vari prasīt savam vecākam vai skolotājam, lai sazinās ar
     mums tavā vietā.
   zendesk_too_young_message_markdown: Atvainojiet, jaunākiem lietotājiem nav iespējas
-    pierakstīties mūsu atbalsta lapā. Tu vari pārlūkot [support.code.org](http://support.code.org)
+    pierakstīties mūsu atbalsta lapā. Tu vari pārlūkot [help.edraak.org](http://help.edraak.org)
     bez pierakstīšanās vai vari prasīt savam vecākam vai skolotājam, lai sazinās ar
     mums tavā vietā.
   progress:

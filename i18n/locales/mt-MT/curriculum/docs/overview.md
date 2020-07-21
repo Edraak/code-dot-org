@@ -75,7 +75,7 @@ We’ve also made all our videos available for download. During the tutorials, t
 
 ## Getting Help
 
-The curriculum is completely free for anyone, anywhere to teach. You can get support by visiting [support.code.org](http://support.code.org). If you are a teacher and you'd like to attend a free training on our K-5 Computer Science curriculum, look [here](http://code.org/k5) for a workshop near you.
+The curriculum is completely free for anyone, anywhere to teach. You can get support by visiting [help.edraak.org](http://help.edraak.org). If you are a teacher and you'd like to attend a free training on our K-5 Computer Science curriculum, look [here](http://code.org/k5) for a workshop near you.
 
 [/content]
 

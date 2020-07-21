@@ -562,7 +562,7 @@ ne:
       opt_out: "Prefer not to say"
     submit: "Submit"
     decline: "बन्द गर्नुहोस्"
-  zendesk_too_young_message: 'Sorry, younger users may not sign in to our support site. You may browse <a href="http://support.code.org">support.code.org</a> without signing in or ask your parent or teacher to contact us for you.'
+  zendesk_too_young_message: 'Sorry, younger users may not sign in to our support site. You may browse <a href="http://help.edraak.org">help.edraak.org</a> without signing in or ask your parent or teacher to contact us for you.'
   progress:
     not_started: not started
     in_progress: in progress

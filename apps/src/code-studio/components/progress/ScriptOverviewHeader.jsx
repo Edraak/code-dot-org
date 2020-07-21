@@ -240,7 +240,7 @@ class ScriptOverviewHeader extends Component {
             dismissible={false}
             width={SCRIPT_OVERVIEW_WIDTH}
             buttonText={i18n.learnMore()}
-            buttonLink="https://support.code.org/hc/en-us/articles/115001479372-Hiding-units-and-lessons-in-Code-org-s-CS-Principles-and-CS-Discoveries-courses"
+            buttonLink="https://help.edraak.org/hc/en-us/articles/115001479372-Hiding-units-and-lessons-in-Code-org-s-CS-Principles-and-CS-Discoveries-courses"
           />
         )}
         <div id="lesson">

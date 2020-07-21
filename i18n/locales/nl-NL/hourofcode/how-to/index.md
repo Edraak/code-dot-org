@@ -98,7 +98,7 @@ Voorzie koptelefoons voor uw klas, of vraag de leerlingen om ze zelf mee te neme
 ## Andere CodeUur bronnen voor docenten:
 
 - Bezoek het [CodeUur leraren Forum](http://forum.code.org/c/plc/hour-of-code) om advies, inzicht en steun van andere docenten te krijgen.
-- Bekijk het [CodeUur FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Bekijk het [CodeUur FAQ](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## Wat komt er na het CodeUur?
 

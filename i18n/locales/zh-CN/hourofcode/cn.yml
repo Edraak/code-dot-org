@@ -631,8 +631,8 @@ cn:
 
     Above all, what all participants can learn in an hour is that we can do this.
   hoc_faq_more_questions_q: 还有更多的问题吗？
-  hoc_faq_more_questions_a: 试着在我们的 <a href='http://support.code.org'> 支持论坛</a> 中找到答案。
-  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://support.code.org).
+  hoc_faq_more_questions_a: 试着在我们的 <a href='http://help.edraak.org'> 支持论坛</a> 中找到答案。
+  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://help.edraak.org).
   hoc_faq_keep_learning_q: 我如何在一小时后还接着学习？
   hoc_faq_keep_learning_a: 任何人在任何时候都可以组织编程一小时。这个指南是全年的。你可以认为我们的教程和课程是永远在线的。 请转到<a
     href='/promote'>活动的资源</a>获得操作指南和其它资源来帮助你成功举办编程一小时活动。
@@ -649,7 +649,7 @@ cn:
     also print out [special certificates](%{codeorg_url}/certificates?course=mc) for
     students doing the Minecraft tutorial.
   hoc_faq_logo_q: 是否有我能否使用编程一小时标志或名称的限制？
-  hoc_faq_logo_a: 编程一小时已进行商标注册。我们不希望阻止它的使用，但我们想要确保它的使用符合限制。请参阅 <a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>
+  hoc_faq_logo_a: 编程一小时已进行商标注册。我们不希望阻止它的使用，但我们想要确保它的使用符合限制。请参阅 <a href='https://help.edraak.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>
     使用准则</a>。
   hoc_faq_logo_a_markdown: Hour of Code is trademarked. We don't want to prevent its
     usage, but we want to make sure its usage fits within a few limits. Please see

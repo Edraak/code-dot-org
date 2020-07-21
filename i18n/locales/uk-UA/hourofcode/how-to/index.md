@@ -98,7 +98,7 @@ Make sure to test tutorials on student computers or devices to ensure they work 
 ## Інші ресурси Години коду для педагогів:
 
 - Відвідайте [вчительський форум Години коду](http://forum.code.org/c/plc/hour-of-code), щоби отримати пораду, роз'яснення та підтримку від інших педагогів.
-- Відвідайте [ЧаПи Години коду](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Відвідайте [ЧаПи Години коду](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## Що після Години коду?
 

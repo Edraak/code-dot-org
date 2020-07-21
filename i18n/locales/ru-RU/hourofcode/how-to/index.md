@@ -98,7 +98,7 @@ Promote your Hour of Code [with these tools]({{ urls/promote_resources }}) and e
 ## Другие ресурсы для учителей Часа Кода:
 
 - Посетите [Форум учителей Часа Программирования](http://forum.code.org/c/plc/hour-of-code), на котором Вы получите советы и поддержку других педагогов.
-- Просмотрите [Часто задаваемые вопросы по Часу Программирования](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Просмотрите [Часто задаваемые вопросы по Часу Программирования](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## Час Кода: а что дальше?
 

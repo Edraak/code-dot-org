@@ -523,7 +523,7 @@ ro:
     feedback: 'Oferă feedback'
     translate: 'Ajută-ne să  traducem în limba ta'
     support: 'Ajutor şi comunitate'
-    support_url: 'http://support.code.org/'
+    support_url: 'http://help.edraak.org/'
     tos_short: 'Termeni'
     tos: 'Termeni şi condiţii de utilizare'
     privacy: 'Politică de confidențialitate'
@@ -667,7 +667,7 @@ ro:
   landing:
     report_bug: "Raporteazã eroare"
     support: "Obţine ajutor"
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: "Ajutor şi resurse"
     help_support: "Ajutor şi suport"
     documentation: "Documentație"
@@ -769,8 +769,8 @@ ro:
       opt_out: "Prefer să nu răspund"
     submit: "Trimite"
     decline: "Închide"
-  zendesk_too_young_message: 'Ne pare rău, însă utilizatorii mai tineri nu au voie să intre pe site-ul nostru de suport. Poți naviga pe <a href="http://support.code.org">support.code.org</a> fără a te loga sau solicită ajutorul unui părinte sau profesor să ne contacteze în numele tău.'
-  zendesk_too_young_message_markdown: 'Ne pare rău, însă utilizatorii mai tineri nu au voie să intre pe site-ul nostru de suport. Poți naviga pe [support.code.org](http://support.code.org) fără a te loga sau solicită ajutorul unui părinte sau profesor să ne contacteze în numele tău.'
+  zendesk_too_young_message: 'Ne pare rău, însă utilizatorii mai tineri nu au voie să intre pe site-ul nostru de suport. Poți naviga pe <a href="http://help.edraak.org">help.edraak.org</a> fără a te loga sau solicită ajutorul unui părinte sau profesor să ne contacteze în numele tău.'
+  zendesk_too_young_message_markdown: 'Ne pare rău, însă utilizatorii mai tineri nu au voie să intre pe site-ul nostru de suport. Poți naviga pe [help.edraak.org](http://help.edraak.org) fără a te loga sau solicită ajutorul unui părinte sau profesor să ne contacteze în numele tău.'
   progress:
     not_started: Neînceput
     in_progress: în curs de desfăşurare

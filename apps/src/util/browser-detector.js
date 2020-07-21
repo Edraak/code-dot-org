@@ -46,7 +46,7 @@ function isUnsupportedFirefox() {
   return unsupported;
 }
 
-// https://support.code.org/hc/en-us/articles/202591743
+// https://help.edraak.org/hc/en-us/articles/202591743
 // for the full list of supported browsers
 export function isUnsupportedBrowser() {
   var isUnsupported = false;

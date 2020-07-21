@@ -4,7 +4,7 @@ default['cdo-varnish'] = {
   },
   'secret' => '00000000-0000-0000-0000-000000000000',
   redirects: {
-    'forums.code.org'   => 'support.code.org',
+    'forums.code.org'   => 'help.edraak.org',
     'aws.code.org'      => 'code.org',
     'blockly.com'       => 'studio.code.org',
     'learn.code.org'    => 'studio.code.org',

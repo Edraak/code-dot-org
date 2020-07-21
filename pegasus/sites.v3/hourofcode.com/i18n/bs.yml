@@ -741,9 +741,9 @@ bs:
 
     Above all, what all participants can learn in an hour is that we can do this.
   hoc_faq_more_questions_q: Imate još pitanja?
-  hoc_faq_more_questions_a: Pokušajte pronaći odgovore na <a href='http://support.code.org'>forumu
+  hoc_faq_more_questions_a: Pokušajte pronaći odgovore na <a href='http://help.edraak.org'>forumu
     podrške</a>.
-  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://support.code.org).
+  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://help.edraak.org).
   hoc_faq_keep_learning_q: Kako mogu nastaviti učiti nakon Sata Kodiranja?
   hoc_faq_keep_learning_a: Bilo tko može organizirati Sat Kodiranja u bilo koje vrijeme.
     Tutorijali ostaju na internetu cijele godine. Možete očekivati da će naši tutorijali
@@ -767,7 +767,7 @@ bs:
   hoc_faq_logo_q: Postoje li ograničenja za korištenje loga ili imena Sata Kodiranja?
   hoc_faq_logo_a: Sat Kodiranja je zaštićena tržišna marka. Ne želimo spriječiti njegovo
     korištenje, ali želimo osigurati da se njegovo korištenje uklapa u nekoliko ograničenja.
-    Molimo pogledajte <a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>
+    Molimo pogledajte <a href='https://help.edraak.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>
     ove smjernice za korištenje</a>.
   hoc_faq_logo_a_markdown: Hour of Code is trademarked. We don't want to prevent its
     usage, but we want to make sure its usage fits within a few limits. Please see

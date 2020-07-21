@@ -175,7 +175,7 @@
   beyond_hour_message: "Teruskan dengan <a href='http://studio.code.org'>kursus lain</a> kami, atau lihat lebih banyak pilihan untuk <a href='/learn/beyond'> belajar melampaui satu jam</a>."
   beyond_hour_message_markdown: "Terus ikuti [other courses](http://studio.code.org) kami, atau lihat opsi selengkapnya untuk [Learn beyond an Hour](/learn/beyond)."
   leaderboards_for_hoc: "Leaderboards untuk jam kode."
-  support_url: "http://support.code.org/"
+  support_url: "http://help.edraak.org/"
   country: "Negara"
   city: "Kota"
   gender: "Jenis kelamin"

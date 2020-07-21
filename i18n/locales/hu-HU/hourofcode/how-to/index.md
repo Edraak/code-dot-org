@@ -98,7 +98,7 @@ Biztosíts fülhallgatókat, vagy kérd meg a tanulókat, hogy hozzanak magukkal
 ## Egyéb "Kódolás Órája" források tanároknak:
 
 - Látogass el a [Kódolás Órája tanári fórumára](http://forum.code.org/c/plc/hour-of-code), hogy tanácsokat, tippeket és támogatást kapj a többi oktatótól.
-- Olvasd át a [Kódolás Órája GYIK](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) részét.
+- Olvasd át a [Kódolás Órája GYIK](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code) részét.
 
 ## Mi jön a "Hour of Code" esemény után?
 

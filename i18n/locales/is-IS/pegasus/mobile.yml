@@ -175,7 +175,7 @@
   beyond_hour_message: "Haltu áfram með <a href='http://studio.code.org'>önnur námskeið okkar</a> eða skoðaðu fleiri valkosti með að <a href='/learn/beyond'>Læra umfram klukkustund</a>."
   beyond_hour_message_markdown: "Haltu svo áfram á [öðrum námskeiðum okkar](http://studio.code.org) eða sjáðu aðra valkosti með [Nám eftir Klukkustund kóðunar](/learn/beyond)."
   leaderboards_for_hoc: "Topplisti fyrir Klukkustund kóðunar."
-  support_url: "http://support.code.org/"
+  support_url: "http://help.edraak.org/"
   country: "Land"
   city: "Borg/Bær"
   gender: "Kyn"

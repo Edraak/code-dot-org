@@ -550,7 +550,7 @@ zh-TW:
     feedback: '提供回饋'
     translate: '協助我們翻譯'
     support: '支援'
-    support_url: 'http://support.code.org'
+    support_url: 'http://help.edraak.org'
     tos_short: '條款'
     tos: '服務條款'
     privacy: '隱私政策'
@@ -698,7 +698,7 @@ zh-TW:
     prerelease_tutorial: "這個教程仍在 **測試階段**，或會根據收到的意見、作出改善而有所修改。"
     report_bug: "臭蟲回報"
     support: "取得協助"
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: "幫助和資源"
     help_support: "幫助與支援"
     documentation: "說明文件"
@@ -805,8 +805,8 @@ zh-TW:
       opt_out: "不想說"
     submit: "提交"
     decline: "關閉"
-  zendesk_too_young_message: '抱歉，年紀較小的用戶不能登入到我們的站台，詳情請參見<a href="http://support.code.org">support.code.org</a>，你可以請你的家長或是老師幫忙。'
-  zendesk_too_young_message_markdown: '抱歉，年紀較小的用戶不能登入到我們的站台，詳情請參見[support.code.org](http://support.code.org)，你可以請你的家長或是老師幫忙。'
+  zendesk_too_young_message: '抱歉，年紀較小的用戶不能登入到我們的站台，詳情請參見<a href="http://help.edraak.org">help.edraak.org</a>，你可以請你的家長或是老師幫忙。'
+  zendesk_too_young_message_markdown: '抱歉，年紀較小的用戶不能登入到我們的站台，詳情請參見[help.edraak.org](http://help.edraak.org)，你可以請你的家長或是老師幫忙。'
   progress:
     not_started: 未開始
     in_progress: 正在進行

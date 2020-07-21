@@ -98,7 +98,7 @@ Proporcione auriculares para a súa clase, ou pídalle aos estudantes que traian
 ## Outros recursos da Hora do Código para educadores:
 
 - Visite o [Foro de Mestres da Hora do Código](http://forum.code.org/c/plc/hour-of-code) para obter consellos, ideas e axuda por parte doutros docentes.
-- Vexa as [Preguntas Frecuentes da Hora de Código](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Vexa as [Preguntas Frecuentes da Hora de Código](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## O que ven despois da Hora de Código?
 

@@ -14,7 +14,7 @@ function processVolunteerUnsubscribeError(data) {
         "An error occurred. You must be 18 to volunteer. " +
         "Please certify that you are at least 18 years old to update your preferences. " +
         "If you are not yet 18, please request to remove yourself from the volunteer list by " +
-        '<a href="https://support.code.org/hc/en-us/requests/new" target="_blank">contacting support</a>.';
+        '<a href="https://help.edraak.org/hc/en-us/requests/new" target="_blank">contacting support</a>.';
     } else if (errors[i] === "email_preference_opt_in_s") {
       errorMessage = "Please select an email preference below.";
     }
@@ -23,7 +23,7 @@ function processVolunteerUnsubscribeError(data) {
   if (!errorMessage) {
     errorMessage =
       "An error occurred. Please try again or " +
-      '<a href="https://support.code.org/hc/en-us/requests/new" target="_blank">' +
+      '<a href="https://help.edraak.org/hc/en-us/requests/new" target="_blank">' +
       "contact us</a> if you continue to receive this error.";
   }
 

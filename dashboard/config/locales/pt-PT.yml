@@ -593,7 +593,7 @@ pt:
     feedback: Fornecer feedback
     translate: Voluntaria-te para traduzir o nosso conteúdo
     support: Suporte
-    support_url: http://support.code.org
+    support_url: http://help.edraak.org
     tos_short: Termos
     tos: Termos de utilização
     privacy: Política de privacidade
@@ -748,7 +748,7 @@ pt:
       conforme são recebidos feedbacks e melhorias são feitas.
     report_bug: Comunicar um problema
     support: Obter ajuda
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: Ajuda e recursos
     help_support: Ajuda e suporte
     documentation: Documentação
@@ -841,11 +841,11 @@ pt:
     submit: OK
     decline: Fechar
   zendesk_too_young_message: Pedimos desculpa, mas os utilizadores mais jovens não
-    podem criar uma conta no nosso site. Podes aceder a <a href="http://support.code.org">support.code.org</a>
+    podem criar uma conta no nosso site. Podes aceder a <a href="http://help.edraak.org">help.edraak.org</a>
     sem criares uma conta ou podes pedir aos teus pais ou a um professor para entrarem
     em contacto connosco.
   zendesk_too_young_message_markdown: Pedimos desculpa, mas os utilizadores mais jovens
-    não podem criar uma conta no nosso site. Podes aceder a [support.code.org](http://support.code.org)
+    não podem criar uma conta no nosso site. Podes aceder a [help.edraak.org](http://help.edraak.org)
     sem criares uma conta ou podes pedir aos teus pais ou a um professor para entrarem
     em contacto connosco.
   progress:

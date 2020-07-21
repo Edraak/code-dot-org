@@ -497,7 +497,7 @@ pl:
     feedback: 'Wyraź swoją opinię'
     translate: 'Pomóż nam tłumaczyć na Twój język'
     support: 'Wsparcie'
-    support_url: 'http://support.Code.org/'
+    support_url: 'http://help.edraak.org/'
     tos_short: 'Warunki'
     tos: 'Regulamin'
     privacy: 'Polityka prywatności'
@@ -643,7 +643,7 @@ pl:
   landing:
     report_bug: "Zgłoś błędy"
     support: "Uzyskaj pomoc"
-    support_url: "//support.Code.org"
+    support_url: "//help.edraak.org"
     help_resources: "Pomoc i Zasoby"
     help_support: "Pomoc i wsparcie"
     documentation: "Dokumentacja"
@@ -745,8 +745,8 @@ pl:
       opt_out: "Wolę nie mówić"
     submit: "Wyślij"
     decline: "Zamknij"
-  zendesk_too_young_message: 'Przepraszamy, młodsi użytkownicy nie mogą logować się na naszej stronie pomocy. Możesz przejrzeć <a href="http://support.code.org"> support.code.org</a> bez logowania się lub poprosić rodziców lub nauczyciela, by skontaktowali się z nami  w Twoim imieniu.'
-  zendesk_too_young_message_markdown: 'Przepraszamy, młodsi użytkownicy nie mogą logować się na naszej stronie pomocy. Możesz przejrzeć [support.code.org](http://support.code.org) bez logowania się lub poprosić rodziców lub nauczyciela, by skontaktowali się z nami w Twoim imieniu.'
+  zendesk_too_young_message: 'Przepraszamy, młodsi użytkownicy nie mogą logować się na naszej stronie pomocy. Możesz przejrzeć <a href="http://help.edraak.org"> help.edraak.org</a> bez logowania się lub poprosić rodziców lub nauczyciela, by skontaktowali się z nami  w Twoim imieniu.'
+  zendesk_too_young_message_markdown: 'Przepraszamy, młodsi użytkownicy nie mogą logować się na naszej stronie pomocy. Możesz przejrzeć [help.edraak.org](http://help.edraak.org) bez logowania się lub poprosić rodziców lub nauczyciela, by skontaktowali się z nami w Twoim imieniu.'
   progress:
     not_started: nierozpoczęte
     in_progress: w toku

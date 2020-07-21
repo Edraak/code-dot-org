@@ -98,7 +98,7 @@ Kui juhendi järgi on õppetunnis oluline heli, siis jagage õpilastele kõrvakl
 ## Teised KoodiTund materjalid õpetajatele:
 
 - Külasta ka [KoodiTund foorumit](http://forum.code.org/c/plc/hour-of-code), kus saad teistelt korraldajalt küsida nõu ja soovitusi.
-- Vaata ka [KoodiTund KKK](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Vaata ka [KoodiTund KKK](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## Mis saab pärast KoodiTund ürituse läbiviimist?
 

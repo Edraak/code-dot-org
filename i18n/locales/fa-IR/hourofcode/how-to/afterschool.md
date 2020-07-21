@@ -75,7 +75,7 @@ title: راهنما
 - تجربه های موفق سایر مدرسان ساعت کدنویسی را [اینجا ببینید](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466).
 - ویدئوی ضبط شده در وبینار ما را در مورد [راهنمای ساعت کدنویسی برای مدرسان](https://youtu.be/EJeMeSW2-Mw) را تماشا کنید.
 - [تالار گفتگوی ساعت کدنویسی](http://forum.code.org/c/plc/hour-of-code)را برای دریافت مشاوره، کمک و پشتیبانی از سایر برگزارکنندگان بازدید کنید.
-- [پرسش و پاسخ ساعت کدنویسی](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) را ببینید.
+- [پرسش و پاسخ ساعت کدنویسی](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code) را ببینید.
 
 ## مرحله بعد از ساعت كدنويسي چيست؟
 

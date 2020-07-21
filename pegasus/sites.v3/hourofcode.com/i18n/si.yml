@@ -726,9 +726,9 @@ si:
 
     Above all, what all participants can learn in an hour is that we can do this.
   hoc_faq_more_questions_q: තවමත් ඔබට තවත් ගැටලු තිබේද?
-  hoc_faq_more_questions_a: අපගේ <a href='http://support.code.org'>උපකාරක ෆෝරමයෙන්</a>
+  hoc_faq_more_questions_a: අපගේ <a href='http://help.edraak.org'>උපකාරක ෆෝරමයෙන්</a>
     පිළිතුර සොයාගැනීමට උත්සාහකරන්න.
-  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://support.code.org).
+  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://help.edraak.org).
   hoc_faq_keep_learning_q: එකෙන් පසුව මා දිගින් දිගටම ඉගෙනගන්නේ කෙසේද?
   hoc_faq_keep_learning_a: ඕනෑම අයෙකුට වැඩසටහනක් සංවිධානය කල හැකියි. මෙම පාඩම් මාලා
     ඕනෑම විටක අපගේ වෙබ් අඩවියෙන් ලබාගත හැක. ඔබෙ වැඩසටහන සාර්ථක කරගැනීම සඳහා උපදෙස්
@@ -751,7 +751,7 @@ si:
   hoc_faq_logo_q: Hour of Code ලාංඡනය හෝ නාමය භාවිතාකීරීම සඳහා සීමාවන් තිබේද?
   hoc_faq_logo_a: Hour of Code යනු ලියාපදිංචි වෙළඳ සලකුණකි. අපට එය භාවිතා කිරීම වැලැක්වීමට
     අවශ්‍ය නැති නමුත් එය සීමාසහිතව භාවිතා වීම පිලිබඳ සෑහීමක පත් විය හැකි විය යුතුය.
-    කරුණාකර භාවිත කිරීමේ ප්‍රතිපත්ති කියවන්න <a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>මෙතනින්</a>.
+    කරුණාකර භාවිත කිරීමේ ප්‍රතිපත්ති කියවන්න <a href='https://help.edraak.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>මෙතනින්</a>.
   hoc_faq_logo_a_markdown: Hour of Code is trademarked. We don't want to prevent its
     usage, but we want to make sure its usage fits within a few limits. Please see
     [these guidelines for usage](%{logo_url}).

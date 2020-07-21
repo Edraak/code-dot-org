@@ -645,8 +645,8 @@ ja:
 
     Above all, what all participants can learn in an hour is that we can do this.
   hoc_faq_more_questions_q: この他に質問がありますか？
-  hoc_faq_more_questions_a: "<a href='http://support.code.org'>サポート フォーラム</a> で回答を探してみてください。"
-  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://support.code.org).
+  hoc_faq_more_questions_a: "<a href='http://help.edraak.org'>サポート フォーラム</a> で回答を探してみてください。"
+  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://help.edraak.org).
   hoc_faq_keep_learning_q: Hour of Codeに参加したあと、どのように学び続けることができますか？
   hoc_faq_keep_learning_a: 誰もが、Hour of Codeのイベントを、いつでもどこでも開催できます。Hour of Codeのチュートリアルやカリキュラムは、永続的にオンラインで提供されますので、ご安心ください。Hour
     of Codeのイベントを成功させる秘訣は、<a href='/promote'>こちら</a>を御覧ください。
@@ -663,7 +663,7 @@ ja:
     also print out [special certificates](%{codeorg_url}/certificates?course=mc) for
     students doing the Minecraft tutorial.
   hoc_faq_logo_q: Hour of Code のロゴや名前の使い方に、何か制限はありますか？
-  hoc_faq_logo_a: Hour of Code は登録商標です。我々はその使用を妨げませんが、いくつかの制限を確実に守るようにして下さい。<a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>
+  hoc_faq_logo_a: Hour of Code は登録商標です。我々はその使用を妨げませんが、いくつかの制限を確実に守るようにして下さい。<a href='https://help.edraak.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>
     使用法のガイドライン</a> を参照してください。
   hoc_faq_logo_a_markdown: Hour of Code is trademarked. We don't want to prevent its
     usage, but we want to make sure its usage fits within a few limits. Please see

@@ -728,8 +728,8 @@ nn:
 
     Above all, what all participants can learn in an hour is that we can do this.
   hoc_faq_more_questions_q: Har du framleis fleire spørsmål?
-  hoc_faq_more_questions_a: Sjå om du finn eit svar i vårt <a href='http://support.code.org'>brukarstøtteforum</a>.
-  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://support.code.org).
+  hoc_faq_more_questions_a: Sjå om du finn eit svar i vårt <a href='http://help.edraak.org'>brukarstøtteforum</a>.
+  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://help.edraak.org).
   hoc_faq_keep_learning_q: Korleis held eg fram med læringa etter Kodetimen?
   hoc_faq_keep_learning_a: Kven som helst kan halde ein Kodetime når som helst. Rettleiingane
     vert haldne oppdatert heile året. Du kan forvente at alle rettleiingar og oppgåver
@@ -754,7 +754,7 @@ nn:
     og logo?
   hoc_faq_logo_a: Kodetimen er eit varemerke. Vi ønskjer ikkje å hindre bruken av
     det, men vi vil sikre oss at bruken er innanfor visse avgrensingar. Vær venleg
-    og sjå <a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>desse
+    og sjå <a href='https://help.edraak.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>desse
     retningslinjene for bruk</a>.
   hoc_faq_logo_a_markdown: Hour of Code is trademarked. We don't want to prevent its
     usage, but we want to make sure its usage fits within a few limits. Please see

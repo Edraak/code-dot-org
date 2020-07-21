@@ -3957,20 +3957,20 @@ zh-CN:
           课程长度\n\n完成在线课程可能需要 3-7 个小时，体取决于先前的知识以及希望探究 Code.org 资源的深度。\n"
       OPD-K5 Assessment:
         markdown: "# 计划 > 其它资源\n\n作为教师登录 Code.org 后，可以看到更多学生没有的功能。已经了解了如何查找课程，创建部分并将课程分配给该部分。还可以：
-          \n\n- **跟踪学生进度**：[评估](https://support.code.org/hc/en-us/articles/115000693231-Viewing-student-progress)
+          \n\n- **跟踪学生进度**：[评估](https://help.edraak.org/hc/en-us/articles/115000693231-Viewing-student-progress)
           所有学生的学习情况。\n- **课程进度**：作为学习者，可以在 Code.org 课程上查看自己的个人进度。学生也可以查看他自己的进度。但作为老师，也可以查看课程计划并查看每个难题的解决方案。\n-
-          **帮助和社区**: 访问 [support.code.org](https://support.code.org/)，可发布问题，答复其他教师的发现，阅读
+          **帮助和社区**: 访问 [help.edraak.org](https://help.edraak.org/)，可发布问题，答复其他教师的发现，阅读
           Code.org 员工提供的常见问答。在这个页面，还可以直接联系 Code.org，提出任何问题。\n- **专业发展**：访问为教师提供的 [个人培训](https://code.org/professional-development-workshops)。\n-
           **计算机科学演讲嘉宾**: [寻找聪明、热情和有吸引力的科技行业专业人员](https://code.org/volunteer/local)，他们非常愿意到班级中谈论自己的工作。\n\n<br/>\n---\n>
-          ## 访问 support.code.org\n> 如果遇到困难或有疑问，请确保查看了 support.code.org 上的支持文档！也可以直接通过此页面找到我们。[论坛](http://forum.code.org/t/teaching-conditionals/406/1)。\n\n>
-          <a href=\"http://support.code.org\" target=\"blank\"><button class=\"plc\">获得帮助
+          ## 访问 help.edraak.org\n> 如果遇到困难或有疑问，请确保查看了 help.edraak.org 上的支持文档！也可以直接通过此页面找到我们。[论坛](http://forum.code.org/t/teaching-conditionals/406/1)。\n\n>
+          <a href=\"http://help.edraak.org\" target=\"blank\"><button class=\"plc\">获得帮助
           >></button></a>\n\n在论坛中发表评论后，返回此处，然后单击下面的按钮进入下一阶段。\n"
       OPD-K5 CS Courses:
         markdown: "# 计划 > Code.org 入门\n\n\n## 第 1 步：选择课程\n所有的课程 -- 从学前班到高中 -- 都列在了
           **[课程分类](https://studio.code.org/courses)**。要找到学习的计算机科学基础课程，访问 **[小学页面](https://code.org/educate/curriculum/elementary-school)**
           并滚动到 \"课程\" 章节。所有的课程都不需要付费。与学校的同事讨论，以确定如何将课程与各种科目整合在一起。\n![](https://images.code.org/37dd42348eba605513fd0b1f17d1409c-image-1549066063927.png)\n***\n##
           第 2 步：设置课堂小组\n设置课堂小组来查看学生进度，为学生打印登录卡片，管理账号，并在完成后打印出能带回家的证书。点击链接 **[观看简短介绍](https://code.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=56d32934-3f67-48db-98db-e66e9152df7b)**，展示了如何在
-          Code.org 设置第一个计算机科学班级。也可以在 **[支持文档](https://support.code.org/hc/en-us/articles/115000488132-Creating-a-classroom-section)**
+          Code.org 设置第一个计算机科学班级。也可以在 **[支持文档](https://help.edraak.org/hc/en-us/articles/115000488132-Creating-a-classroom-section)**
           中找到这些步骤。\n![](https://images.code.org/26b023ea019f33492aebea43eb6a1dfe-image-1549065670221.png)\n***\n##
           第 3 步：将课程分配给小组\n点击正在教学的课程 -- 应该可看到下面这样的页面。点击 \"分配课程\" 并将课程分配给某个小组。 \n![](https://images.code.org/3b81aa7989d237447e525f42646412d4-image-1549065690577.png)\n***\n##
           第 4 步：开始教学！ \n所需要的只是一堂将计算机科学概念带入课堂的课程。一旦看到学生对计算机科学的热情，就可以进一步制定每日课程计划来指导学生，无需计算机即可进行的线下活动，以及与其他老师建立联系的论坛。\n\n\n"
@@ -4226,8 +4226,8 @@ zh-CN:
           target=\"_new\">专业学习社区 (PLC) 论坛</a>。 \n可以先介绍一下自己：<a href=\"http://forum.code.org/t/welcome-please-introduce-yourself/410\"
           target=\"_new\">\"自我介绍\" 贴</a>。整个过程中，都可以用论坛来与其他学习者，随时分享想法，收获与问题。\n\n<a href=\"http://forum.code.org/t/welcome-please-introduce-yourself/410/1\"
           target=\"blank\"><button class=\"plc\">立刻介绍自己 >></button></a><br>\n\n##
-          在需要时寻求帮助\n\n无论何时，在课程中卡住了，可前往 [support.code.org](http://support.code.org)
-          并访问 [社区论坛](https://support.code.org/hc/communities/public/topics)。可能会找到答案。如果没找到答案，或还有困难，可发邮件给
+          在需要时寻求帮助\n\n无论何时，在课程中卡住了，可前往 [help.edraak.org](http://help.edraak.org)
+          并访问 [社区论坛](https://help.edraak.org/hc/communities/public/topics)。可能会找到答案。如果没找到答案，或还有困难，可发邮件给
           [teacher@code.org](mailto:teacher@code.org)，Code.org 的工作人员会尽快与您联系。\n\n##
           一起学习！\n\n请记住，我们是一个很小的团队，并且我们能力的规模，我们无法像面对面的培训一样回应所有的支持请求。出于这个原因，我们建议您与合作伙伴或同事小组一起完成此在线课程***。\n\nCode.org
           认识到结对学习和协作的力量。实际上，\"结对编程\" 是一种很好的行业实践，将在第 8 阶段将其作为课堂最佳实践进行探讨。如果觉得与伙伴或小组学习会更好，为什么不与他们一起完成课程？如果您不认识现实中有人能一起学习，可前往
@@ -4607,7 +4607,7 @@ zh-CN:
           并从计算机科学基础 A-F 课程中找到课程计划和完整的课程。如果对初中或高中课程感兴趣，可以找到所有年级的内容 - 从学前到高中高年级，其中所有人。所有课程都是免费的。与同事讨论，以确定如何将课程教案与各种科目整合在一起。
           \n \n## 第 2 步：设置课堂小组\n设置课堂小组，可查看学生进度，打印学生的登录卡片，管理账号，打印可带回家的完成课程的证书。点击链接来
           [观看简介](https://code.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=56d32934-3f67-48db-98db-e66e9152df7b)，其演示了如何在
-          Code.org 设置第一个计算机科学班级。 也可在 [支持文档](https://support.code.org/hc/en-us/articles/115000488132-Creating-a-classroom-section)
+          Code.org 设置第一个计算机科学班级。 也可在 [支持文档](https://help.edraak.org/hc/en-us/articles/115000488132-Creating-a-classroom-section)
           中找到所有步骤。\n\n## Step 3: 第 3 步：将课程分配给小组\n点击正在教学的课程 -- 应该可看到下面这样的页面。点击 \"分配课程\"
           并将课程分配给某个小组。\n\n## 第 4 步：开始教学！\n所需要的只是一堂将计算机科学概念带入课堂的课程。一旦看到学生对计算机科学的热情，就可以进一步制定每日课程计划来指导学生，无需计算机即可进行的线下活动，以及与其他老师建立联系的论坛。\n\n\n\n"
       OPD-K5 Vocabulary:

@@ -533,7 +533,7 @@ id:
     feedback: 'Berikan pendapat'
     translate: 'Bantu kami menerjemahkan ke bahasa anda'
     support: 'Bantuan dan komunitas'
-    support_url: 'http://support.code.org'
+    support_url: 'http://help.edraak.org'
     tos_short: 'Ketentuan'
     tos: 'Ketentuan Layanan'
     privacy: 'Kebijakan privasi'
@@ -677,7 +677,7 @@ id:
   landing:
     report_bug: "Laporkan kesalahan"
     support: "Dapatkan bantuan"
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: "Bantuan dan Sumber Daya"
     help_support: "Bantuan dan dukungan"
     documentation: "Dokumentasi"
@@ -779,8 +779,8 @@ id:
       opt_out: "Memilih untuk tidak menjawab"
     submit: "Kirim"
     decline: "Tutup"
-  zendesk_too_young_message: 'Maaf Pengguna lebih muda tidak bisa masuk ke dalam situs pendukung kami. Anda dapat mengakses  <a href="http://support.code.org">support.code.org</a> tanpa masuk atau minta orang tua anda  atau guru anda untuk menghubungi kami. u.'
-  zendesk_too_young_message_markdown: 'Maaf Pengguna lebih muda tidak bisa masuk ke dalam situs pendukung kami. Anda dapat mengakses [support.code.org](http://support.code.org) tanpa masuk atau minta orang tua anda atau guru anda untuk menghubungi kami. u.'
+  zendesk_too_young_message: 'Maaf Pengguna lebih muda tidak bisa masuk ke dalam situs pendukung kami. Anda dapat mengakses  <a href="http://help.edraak.org">help.edraak.org</a> tanpa masuk atau minta orang tua anda  atau guru anda untuk menghubungi kami. u.'
+  zendesk_too_young_message_markdown: 'Maaf Pengguna lebih muda tidak bisa masuk ke dalam situs pendukung kami. Anda dapat mengakses [help.edraak.org](http://help.edraak.org) tanpa masuk atau minta orang tua anda atau guru anda untuk menghubungi kami. u.'
   progress:
     not_started: belum dimulai
     in_progress: sedang berlangsung

@@ -75,7 +75,7 @@ Promote your Hour of Code [with these tools]({{ urls/promote }}) and encourage o
 - Вижте [ най-добрите практики](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) от отминали събития, споделени от учители.
 - Гледайте запис от нашето [ ръководство за преподаватели за Hour of Code webinar](https://youtu.be/EJeMeSW2-Mw).
 - Посетете [ Hour of Code Форума](http://forum.code.org/c/plc/hour-of-code), за да получите съвети и подкрепа от други преподаватели.
-- Прегледайте [ часът на кода често задавани въпроси](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Прегледайте [ часът на кода често задавани въпроси](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## Какво идва след Hour of Code?
 

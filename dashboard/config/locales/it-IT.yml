@@ -1016,11 +1016,11 @@ it:
     submit: Invia
     decline: Chiudi
   zendesk_too_young_message: Siamo spiacenti, gli utenti più giovani non possono accedere
-    al nostro sito di supporto.<a href="http://support.code.org"></a> Contattaci su
+    al nostro sito di supporto.<a href="http://help.edraak.org"></a> Contattaci su
     <a href="http://programmailfuturo.it">programmailfuturo.it</a> oppure chiedi ai
     tuoi genitori o insegnanti di contattarci al posto tuo.
   zendesk_too_young_message_markdown: Siamo spiacenti, gli utenti più giovani non
-    possono accedere al nostro sito di supporto.[](http://support.code.org) Contattaci
+    possono accedere al nostro sito di supporto.[](http://help.edraak.org) Contattaci
     su [programmailfuturo.it](http://programmailfuturo.it) oppure chiedi ai tuoi genitori
     o insegnanti di contattarci al posto tuo.
   progress:

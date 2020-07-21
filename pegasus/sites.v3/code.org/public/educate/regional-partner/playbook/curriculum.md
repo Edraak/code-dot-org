@@ -68,7 +68,7 @@ ________________
 
 
 - [Teacher Forums](http://forum.code.org/): These forums are program specific and are a great way for teachers to help each other with questions about their online coursework and workshops. We recommend giving your teachers a space to help each other answer questions, and collaborate.
-- [Support.code.org](https://support.code.org/hc/en-us): Code.org updates answers to new questions every week. See answers to teacher questions and submit new ones here.
+- [help.edraak.org](https://help.edraak.org/hc/en-us): Code.org updates answers to new questions every week. See answers to teacher questions and submit new ones here.
 
 
 [**Back to the top**](#top)

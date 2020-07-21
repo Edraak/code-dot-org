@@ -452,7 +452,7 @@ ca:
     feedback: Digues la teva
     translate: Ajudeu-nos a traduir els continguts
     support: Suport
-    support_url: http://support.code.org
+    support_url: http://help.edraak.org
     tos_short: Condicions
     tos: Condicions d'ús
     privacy: Política de privadesa
@@ -582,7 +582,7 @@ ca:
   landing:
     report_bug: Informeu d'errors
     support: Obtenir ajuda
-    support_url: support.code.org
+    support_url: help.edraak.org
     help_support: Ajuda i suport
   free_response:
     placeholder: Introdueix la teva resposta aquí
@@ -649,11 +649,11 @@ ca:
     submit: Envia
     decline: Tanca
   zendesk_too_young_message: Lamentablement, els usuaris més joves no poden registrar-se
-    en el nostre lloc de suport. Podeu navegar<a href="http://support.code.org">upport.code.org</a>
+    en el nostre lloc de suport. Podeu navegar<a href="http://help.edraak.org">upport.code.org</a>
     sense registrar-vos o demanar als vostres pares o mestres que contactin amb nosaltres
     en representació vostra.
   zendesk_too_young_message_markdown: Lamentablement, els usuaris més joves no poden
-    registrar-se en el nostre lloc de suport. Podeu navegar[upport.code.org](http://support.code.org)
+    registrar-se en el nostre lloc de suport. Podeu navegar[upport.code.org](http://help.edraak.org)
     sense registrar-vos o demanar als vostres pares o mestres que contactin amb nosaltres
     en representació vostra.
   progress:

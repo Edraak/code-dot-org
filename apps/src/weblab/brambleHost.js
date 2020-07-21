@@ -666,7 +666,7 @@ function load(Bramble) {
 }
 
 const SUPPORT_ARTICLE_URL =
-  'https://support.code.org/hc/en-us/articles/360016804871';
+  'https://help.edraak.org/hc/en-us/articles/360016804871';
 const SUPPORT_ARTICLE_HTML = `Please see our support article <a href="${SUPPORT_ARTICLE_URL}">"Troubleshooting Web Lab problems"</a> for more information.`;
 
 // Custom modal for handling Bramble initialization errors and pointing users to our support article.

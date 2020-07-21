@@ -593,7 +593,7 @@ fil:
     feedback: Magbigay ng feedback
     translate: Magboluntaryo para isalin ang aming content
     support: Tulong at Komunidad
-    support_url: http://support.code.org/
+    support_url: http://help.edraak.org/
     tos_short: Mga Alituntunin
     tos: Mga Alituntunin ng Serbisyo
     privacy: Patakaran sa Pagkapribado
@@ -932,12 +932,12 @@ fil:
     submit: Ipasa
     decline: Isara
   zendesk_too_young_message: Ipagpaumanhin niyo po, ang nakakabatang mga user ay hindi
-    maaring mag-sign in sa aming support na site. Maari kang mag-browse sa <a href="http://support.code.org">support.code.org</a>
+    maaring mag-sign in sa aming support na site. Maari kang mag-browse sa <a href="http://help.edraak.org">help.edraak.org</a>
     kahit hindi naka-sign in o magpatulong sa iyong magulang o guro para makipag-ugnayan
     sa amin para sa iyo.
   zendesk_too_young_message_markdown: Ipagpaumanhin niyo po, ang nakakabatang mga
     user ay hindi maaring mag-sign in sa aming support na site. Maari kang mag-browse
-    sa [support.code.org](http://support.code.org) kahit hindi naka-sign in o magpatulong
+    sa [help.edraak.org](http://help.edraak.org) kahit hindi naka-sign in o magpatulong
     sa iyong magulang o guro para makipag-ugnayan sa amin para sa iyo.
   progress:
     not_started: hindi pa nasimulan

@@ -63,7 +63,7 @@ We realize that K-12 computing environments can get a bit hairy. We work hard to
 
 ## Getting Help
 
-The curriculum is completely free for anyone, anywhere to teach. You can get support by visiting [support.code.org](http://support.code.org). If you'd like to attend a free training on our K-5 Computer Science curriculum, looke **here** for a workshop near you.
+The curriculum is completely free for anyone, anywhere to teach. You can get support by visiting [help.edraak.org](http://help.edraak.org). If you'd like to attend a free training on our K-5 Computer Science curriculum, looke **here** for a workshop near you.
 
 [/content]
 

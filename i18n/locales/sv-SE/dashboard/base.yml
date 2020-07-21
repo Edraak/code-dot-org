@@ -429,7 +429,7 @@ sv:
     feedback: 'Ge feedback'
     translate: 'Hjälp oss översätta till ditt språk'
     support: 'Hjälp och Community'
-    support_url: 'http://support.code.org/'
+    support_url: 'http://help.edraak.org/'
     tos_short: 'Villkor'
     tos: 'Villkor'
     privacy: 'Sekretesspolicy'
@@ -556,7 +556,7 @@ sv:
   landing:
     report_bug: "Rapportera bugg"
     support: "Få hjälp"
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: "Hjälp och resurser"
     help_support: "Hjälp och support"
     documentation: "Dokumentation"
@@ -651,8 +651,8 @@ sv:
       opt_out: "Föredrar att inte svara"
     submit: "Skicka in"
     decline: "Avsluta"
-  zendesk_too_young_message: 'Tyvärr, yngre användare kan inte logga in på vår supportsida. Du kan besöka<a href="http://support.code.org"> support.code.org</a> utan att logga in eller be din förälder eller lärare att kontakta oss.'
-  zendesk_too_young_message_markdown: 'Tyvärr, yngre användare kan inte logga in på vår supportsida. Du kan besöka[support.code.org](http://support.code.org) utan att logga in eller be din förälder eller lärare att kontakta oss.'
+  zendesk_too_young_message: 'Tyvärr, yngre användare kan inte logga in på vår supportsida. Du kan besöka<a href="http://help.edraak.org"> help.edraak.org</a> utan att logga in eller be din förälder eller lärare att kontakta oss.'
+  zendesk_too_young_message_markdown: 'Tyvärr, yngre användare kan inte logga in på vår supportsida. Du kan besöka[help.edraak.org](http://help.edraak.org) utan att logga in eller be din förälder eller lärare att kontakta oss.'
   progress:
     not_started: inte startat
     in_progress: pågående

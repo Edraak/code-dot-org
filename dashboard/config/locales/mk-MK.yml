@@ -649,7 +649,7 @@ mk:
     feedback: Provide feedback
     translate: Volunteer to translate our content
     support: Support
-    support_url: http://support.code.org
+    support_url: http://help.edraak.org
     tos_short: Terms
     tos: Terms of Service
     privacy: Privacy Policy
@@ -845,7 +845,7 @@ mk:
       is subject to revision as feedback is received and improvements are made.
     report_bug: Report Bug
     support: Get Help
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: Help and Resources
     help_support: Help and support
     documentation: Documentation
@@ -980,7 +980,7 @@ mk:
     submit: Поднеси
     decline: Close
   zendesk_too_young_message: Sorry, younger users may not sign in to our support site.
-    You may browse <a href="http://support.code.org">support.code.org</a> without
+    You may browse <a href="http://help.edraak.org">help.edraak.org</a> without
     signing in or ask your parent or teacher to contact us for you.
   progress:
     not_started: not started

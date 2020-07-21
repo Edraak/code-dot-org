@@ -549,7 +549,7 @@ fr:
     feedback: 'Fournir un commentaire'
     translate: 'Aidez-nous à traduire dans votre langue'
     support: 'Assistance'
-    support_url: 'http://support.code.org'
+    support_url: 'http://help.edraak.org'
     tos_short: 'Conditions Générales'
     tos: 'Conditions Générales d''Utilisation'
     privacy: 'Politique de confidentialité'
@@ -697,7 +697,7 @@ fr:
     prerelease_tutorial: "Ce didacticiel est en version **beta**. Il est sujet à révision, en fonction des commentaires, et des améliorations sont ensuite apportées."
     report_bug: "Signaler un bogue"
     support: "Obtenir de l'aide"
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: "Aide et ressources"
     help_support: "Aide et Support"
     documentation: "Documentation"
@@ -806,8 +806,8 @@ fr:
       opt_out: "Préfère ne pas le dire"
     submit: "Envoyer"
     decline: "Fermer"
-  zendesk_too_young_message: 'Désolé, les plus jeunes utilisateurs ne peuvent pas accéder à notre site d’aide. Tu peux parcourir <a href="http://support.code.org"> support.code.org</a> sans t’authentifier ou demander à tes parents ou ton enseignant de nous contacter à ta place.'
-  zendesk_too_young_message_markdown: 'Désolé, les plus jeunes utilisateurs ne peuvent pas accéder à notre site d’aide. Tu peux parcourir [support.code.org](http://support.code.org) sans t’authentifier ou demander à tes parents ou ton enseignant de nous contacter à ta place.'
+  zendesk_too_young_message: 'Désolé, les plus jeunes utilisateurs ne peuvent pas accéder à notre site d’aide. Tu peux parcourir <a href="http://help.edraak.org"> help.edraak.org</a> sans t’authentifier ou demander à tes parents ou ton enseignant de nous contacter à ta place.'
+  zendesk_too_young_message_markdown: 'Désolé, les plus jeunes utilisateurs ne peuvent pas accéder à notre site d’aide. Tu peux parcourir [help.edraak.org](http://help.edraak.org) sans t’authentifier ou demander à tes parents ou ton enseignant de nous contacter à ta place.'
   progress:
     not_started: pas commencé
     in_progress: en cours

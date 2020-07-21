@@ -551,7 +551,7 @@ nl:
     feedback: Geef feedback
     translate: Help ons te vertalen naar uw taal
     support: Help en Gemeenschap
-    support_url: http://support.code.org
+    support_url: http://help.edraak.org
     tos_short: Voorwaarden
     tos: Gebruiksvoorwaarden
     privacy: Privacybeleid
@@ -701,7 +701,7 @@ nl:
   landing:
     report_bug: Meld Bug
     support: Help
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: Hulp en Ondersteuning
     help_support: Hulp en ondersteuning
     documentation: Documentatie
@@ -791,11 +791,11 @@ nl:
     submit: Insturen
     decline: Afsluiten
   zendesk_too_young_message: Sorry, jeugdige gebruikers mogen niet inloggen op onze
-    ondersteuningssite. Je mag <a href="http://support.code.org">support.code.org</a>
+    ondersteuningssite. Je mag <a href="http://help.edraak.org">help.edraak.org</a>
     wel bekijken zonder in te loggen of je ouder of leraar vragen met ons contact
     op te nemen.
   zendesk_too_young_message_markdown: Sorry, jeugdige gebruikers mogen niet inloggen
-    op onze ondersteuningssite. Je mag [support.code.org](http://support.code.org)
+    op onze ondersteuningssite. Je mag [help.edraak.org](http://help.edraak.org)
     wel bekijken zonder in te loggen of je ouder of leraar vragen met ons contact
     op te nemen.
   progress:

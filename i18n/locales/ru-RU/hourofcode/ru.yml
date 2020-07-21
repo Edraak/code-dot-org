@@ -755,8 +755,8 @@ ru:
 
     Above all, what all participants can learn in an hour is that we can do this.
   hoc_faq_more_questions_q: У вас ещё остались вопросы?
-  hoc_faq_more_questions_a: Попробуйте найти ответ на нашем <a href='http://support.code.org'>форуме</a>.
-  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://support.code.org).
+  hoc_faq_more_questions_a: Попробуйте найти ответ на нашем <a href='http://help.edraak.org'>форуме</a>.
+  hoc_faq_more_questions_a_markdown: Try finding an answer in our [support forum](http://help.edraak.org).
   hoc_faq_keep_learning_q: Как мне продолжать учиться после Часа Кода?
   hoc_faq_keep_learning_a: Провести Час Кода может кто угодно и в любое время. Обучающие
     материалы доступны для общего пользования круглый год. Вы также можете сделать
@@ -781,7 +781,7 @@ ru:
     или название?
   hoc_faq_logo_a: Час кода является торговой маркой. Мы не хотим предотвратить его
     использование, но мы хотим убедиться, чтобы его использование отвечало нескольким
-    требованиям. Пожалуйста посмотрите <a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>эти
+    требованиям. Пожалуйста посмотрите <a href='https://help.edraak.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>эти
     руководящие принципы для использования</a>.
   hoc_faq_logo_a_markdown: Hour of Code is trademarked. We don't want to prevent its
     usage, but we want to make sure its usage fits within a few limits. Please see

@@ -75,7 +75,7 @@ Beginnen Sie Ihre Hour of Code mit einer motivierenden Diskussion mit den Teilne
 - Sehen Sie sich [bewährte Methoden](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) von früheren Hour of Code Veranstaltern an.
 - Schauen Sie sich die Aufzeichnung unseres [Anleitung für Hour of Code Unterrichtende](https://youtu.be/EJeMeSW2-Mw) Webinars an.
 - Besuchen Sie das [Hour of Code Forum](http://forum.code.org/c/plc/hour-of-code), um Vorschläge, Einblicke und Unterstützung von anderen Veranstaltern zu erhalten.
-- Sehen Sie sich die FAW zu [Hour of Code](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) an.
+- Sehen Sie sich die FAW zu [Hour of Code](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code) an.
 
 ## Was kommt nach der Hour of Code?
 

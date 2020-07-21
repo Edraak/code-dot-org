@@ -799,8 +799,8 @@ ga:
       opt_out: "B'fhearr liom gan freagra a thabhairt"
     submit: "Seol"
     decline: "Dún"
-  zendesk_too_young_message: 'Ár leithscéal, ach níl cead ag úsáideoirí óga logáil isteach sa suíomh tacaíochta. Is féidir leat cuairt a thabhairt ar <a href="http://support.code.org">support.code.org</a> gan logáil isteach, nó iarr ar thuismitheoir nó ar mhúinteoir dul i dteagmháil linn ar do shon.'
-  zendesk_too_young_message_markdown: 'Ár leithscéal, ach níl cead ag úsáideoirí óga logáil isteach sa suíomh tacaíochta. Is féidir leat cuairt a thabhairt ar [support.code.org](http://support.code.org) gan logáil isteach, nó iarr ar thuismitheoir nó ar mhúinteoir dul i dteagmháil linn ar do shon.'
+  zendesk_too_young_message: 'Ár leithscéal, ach níl cead ag úsáideoirí óga logáil isteach sa suíomh tacaíochta. Is féidir leat cuairt a thabhairt ar <a href="http://help.edraak.org">help.edraak.org</a> gan logáil isteach, nó iarr ar thuismitheoir nó ar mhúinteoir dul i dteagmháil linn ar do shon.'
+  zendesk_too_young_message_markdown: 'Ár leithscéal, ach níl cead ag úsáideoirí óga logáil isteach sa suíomh tacaíochta. Is féidir leat cuairt a thabhairt ar [help.edraak.org](http://help.edraak.org) gan logáil isteach, nó iarr ar thuismitheoir nó ar mhúinteoir dul i dteagmháil linn ar do shon.'
   progress:
     not_started: gan tosú
     in_progress: idir lámha

@@ -98,7 +98,7 @@ Sediakan fon kepala untuk kelas anda, atau meminta pelajar untuk menyediakan sen
 ## Sumber Hour of Code yang lain untuk warga pendidik:
 
 - Lawati [Forum Guru Hour of Code](http://forum.code.org/c/plc/hour-of-code) untuk mendapatkan nasihat, teguran dan sokongan daripada warga pendidik yang lain.
-- Mengkaji semula [Soalan Lazim Hour of Code](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Mengkaji semula [Soalan Lazim Hour of Code](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## Apakah pula selepas Hour of Code?
 

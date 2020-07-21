@@ -75,7 +75,7 @@ Também disponibilizamos nossos vídeos para download. Durante os tutorais, tamb
 
 ## Obtendo ajuda
 
-O currículo de ensino é completamente gratuito e está disponível para qualquer um, em qualquer lugar. Você pode obter ajuda acessando [support.code.org](http://support.code.org). Se você é professor e gostaria de participar de um treinamento gratuito sobre nosso currículo de ciência da computação para alunos do Ensino Fundamental 1, veja [aqui](http://code.org/k5) uma oficina próxima de você.
+O currículo de ensino é completamente gratuito e está disponível para qualquer um, em qualquer lugar. Você pode obter ajuda acessando [help.edraak.org](http://help.edraak.org). Se você é professor e gostaria de participar de um treinamento gratuito sobre nosso currículo de ciência da computação para alunos do Ensino Fundamental 1, veja [aqui](http://code.org/k5) uma oficina próxima de você.
 
 [/content]
 

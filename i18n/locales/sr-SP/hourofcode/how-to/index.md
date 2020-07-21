@@ -98,7 +98,7 @@ The best Hour of Code experience includes Internet-connected computers. **Ниј
 ## Other Hour of Code resources for educators:
 
 - Visit the [Hour of Code Teacher Forum](http://forum.code.org/c/plc/hour-of-code) to get advice, insight and support from other educators.
-- Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Review the [Hour of Code FAQ](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## What comes after the Hour of Code?
 

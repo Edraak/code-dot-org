@@ -378,7 +378,7 @@ sl:
     feedback: 'Povratne informacije'
     translate: 'Pomagajte nam prevesti v vaš jezik'
     support: 'Pomoč in Skupnosti'
-    support_url: 'http://support.code.org/'
+    support_url: 'http://help.edraak.org/'
     tos_short: 'Pravila'
     tos: 'Pogoje storitve'
     privacy: 'Izjava o zasebnosti'
@@ -483,7 +483,7 @@ sl:
   landing:
     report_bug: "Sporoči napako"
     support: "Pomoč"
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
   free_response:
     placeholder: "Vnesite vaš odgovor tukaj"
   multi:
@@ -547,8 +547,8 @@ sl:
       opt_out: "Raje ne bi odgovoril"
     submit: "Pošlji"
     decline: "Zapri"
-  zendesk_too_young_message: 'Žal se mlajši uporabniki ne morejo prijaviti. Lahko pa brez prijave brskate po <a href="http://support.code.org">support.code.org</a>, ali pa zaprosite starše ali učitelje, da nas kontaktirajo.'
-  zendesk_too_young_message_markdown: 'Žal se mlajši uporabniki ne morejo prijaviti. Lahko pa brez prijave brskate po [support.code.org](http://support.code.org), ali pa zaprosite starše ali učitelje, da nas kontaktirajo.'
+  zendesk_too_young_message: 'Žal se mlajši uporabniki ne morejo prijaviti. Lahko pa brez prijave brskate po <a href="http://help.edraak.org">help.edraak.org</a>, ali pa zaprosite starše ali učitelje, da nas kontaktirajo.'
+  zendesk_too_young_message_markdown: 'Žal se mlajši uporabniki ne morejo prijaviti. Lahko pa brez prijave brskate po [help.edraak.org](http://help.edraak.org), ali pa zaprosite starše ali učitelje, da nas kontaktirajo.'
   progress:
     not_started: ni začeto
     in_progress: v teku

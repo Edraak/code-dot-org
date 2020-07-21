@@ -81,7 +81,7 @@ class PublicGallery extends Component {
         <div style={styles.clear} />
         <div style={styles.linkBox}>
           <a
-            href="https://support.code.org/hc/en-us/articles/360001143952"
+            href="https://help.edraak.org/hc/en-us/articles/360001143952"
             style={styles.link}
           >
             <h3>{i18n.reportAbuse()}</h3>

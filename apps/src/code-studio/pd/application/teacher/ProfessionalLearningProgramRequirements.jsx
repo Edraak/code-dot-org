@@ -249,7 +249,7 @@ export default class SummerWorkshop extends LabeledFormComponent {
           <p>
             Refresh the page to try again. If this persists, please
             contact&nbsp;
-            <a href="https://support.code.org/hc/en-us/requests/new">support</a>
+            <a href="https://help.edraak.org/hc/en-us/requests/new">support</a>
             .
           </p>
         </div>

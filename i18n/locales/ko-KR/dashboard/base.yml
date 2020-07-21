@@ -483,7 +483,7 @@ ko:
     feedback: '피드백 남기기'
     translate: '다른 언어로 번역'
     support: '지원'
-    support_url: 'http://support.code.org'
+    support_url: 'http://help.edraak.org'
     tos_short: '약관'
     tos: '이용 약관'
     privacy: '개인정보보호 정책'
@@ -610,7 +610,7 @@ ko:
   landing:
     report_bug: "버그(오류) 신고하기"
     support: "도움 받기"
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: "도움말 및 리소스"
     help_support: "도움말 및 지원"
     documentation: "문서"
@@ -715,8 +715,8 @@ ko:
       opt_out: "말하지 않는 것을 선호한다"
     submit: "제출하기"
     decline: "닫기"
-  zendesk_too_young_message: '어린 학생들은 도움 사이트에 가입할 수 없습니다. 대신 가입하거나 부모나 보호자의 동의 없이  <a href="http://support.code.org">support.code.org</a> 를 사용할 수 있습니다.'
-  zendesk_too_young_message_markdown: '어린 학생들은 도움 사이트에 가입할 수 없습니다. 대신 가입하거나 부모나 보호자의 동의 없이 [support.code.org](http://support.code.org) 를 사용할 수 있습니다.'
+  zendesk_too_young_message: '어린 학생들은 도움 사이트에 가입할 수 없습니다. 대신 가입하거나 부모나 보호자의 동의 없이  <a href="http://help.edraak.org">help.edraak.org</a> 를 사용할 수 있습니다.'
+  zendesk_too_young_message_markdown: '어린 학생들은 도움 사이트에 가입할 수 없습니다. 대신 가입하거나 부모나 보호자의 동의 없이 [help.edraak.org](http://help.edraak.org) 를 사용할 수 있습니다.'
   progress:
     not_started: 시작 안됨
     in_progress: 진행 중

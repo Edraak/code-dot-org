@@ -98,7 +98,7 @@ Promote your Hour of Code [with these tools]({{ urls/promote_resources }}) and e
 ## اساتذہ کے لیے آور-آف-کوڈ کے دیگر ذرائع (ریسورسز):
 
 - دیگر ایجوکیٹرز سے مشاورت، بصیرت اور معاونت حاصل کرنے کے لیے [آور-آف-کوڈ ٹیچر فورم](http://forum.code.org/c/plc/hour-of-code) پر وزٹ کریں۔.
-- [آور-آف-کوڈ FAQ ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code)کا جائزہ لیں۔.
+- [آور-آف-کوڈ FAQ ](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code)کا جائزہ لیں۔.
 
 ## آور-آف-کوڈ کے بعد کیا ہو گا?
 

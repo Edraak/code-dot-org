@@ -65,7 +65,7 @@ Tidak mengapa jika menjawab:
 
 Kongsi gambar-gambar dan video-viceo acara Hour of Code and di media sosial. Gunakan #HourOfCode dan @codeorg supaya kami boleh menonjolkan kejayaan anda juga!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## Apakah pula selepas Hour of Code?
 

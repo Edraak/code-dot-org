@@ -450,7 +450,7 @@
     feedback: Enviar comentarios
     translate: Ayúdanos a traducir a tu idioma
     support: Soporte
-    support_url: http://support.code.org
+    support_url: http://help.edraak.org
     tos: Términos
     privacy: Política de Privacidad
     secure: Versión Segura
@@ -579,7 +579,7 @@
     feedback: Envía comentarios
     report_bug: Informar sobre un error
     support: Obtener ayuda
-    support_url: //support.code.org
+    support_url: //help.edraak.org
   multi:
     wrong_title: Respuesta incorrecta
     wrong_body: La respuesta no es correcta. Por favor ¡intenta de nuevo!
@@ -656,7 +656,7 @@
     sign_out: Si no quieres proporcionar tu edad puedes <a heref="%{url}">finalizar
       tu sesión</a>.
   zendesk_too_young_message: Lo sentimos, los usuarios más jóvenes no pueden registrarse
-    en nuestro sitio de soporte. Puedes navegar <a href="http://support.code.org">support.code.org</a>
+    en nuestro sitio de soporte. Puedes navegar <a href="http://help.edraak.org">help.edraak.org</a>
     sin registrarte o pedir a tus padres o maestros que nos contacten en tu nombre.
   progress:
     not_started: No iniciado

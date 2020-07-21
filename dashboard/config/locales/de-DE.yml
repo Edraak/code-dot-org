@@ -687,7 +687,7 @@ de:
     feedback: Feedback geben
     translate: Hilf uns, in deine Sprache zu übersetzen
     support: Unterstützung
-    support_url: http://support.code.org
+    support_url: http://help.edraak.org
     tos_short: Bedingungen
     tos: AGBs
     privacy: Datenschutzerklärung
@@ -881,7 +881,7 @@ de:
       Rückmeldungen noch überarbeitet und verbessert.
     report_bug: Fehler melden
     support: Hilfe erhalten
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: Hilfe und Ressourcen
     help_support: Hilfe und Support
     documentation: Dokumentation
@@ -1040,11 +1040,11 @@ de:
     submit: Absenden
     decline: Schließen
   zendesk_too_young_message: Tut uns leid, jüngere Benutzer dürfen sich für unsere
-    Hilfeseite nicht anmelden. Du kannst <a href="http://support.code.org">support.code.org</a>
+    Hilfeseite nicht anmelden. Du kannst <a href="http://help.edraak.org">help.edraak.org</a>
     durchsuchen, ohne dich anzumelden, oder deine Eltern oder Lehrer bitten, uns zu
     kontaktieren.
   zendesk_too_young_message_markdown: Tut uns leid, jüngere Benutzer dürfen sich für
-    unsere Hilfeseite nicht anmelden. Du kannst [support.code.org](http://support.code.org)
+    unsere Hilfeseite nicht anmelden. Du kannst [help.edraak.org](http://help.edraak.org)
     durchsuchen, ohne dich anzumelden, oder deine Eltern oder Lehrer bitten, uns zu
     kontaktieren.
   progress:

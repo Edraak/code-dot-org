@@ -120,7 +120,7 @@ NoClassroomsFound.propTypes = {
 };
 
 const ROSTERED_SECTIONS_SUPPORT_URL =
-  'https://support.code.org/hc/en-us/articles/115001319312';
+  'https://help.edraak.org/hc/en-us/articles/115001319312';
 const LoadError = ({rosterProvider, loginType}) => {
   switch (rosterProvider) {
     case OAuthSectionTypes.google_classroom:

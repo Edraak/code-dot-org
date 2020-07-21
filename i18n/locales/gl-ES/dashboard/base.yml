@@ -615,8 +615,8 @@ gl:
       other: "Outros"
     submit: "Enviar"
     decline: "Pechar"
-  zendesk_too_young_message: 'Pedimos desculpa, pero os usuarios máis novos non poden crear unha conta no noso sitio Web. Podes acceder a <a href="http://support.code.org">support.code.org</a> sen creares unha conta ou podes pedir aos teus pais ou a un profesor entraren en contacto connosco.'
-  zendesk_too_young_message_markdown: 'Pedimos desculpa, pero os usuarios máis novos non poden crear unha conta no noso sitio Web. Podes acceder a [support.code.org](http://support.code.org) sen creares unha conta ou podes pedir aos teus pais ou a un profesor entraren en contacto connosco.'
+  zendesk_too_young_message: 'Pedimos desculpa, pero os usuarios máis novos non poden crear unha conta no noso sitio Web. Podes acceder a <a href="http://help.edraak.org">help.edraak.org</a> sen creares unha conta ou podes pedir aos teus pais ou a un profesor entraren en contacto connosco.'
+  zendesk_too_young_message_markdown: 'Pedimos desculpa, pero os usuarios máis novos non poden crear unha conta no noso sitio Web. Podes acceder a [help.edraak.org](http://help.edraak.org) sen creares unha conta ou podes pedir aos teus pais ou a un profesor entraren en contacto connosco.'
   progress:
     not_started: non iniciado
     in_progress: en progreso

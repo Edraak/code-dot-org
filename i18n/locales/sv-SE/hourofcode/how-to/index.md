@@ -98,7 +98,7 @@ Fixa hörlurar till din klass, eller be eleverna att ta med sig egna, om de övn
 ## Andra Hour of Code resurser för lärare:
 
 - Besök [Hour of Code-forumet](http://forum.code.org/c/plc/hour-of-code) för att få råd, insikt och stöd från andra arrangörer.
-- Läs igenom [ vanliga frågor och svar](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Läs igenom [ vanliga frågor och svar](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## Vad kan jag göra efter Hour of Code?
 

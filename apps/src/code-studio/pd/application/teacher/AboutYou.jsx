@@ -25,7 +25,7 @@ import _ from 'lodash';
 const CSD_URL = 'https://code.org/educate/csd';
 const CSP_URL = 'https://code.org/educate/csp';
 const PD_RESOURCES_URL =
-  'https://support.code.org/hc/en-us/articles/115003865532';
+  'https://help.edraak.org/hc/en-us/articles/115003865532';
 const CS_TEACHERS_URL = 'https://code.org/educate/community';
 const INTERNATIONAL = 'Other country';
 const US = 'United States';

@@ -614,7 +614,7 @@ fi:
     feedback: Anna palautetta
     translate: Auta meitä kääntämään palvelu omalle kielellesi
     support: Tuki
-    support_url: http://support.code.org
+    support_url: http://help.edraak.org
     tos_short: Ehdot
     tos: Käyttöehdot
     privacy: Tietosuojakäytäntö
@@ -761,7 +761,7 @@ fi:
   landing:
     report_bug: Raportoi ongelma
     support: Katso ohjeet
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_resources: Apua ja resursseja
     help_support: Ohjeet ja tuki
     documentation: Dokumentaatio
@@ -861,11 +861,11 @@ fi:
     submit: Jatka
     decline: Sulje
   zendesk_too_young_message: Pahoittelut, nuoremmat käyttäjät eivät voi kirjautua
-    tukisivustollemme. Voit selailla <a href="http://support.code.org">support.code.org</a>
+    tukisivustollemme. Voit selailla <a href="http://help.edraak.org">help.edraak.org</a>
     -sivuja ilman kirjautumista tai pyytää vanhempiasi tai opettajaasi ottamaan yhteyttä
     meihin puolestasi.
   zendesk_too_young_message_markdown: Pahoittelemme, mutta nuoret käyttäjät eivät
-    voi kirjautua tukisivustollemme. Voit selailla [support.code.org](http://support.code.org)
+    voi kirjautua tukisivustollemme. Voit selailla [help.edraak.org](http://help.edraak.org)
     -sivuja ilman kirjautumista tai pyytää vanhempiasi tai opettajaasi ottamaan meihin
     yhteyttä puolestasi.
   progress:

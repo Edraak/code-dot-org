@@ -98,7 +98,7 @@ Në rast se tutoriali juaj funksionon më mirë me zë, vini në dizpozicion kuf
 ## Burime të tjera për Orën e Kodimit për mësuesit:
 
 - Vizitoni [Forumin e orës së Kodimit](http://forum.code.org/c/plc/hour-of-code) për të marrë këshilla, njohuri dhe mbështetje nga organizatorët e tjerë.
-- Shiko [FAQ e Orës së Kodimit](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code).
+- Shiko [FAQ e Orës së Kodimit](https://help.edraak.org/hc/en-us/categories/200147083-Hour-of-Code).
 
 ## Çfarë vjen pas Orës së Kodimit?
 

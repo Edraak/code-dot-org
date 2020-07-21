@@ -359,7 +359,7 @@ bs:
     feedback: 'Pošalji povratne informacije'
     translate: 'Pomozi nam prevesti na vaš jezik'
     support: 'Pomoć i Zajednica'
-    support_url: 'http://support.code.org'
+    support_url: 'http://help.edraak.org'
     tos_short: 'Uvjeti'
     tos: 'Uvjeti'
     privacy: 'Pravila Privatnosti'
@@ -460,7 +460,7 @@ bs:
   landing:
     report_bug: "Prijavi Grešku"
     support: "Potraži Pomoći"
-    support_url: "//support.code.org"
+    support_url: "//help.edraak.org"
     help_support: "Pomoć i podrška"
     documentation: "Dokumentacija"
   free_response:
@@ -532,8 +532,8 @@ bs:
       other: "Ostalo"
     submit: "Potvrdi"
     decline: "Zatvori"
-  zendesk_too_young_message: 'Nažalost, mlađi korisnici se ne mogu prijaviti na našu stranicu za podršku. Možeš pregledavati <a href="http://support.code.org"> support.code.org</a> bez prijavljivanja ili pitaj roditelje ili učitelja da nas kontaktiraju umjesto tebe.'
-  zendesk_too_young_message_markdown: 'Nažalost, mlađi korisnici se ne mogu prijaviti na našu stranicu za podršku. Možeš pregledavati [support.code.org](http://support.code.org) bez prijavljivanja ili pitaj roditelje ili učitelja da nas kontaktiraju umjesto tebe.'
+  zendesk_too_young_message: 'Nažalost, mlađi korisnici se ne mogu prijaviti na našu stranicu za podršku. Možeš pregledavati <a href="http://help.edraak.org"> help.edraak.org</a> bez prijavljivanja ili pitaj roditelje ili učitelja da nas kontaktiraju umjesto tebe.'
+  zendesk_too_young_message_markdown: 'Nažalost, mlađi korisnici se ne mogu prijaviti na našu stranicu za podršku. Možeš pregledavati [help.edraak.org](http://help.edraak.org) bez prijavljivanja ili pitaj roditelje ili učitelja da nas kontaktiraju umjesto tebe.'
   progress:
     not_started: nije započeto
     in_progress: u toku
