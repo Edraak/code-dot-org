@@ -202,6 +202,7 @@ videos.showVideoDialog = function(options, forceShowVideo) {
     .addClass('download-video')
     .css('float', 'left')
     .attr('href', options.download)
+    .attr('hidden', true)// EDRAAK hide download button
     .click(function() {
       // track download in Google Analytics
       trackEvent('downloadvideo', 'startdownloadvideo', options.key);

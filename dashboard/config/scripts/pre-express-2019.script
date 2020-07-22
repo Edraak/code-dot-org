@@ -210,11 +210,3 @@ level 'courseB_playlab_eventsFP_2019'
 bonus 'courseB_playlab_events_challenge1_2019'
 bonus 'courseB_playlab_events_challenge2_2019'
 
-INSERT INTO `script_levels` (`id`, `script_id`, `chapter`, `created_at`, `updated_at`, `stage_id`, `position`, `assessment`, `properties`, `named_level`, `bonus`)
-VALUES
-	(23128, 393, 127, '2020-07-01 13:41:54', '2020-07-01 13:41:54', 3598, 5, NULL, '{}', NULL, NULL),
-	(23129, 393, 128, '2020-07-01 13:41:54', '2020-07-01 13:41:54', 3598, 6, NULL, '{}', NULL, NULL),
-	(23130, 393, 129, '2020-07-01 13:41:55', '2020-07-01 13:41:55', 3598, 7, NULL, '{}', NULL, NULL),
-	(23131, 393, 130, '2020-07-01 13:41:55', '2020-07-01 13:41:55', 3598, 8, NULL, '{}', NULL, NULL),
-	(23132, 393, 131, '2020-07-01 13:41:55', '2020-07-01 13:41:55', 3598, 9, NULL, '{}', NULL, 1),
-	(23133, 393, 132, '2020-07-01 13:41:55', '2020-07-01 13:41:56', 3598, 10, NULL, '{}', NULL, 1);

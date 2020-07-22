@@ -11,8 +11,9 @@
       %a{href: '#videoTabContainer'}
         = I18n.t('video.tab')
         %span.video-name
-    %li
+    %li{style: 'display: none;'}
       %a{href: '#notes-outer'}= I18n.t('video.notes')
+    -# EDRAAK hide video notes
 
 - if @script_level
   - level_data = { redirect_script_url: @redirect_script_url, script_name: @script_level.script&.name, course_name: @script_level.script&.course&.name }
