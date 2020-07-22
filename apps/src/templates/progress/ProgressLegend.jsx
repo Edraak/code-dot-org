@@ -5,6 +5,7 @@ import i18n from '@cdo/locale';
 import ProgressBubble from './ProgressBubble';
 import FontAwesome from '../FontAwesome';
 import {LevelStatus} from '@cdo/apps/util/sharedConstants';
+import {getStore} from '@cdo/apps/redux';
 
 const styles = {
   table: {
@@ -40,6 +41,11 @@ const styles = {
   },
   rightBorder: {
     borderRightStyle: 'solid',
+    borderWidth: 2,
+    borderColor: color.lightest_gray
+  },
+  leftBorder: {
+    borderLeftStyle: 'solid',
     borderWidth: 2,
     borderColor: color.lightest_gray
   },
@@ -101,6 +107,7 @@ export default class ProgressLegend extends Component {
 
     const secondRowRowSpan = 2;
 
+    const isRtl = getStore().getState().isRtl;
     return (
       <table style={styles.table}>
         <thead>
@@ -134,7 +141,9 @@ export default class ProgressLegend extends Component {
         </thead>
         <tbody>
           <tr style={styles.subsequentRow}>
-            <TD style={styles.rightBorder}>{i18n.concept()}</TD>
+            <TD style={isRtl ? styles.leftBorder : styles.rightBorder}>
+              {i18n.concept()}
+            </TD>
             <TD>
               <div style={styles.iconAndText}>
                 <FontAwesome icon="file-text" style={styles.icon} />
@@ -147,7 +156,7 @@ export default class ProgressLegend extends Component {
                 {i18n.video()}
               </div>
             </TD>
-            <TD style={styles.rightBorder}>
+            <TD style={isRtl ? styles.leftBorder : styles.rightBorder}>
               <div style={styles.iconAndText}>
                 <FontAwesome icon="map" style={styles.icon} />
                 {i18n.map()}
@@ -193,7 +202,10 @@ export default class ProgressLegend extends Component {
             <TD>N/A</TD>
           </tr>
           <tr style={styles.subsequentRow}>
-            <TD style={styles.rightBorder} rowSpan={secondRowRowSpan}>
+            <TD
+              style={isRtl ? styles.leftBorder : styles.rightBorder}
+              rowSpan={secondRowRowSpan}
+            >
               {i18n.activity()}
             </TD>
             <TD>
@@ -216,7 +228,7 @@ export default class ProgressLegend extends Component {
                 {i18n.progressLegendAssessment()}
               </div>
             </TD>
-            <TD style={styles.rightBorder}>
+            <TD style={isRtl ? styles.leftBorder : styles.rightBorder}>
               <div style={styles.iconAndTextDiv}>
                 <FontAwesome icon="list-ul" style={styles.icon} />
                 {i18n.question()}
