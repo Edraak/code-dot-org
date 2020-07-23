@@ -90,7 +90,7 @@ module.exports = function(config) {
       showDiff: true
     },
 
-    hostname: 'code.edraakbeta.org',
+    hostname: 'code.edraak.org',
     // web server port
     port: PORT,
 
