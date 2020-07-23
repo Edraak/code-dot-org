@@ -74,6 +74,7 @@ const styles = {
   },
   icon: {
     marginRight: 5,
+    marginLeft: 5,
     size: 20
   },
   center: {
