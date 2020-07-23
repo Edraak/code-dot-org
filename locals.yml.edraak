@@ -38,7 +38,7 @@ use_my_apps: true
 # Until you manually run `rake seedgall` or disable this flag, you won't
 # see changes to: videos, concepts, levels, scripts, trophies, prize providers,
 # callouts, hints, secret words, or secret pictures.
-#skip_seed_all: true
+skip_seed_all: true
 
 
 # Whether to store sprocket asset cache on disk or in memory. Settin: this to
@@ -274,7 +274,7 @@ netsim_max_routers: 20
 netsim_shard_expiry_seconds: 7200
 dcdo_table_name: "dcdo_production"
 gatekeeper_table_name: "gatekeeper_production"
-poste_host: "code.edraakbeta.org"
+poste_host: "code.edraak.org"
 poste_attachment_dir: nil
 poste_smtp_server: "email-smtp.us-east-1.amazonaws.com"
 chef_managed: false
@@ -296,9 +296,8 @@ secret_pictures_csv: nil
 no_https_store: nil
 firebase_debug: nil
 load_locales: nil
-skip_seed_all: nil
 cache_assets_in_memory: nil
-curriculum_languages: ["ar-sa", "en-us"]
+curriculum_languages: ["ar-sa"]
 start_circle_builds_branch: nil
 start_circle_builds_token: nil
 circle_build_num: nil
@@ -314,7 +313,7 @@ dashboard_port: 3000
 dashboard_workers: 8
 dashboard_unicorn_name: "dashboard"
 override_pegasus: nil
-pegasus_host: code.edraakbeta.org
+pegasus_host: code.edraak.org
 pegasus_sock: nil
 pegasus_port: 3000
 pegasus_unicorn_name: "pegasus"
@@ -382,3 +381,4 @@ dashboard_reporting_db_reader: "mysql://root@localhost/rep_dash"
 dashboard_reporting_db_writer: "mysql://root@localhost/rep_dash"
 pegasus_reporting_db_reader: "mysql://root@localhost/rep_peg"
 pegasus_reporting_db_writer: "mysql://root@localhost/rep_peg"
+enrollments_summer_2020_gsheet_key: 123123
