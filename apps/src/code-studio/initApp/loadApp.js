@@ -29,6 +29,8 @@ import queryString from 'query-string';
 import * as imageUtils from '@cdo/apps/imageUtils';
 import trackEvent from '../../util/trackEvent';
 import msg from '@cdo/locale';
+import {requestCertificate} from './edraakCertificate';
+
 
 // Max milliseconds to wait for last attempt data from the server
 var LAST_ATTEMPT_TIMEOUT = 5000;
@@ -210,7 +212,14 @@ export function setupApp(appOptions) {
         });
         dialog.show();
       } else if (lastServerResponse.nextRedirect) {
-        window.location.href = lastServerResponse.nextRedirect;
+        var course_name_match = lastServerResponse.nextRedirect.match(
+          /\/\/[\w\.:]+\/congrats\/([\w-_]+)$/
+        );
+        if (course_name_match) {
+          requestCertificate(course_name_match[1]);
+        } else {
+          window.location.href = lastServerResponse.nextRedirect;
+        }
       }
     },
     showInstructionsWrapper: function(showInstructions) {

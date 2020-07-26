@@ -28,6 +28,8 @@ Dashboard::Application.routes.draw do
 
   get "/congrats", to: "congrats#index"
 
+  get "/edraak_code_certificate/:cert_file_name.:image_ext", to: "edraak_code_certificate#edraak_render_certificate"
+
   resources :activity_hints, only: [:update]
 
   resources :hint_view_requests, only: [:create]
