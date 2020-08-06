@@ -227,10 +227,7 @@ def certificate_template_for(course)
   elsif ScriptConstants.script_in_category?(:twenty_hour, course)
     '20hours_certificate.jpg'
   else
-    # Edraak Specific: use Edraak's image instead of default
-    # 'blank_certificate.png'
-    'edraak_blank_certificate.png'
-    # End of Edraak Specific
+    'blank_certificate.png'
   end
 end
 

@@ -75,8 +75,8 @@ def edraak_create_course_certificate_image(name, course=nil, sponsor=nil, course
   course ||= ScriptConstants::HOC_NAME
   course_title ||= fallback_course_title_for(course)
   font = 'Arial bold'
-  image = Magick::Image.read(pegasus_dir('sites.v3', 'code.org', 'public', 'images', 'edraak_certificate.png')).first
-  is_rtl = (lang == 'ar-SA')
+  image = Magick::Image.read(dashboard_dir('public', 'edraak_certificate.png')).first
+  is_rtl = true # (lang == 'ar-SA') always Arabic
 
   x_mid_1 = -300
   x_mid_2 = 1080
@@ -117,7 +117,7 @@ def edraak_create_course_certificate_image(name, course=nil, sponsor=nil, course
   edraak_apply_text(image, text[1], 48, font, 'rgb(255,255,255)', x_mid_2, -420, 272, 80, is_rtl)
   edraak_apply_text(image, text[2], 48, font, 'rgb(255,255,255)', x_mid_2, -340, 272, 80, is_rtl)
 
-  edraak_logo = Magick::Image.read(pegasus_dir('sites.v3', 'code.org', 'public', 'images', 'edraak_logo.png')).first
+  edraak_logo = Magick::Image.read(dashboard_dir('public', 'edraak_logo.png')).first
   edraak_logo.gravity = Magick::CenterGravity
   edraak_logo.resize_to_fit!(750, 350)
   image.composite!(edraak_logo, Magick::CenterGravity, logo_x_offset, -770, Magick::OverCompositeOp)
