@@ -1749,5 +1749,9 @@ a.WireframeButtons_active, div.WireframeButtons_active {
   margin-left: -400px;
 }
 
+.blocklyDropdownMenu {
+  position: absolute !important;
+}
+
 @import "RotateContainer";
 @import "HideToolbarHelper";
