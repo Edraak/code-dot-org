@@ -257,8 +257,8 @@ class ChannelsApi < Sinatra::Base
     dont_cache
     content_type :json
 
-    value = channel_policy_violation?(id)
-    {has_violation: value}.to_json
+#     value = channel_policy_violation?(id)
+    {has_violation: false}.to_json
   end
 
   #
