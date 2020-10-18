@@ -271,12 +271,12 @@ class ChannelsApi < Sinatra::Base
     content_type :json
     language = request.language
 
-    value = explain_share_failure(id)
-    intl_value = language != 'en' ?
-      explain_share_failure(id, language) : nil
+#     value = explain_share_failure(id)
+#     intl_value = language != 'en' ?
+#       explain_share_failure(id, language) : nil
     {
-      share_failure: value,
-      intl_share_failure: intl_value,
+      share_failure: false,
+      intl_share_failure: false,
       language: language
     }.to_json
   end
