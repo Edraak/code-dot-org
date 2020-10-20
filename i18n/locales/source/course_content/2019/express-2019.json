@@ -816,7 +816,6 @@
     "authored_hints": {
       "courseC_artist_loop1_a": "You don't need to make any changes to the loop, just put one block above it.",
       "courseC_artist_loop1_b": "This is the block you will need to set a pattern:\n\n[blockly block][0]\n\nChoose any pattern you like!",
-      "": ""
     }
   },
   "https://studio.code.org/s/express-2019/stage/7/puzzle/4": {
