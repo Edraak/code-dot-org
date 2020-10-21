@@ -20,9 +20,9 @@
     %a.btn.btn-primary.next-stage
       = t('next_stage')
 
-    - if video && video.download
-      %a.video-download.btn.pull-right{href: video.download}
-        = t('video.download')
+    -#- if video && video.download
+    -#  %a.video-download.btn.pull-right{href: video.download}
+    -#    = t('video.download')
 
     - if show_lesson_plans
       - if pdfs
