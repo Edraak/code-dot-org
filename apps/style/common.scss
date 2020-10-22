@@ -1753,5 +1753,9 @@ a.WireframeButtons_active, div.WireframeButtons_active {
   position: absolute !important;
 }
 
+.qtip-pos-tl > .qtip-tip {
+    left: auto !important;
+    right: 8px !important;
+}
 @import "RotateContainer";
 @import "HideToolbarHelper";
