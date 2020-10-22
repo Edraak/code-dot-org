@@ -187,7 +187,7 @@ class ProgressBubble extends React.Component {
     let tooltipText =
       levelName || (level.isUnplugged && i18n.unpluggedActivity()) || '';
     if (number) {
-      tooltipText = `${number} ${tooltipText}`; // EDRAAK delete the dot
+      tooltipText = `${number}`; // EDRAAK delete the dot
     }
 
     const tooltip = (
