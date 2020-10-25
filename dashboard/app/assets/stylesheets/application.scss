@@ -1341,11 +1341,11 @@ body.iframe_embed_app_and_code {
     width: $startWidth + $growth;
     height: $startHeight + $growth;
   }
-
-  html[dir=rtl] &, .flip-x-close & {
-    right: auto;
-    left: $cornerOffset;
-  }
+  // EDRAAK FIX QTIP
+  //html[dir=rtl] &, .flip-x-close & {
+  //  right: auto;
+  //  left: $cornerOffset;
+  //}
   html[dir=rtl] &:hover, .flip-x-close &:hover {
     right: auto;
     left: $cornerOffset - $movement;
@@ -1363,7 +1363,7 @@ body.iframe_embed_app_and_code {
 }
 
 .x-close {
-  @include close-button($cornerOffset: -20px);
+  @include close-button($cornerOffset: -30px);
 }
 
 .qtip-content {
@@ -1400,7 +1400,7 @@ html[dir=rtl] .qtip-content {
 }
 
 .tooltip-x-close.qtip-icon {
-  @include close-button($cornerOffset: -20px);
+  @include close-button($cornerOffset: -30px);
 }
 
 a.download-video {
