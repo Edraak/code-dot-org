@@ -1,4 +1,4 @@
-#studio_url: code.edraakbeta.org
+#studio_url: code.edraak.org
 
 
 # Example configuration file set up with sensible defaults for local development.
@@ -111,7 +111,7 @@ skip_seed_all: true
 #   `mailcatcher --ip:0.0.0.0`
 #use_mailcatcher: true
 
-#dashboard_domain: 'code.edraakbeta.org'
+#dashboard_domain: 'code.edraak.org'
 dashboard_sock: '/tmp//tmp/puma.sock'
 
 
