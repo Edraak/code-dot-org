@@ -1140,16 +1140,15 @@ input.header_input {
   cursor: pointer;
 }
 
-// EDRAAK hide finish button
-//.header_finished_link {
-//  display: inline-block;
-//  font-size: 16px;
-//}
-//
-//.header_finished_link:hover {
-//  background-color: transparent;
-//  text-decoration: underline;
-//}
+.header_finished_link {
+  display: inline-block;
+  font-size: 16px;
+}
+
+.header_finished_link:hover {
+  background-color: transparent;
+  text-decoration: underline;
+}
 
 .header_popup_link:hover {
   background-color: transparent;
@@ -3836,4 +3835,8 @@ $font-color: #5d5e70;
 // edraak hacks margin to the top of the table
 .fa-caret-down+span {
   margin-right: 10px;
+}
+// edraak hacks margin to the top of the table
+.header_finished_link {
+  display: none;
 }
