@@ -63,9 +63,6 @@ level 'courseA_harvester_seq11_2019', progression: 'Practice'
 level 'courseA_harvester_seq13_2019', progression: 'Practice'
 
 lesson_group 'csf_loops', display_name: 'Loops'
-lesson 'Loops: Getting Loopy'
-level 'GettingLoopy-Unplugged'
-
 lesson 'Loops in Harvester'
 level 'courseA_harvester_loops1_2019', progression: 'Practice'
 level 'courseA_harvester_loops2_2019', progression: 'Practice'

@@ -128,22 +128,6 @@ level 'courseC_harvester_loops11_predict1_2019', progression: 'Predict'
 bonus 'courseC_harvester_loops_challenge1a_2019'
 bonus 'courseC_harvester_loops_challenge2_2019'
 
-lesson 'Looking Ahead'
-level 'Overworld Move to Sheep_2019', progression: 'Practice'
-level 'Overworld Chop Tree_2019', progression: 'Practice'
-level 'Overworld Shear Sheep_2019', progression: 'Practice'
-level 'Overworld Chop Trees_2019', progression: 'Practice'
-level 'Overworld Place Wall_2019', progression: 'Practice'
-level 'Overworld House Frame Chosen_2019', progression: 'Practice'
-level 'Overworld Plant Crops_2019', progression: 'Practice'
-level 'Overworld Avoid Monsters_2019', progression: 'Practice'
-level 'Underground Mining Coal_2019', progression: 'Practice'
-level 'Underground Iron_2019', progression: 'Practice'
-level 'Underground Avoiding Lava_2019', progression: 'Challenge', challenge: true
-level 'Underground If Statements_2019', progression: 'Challenge', challenge: true
-level 'Overworld Powered Minecart_2019', progression: 'Practice'
-level 'Overworld Free Play 20x20_2019', progression: 'Free Play'
-
 lesson 'Sticker Art with Loops'
 level 'courseC_artist_loops1a_2019', progression: 'Mini-project: Sticker Design'
 level 'courseC_artist_loops1b_2019', progression: 'Mini-project: Sticker Design'
