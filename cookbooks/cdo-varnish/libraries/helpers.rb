@@ -23,7 +23,7 @@ def canonical_hostname(domain)
 end
 
 def dashboard_hostname
-  canonical_hostname('code.edraakbeta.org')
+  canonical_hostname('code.edraak.org')
 end
 
 def pegasus_hostname

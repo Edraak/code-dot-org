@@ -72,7 +72,7 @@ module Cdo
     end
 
     def dashboard_hostname
-      canonical_hostname('code.edraakbeta.org')
+      canonical_hostname('code.edraak.org')
     end
 
     def pegasus_hostname
@@ -103,7 +103,7 @@ module Cdo
     end
 
     def studio_url(path = '', scheme = '')
-      site_url('code.edraakbeta.org', path, scheme)
+      site_url('code.edraak.org', path, scheme)
     end
 
     def code_org_url(path = '', scheme = '')
