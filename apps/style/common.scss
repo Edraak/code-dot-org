@@ -1134,6 +1134,7 @@ $workspace-header-button-margin: ($workspace-headers-height - $workspace-header-
 .blocklyText, .blocklyMenuText, .blocklyTreeLabel, .blocklyHtmlInput,
     .blocklyIconMark, .blocklyTooltipText, .goog-menuitem-content {
   @include font;
+  min-width: 34px;
 }
 
 .blocklyRectangularDropdownMenu {
